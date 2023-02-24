@@ -1,3 +1,17 @@
+<schemaSpec ident="TEI-PROJECT" start="TEI">
+ <moduleRef key="tei"/>
+ <moduleRef key="header"/>
+ <moduleRef key="core"/>
+ <moduleRef key="textstructure"/>
+ <moduleRef key="msdescription"/>
+<!-- manuscript description -->
+ <moduleRef key="transcr"/>
+<!-- transcription of primary sources -->
+ <moduleRef key="figures"/>
+<!-- figures and tables -->
+ <moduleRef key="namesdates"/>
+<!-- names, dates, people, and places -->
+</schemaSpec>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
       <fileDesc>
