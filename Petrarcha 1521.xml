@@ -3,7 +3,12 @@
   <teiHeader>
     <fileDesc>
         <titleStmt>
-          <title type="main">IL PERTARCHA</title>
+          <title type="short">IL PERTARCHA</title>
+          <title type="main">SONETTI ET CANZONI
+            DI MESSER
+            FRANCESCO PETRARCHA
+            IN VITA 
+            DI MADONNA LAVRA.</title>
           <author>Francesco Petrarcha</author>
           <respStmt>
             <resp>Copy edited from OCR</resp>
@@ -64,15 +69,10 @@
     <front>
     </front>
     <body>
-      <p n="03">
-      Petrarcha 
-
-IL PETRARCHA.
-003
-
-A GLILETTORI.
-
-Tralle Molte humane passioni, allequai sia-
+      <pb facs="002.jpg"/>
+      <fw type="heading">A GLILETTORI.</fw>
+       <p>
+TRALLE Molte humane passioni, allequai sia-
 mo soggetti noi museri mortali; lo amore per certo è
 quella; che in questo breue corso do uita con piu 
 acuto stimolo co torme[n]ta, et afflige. Et intanto il piu
@@ -101,8 +101,8 @@ do lungamente sia stato inuolto? Chi non sente con
 quanta dolcezza di parile, cia cuna per se et tut-
 te insieme considerate, egli la sua donna con eterne
 
-004
-							2
+<pb facs="004.jpg"/>
+
 lode inalzie stesso parimente facendo eterno? Che
 non sono si uaghi nella primauera e fiori de uer-
 di prati, ne de colli i riuestiti arboscelli; come sono
@@ -1632,8 +1632,7 @@ Questi preghi mortali amore sguarda.
 Non prego gia; ne puote hauer piu loco,
 Che misuramente il mio cor arda,
 Ma che sua parte habbia ostei del foco.
-      </p>
-
+       </p>
     </body>
     <back>
       <!--  [ back matter ...  ] -->
