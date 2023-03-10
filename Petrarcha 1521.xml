@@ -69,7 +69,7 @@
     <front>
     </front>
     <body>
-      <pb facs="002.jpg"/>
+      <pb type="prologue" facs="002.jpg"/>
       <fw type="heading">A GLILETTORI.</fw>
        <p>
 TRALLE Molte humane passioni, allequai sia-
@@ -101,7 +101,7 @@ do lungamente sia stato inuolto? Chi non sente con
 quanta dolcezza di parile, cia cuna per se et tut-
 te insieme considerate, egli la sua donna con eterne
 
-<pb facs="004.jpg"/>
+<pb n="2" facs="004.jpg"/>
 
 lode inalzie stesso parimente facendo eterno? Che
 non sono si uaghi nella primauera e fiori de uer-
@@ -128,19 +128,20 @@ speranze, le gioie.Et alla fine sanza fallo alcuno
 celebrando le loro donne essi anchora rimarran-
 no dopo la morte con perpetua fama al mondo
 uiui [et] celebrati.
-
-					a   ii
-
-005
-
+       </p>
+         <fw type="catchword">a   ii</fw>
+					
+<pb facs="005.jpg"/>
+<fw type="title">
 SONETTI ET CANZONI
 DI MESSER
 FRANCESCO PETRARCHA
 IN VITA 
 DI MADONNA LAVRA.
-
-009
-
+</fw>
+<pb facs="009.jpg"/>
+         
+<l>
 La gola, e’l sonno, [et] l’otiose piume
 Hanno del mondo ogni uertu sbandita,
 Ond’e dal corso suo quasi smarrita
@@ -155,8 +156,8 @@ Dice la turba al uil guadagno intesa.
 Pochi compagni haurai per l’altra uia:
 Tanto ti prego piu gentile spirto
 Non lassar la magnanima tua impresa.
-
-
+</l>
+<l>
 A pie d’e colli; oue la bella uesta 
 Prese de le terrene memóra pria
 La donna, che colui, ch’a a te n’enia 
@@ -171,9 +172,10 @@ Vn sol conforto [et] de la morte hauemo:
 Che uendetta e’ di lui, ch’a cio ne mena
 Loqual in forza altrui, presso al’extremo
 Riman legato con maggior catena.
+</l>
 
-010
-				9
+      <pb n="9" facs="010.jpg"/>
+      <l>
 Quando’ l pianeta, che distingue l’hore,
 Ad albergar col tauro si ritorna; 
 Cade uertu da l’infiammate corna,
@@ -188,7 +190,8 @@ In me mouendo d’e begliocchi i rai
 Cria d’amor penseri,,atti,[e] parole:
 Ma come ch’ella gli gouerni, o uolga;
 Primauera per me pur non è mai.
-
+      </l>
+      <l>
 Gloriosa colonna in cui s’appoggia 
 Nostra speranza e’l gran nome Latino,
 Ch’anchor non torse del uero camino
@@ -197,9 +200,9 @@ Qui non palazzi, non theatro, o loggia;
 Ma’n lor uece un’abete, un faggio, un pino
 Tra l’herba uerde, e’l bel monte uicino,
 Onde si scende poetando [e] poggia,
-
-011
-
+      </l>
+<pb facs="011.jpg"/>
+<l>
 Lassare il uelo o per ombra
 Donna non ui uid’io,
 Poi, che in me conosceste il gran desio,
@@ -214,7 +217,8 @@ Que, che piu desiaua in uoi, m’è tolto;
 Si mi gouerna il uelo,
 Che per mia morte [et] al caldo [et] al gielo
 D’e be uostr’occhi il dolce lume adombra.
-
+</l>
+      <l>
 Se la mia uita da l’aspro tormento
 Si puo tanto schermire [e] da gli affanni,
 Ch’i ueggia per uertu de gli ultim’anni
@@ -228,9 +232,9 @@ Qua sono stati glianni e i giorni [e] l’hore:
 Et sel tempo e’ contrario a i be desiri;
 Non fia, ch’almen non giunga al mio dolore
 Alcun soccorso di tardi sospiri.
-
-012
-					6
+      </l>
+<pb n="6" facs="012.jpg"/>
+<l>      
 Quando fra Paltre donne adhora adhora
 Amor uien nel bel uiso di costei;
 Quanto ciascua e’men bella di lei;
@@ -245,7 +249,8 @@ Poco prezzando quel, ch’ogni huom desia:
 Da lei uien l’animosa leggiadria;
 Ch’al ciel i scorge per destro sentero.
 Si, ch’i uo ggia de la speranza altero.
-
+</l>
+      <l>
 Occhi miei lassi; mentre ch’io ui giro
 Nel bel usio di quella, che u’ha morti; 
 Pregoui, siate accorti:
@@ -260,7 +265,8 @@ Pero dolento anziche sian uenute
 L’hore del pianto, che son gia uicine,
 Prendete hor’ a la fine
 Breue conforto a si lungo martiro.
-
+      </l>
+      <l>
 013
 Io mi riuolgo indietro a ciascun psso
 Col corpo stanco, ch’a gran pena porto;
@@ -1632,7 +1638,7 @@ Questi preghi mortali amore sguarda.
 Non prego gia; ne puote hauer piu loco,
 Che misuramente il mio cor arda,
 Ma che sua parte habbia ostei del foco.
-       </p>
+       </l>
     </body>
     <back>
       <!--  [ back matter ...  ] -->
