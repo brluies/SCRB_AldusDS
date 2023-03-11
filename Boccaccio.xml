@@ -3,13 +3,11 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="short">IL PERTARCHA</title>
+                <title type="short">IL DECAMERONE</title>
                 <title type="main">SONETTI ET CANZONI
-                    DI MESSER
-                    FRANCESCO PETRARCHA
-                    IN VITA 
-                    DI MADONNA LAVRA.</title>
-                <author>Francesco Petrarcha</author>
+                    DEL DECAMERONE DI M.
+                    GIOVANNI BOCCACCIO</title>
+                <author>Giovanni Boccaccio</author>
                 <respStmt>
                     <resp>Copy edited from OCR</resp>
                     <name>Luies, Brenda</name>
@@ -38,12 +36,7 @@
                                 DI MADONNA LAVRA</title>
                             <title type="short">Il Petrarcha</title>
                             <docImprint>
-                                Impresso in Vinegia nelle case d’Aldo 
-                                Romano, [e] d’Andrea Asola
-                                no suo sucero nel’anno
-                                M. D. X X I
-                                del mese di
-                                Giulio
+                                Impresso in Vinegia 
                             </docImprint>
                             <docEdition>1</docEdition>
                             <docDate when="1521"/>
