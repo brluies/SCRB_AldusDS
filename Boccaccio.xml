@@ -1,0 +1,1324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="short">IL PERTARCHA</title>
+                <title type="main">SONETTI ET CANZONI
+                    DI MESSER
+                    FRANCESCO PETRARCHA
+                    IN VITA 
+                    DI MADONNA LAVRA.</title>
+                <author>Francesco Petrarcha</author>
+                <respStmt>
+                    <resp>Copy edited from OCR</resp>
+                    <name>Luies, Brenda</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Aldus Manutius</publisher>
+                <date when="1521">1521</date>
+                <pubPlace>London</pubPlace>
+                <idno type="call">PQ 4495 A2 1521</idno>
+                <idno type="cdm">Petrarch 1521</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>SFU Special Collections</repository>
+                        <idno type="call">PQ 4495 A2 1521</idno>
+                        <idno type="cdm">PETRARCH 1521</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <title type="main">SONETTI ET CANZONI
+                                DI MESSER
+                                FRANCESCO PETRARCHA
+                                IN VITA 
+                                DI MADONNA LAVRA</title>
+                            <title type="short">Il Petrarcha</title>
+                            <docImprint>
+                                Impresso in Vinegia nelle case d’Aldo 
+                                Romano, [e] d’Andrea Asola
+                                no suo sucero nel’anno
+                                M. D. X X I
+                                del mese di
+                                Giulio
+                            </docImprint>
+                            <docEdition>1</docEdition>
+                            <docDate when="1521"/>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="unknown">
+                            <supportDesc>
+                                <extent>
+                                    <measure unit="pages" quantity="184"/>
+                                    <measure unit="volumes" quantity="1"/>
+                                </extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <bindingDesc>
+                            <p> green morocco binding, gilt edges, the sides tooled in gold in Grolier style by Durer</p>
+                        </bindingDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+        </front>
+        <body>
+     <p>
+AL REVEREN. M. ROBERTO MAGIO
+Proton. Apost.[olo?] [[e]] digniss. secret.del Reuerendiss.
+Mons. Altobello Aueroldo, Legnto Apost.
+nella inclita Citta et Domino di Vi—
+negia, Francesco Asolano
+
+G	RANTEMPOHA, REVERENDO
+
+[e] sempre da me offernando Messer Roberto mio,
+chella presente opera, chiamata il Decamerone
+dello Eccellente . M. Giouanni Boccaccio, nel suo
+primo stato; [e] alla sua uera [e] sana lettione ri=
+dotta, so come al presente [e], dalla ricordeuole memoria di M.Aldo
+Manutio Romano mio cognato ; sarebbe state mandata fuori,
+sella morte de pensieri humani spesse fiate importuna perturba- 
+trice ; interposta non ui si fusse : la quale  allo improuiso assalen=
+dolo. fu ragione che ; non solamente questa una, ma [enandio] mol=
+te altre lodeuoli imprese da lui, come da quegli che mentre uisse 
+niuna altrea cura che di giouare a uiuentu hebbe maggiore , ad
+utlilita delle lettere ; [e] de gli studiosi di quelle cominciate , im=
+perfette rimanessero . Et certamente non era mio intendimento, tra 
+che per la irrecuperabile perdita di lui anchora tutto stordito mė
+trouaua, tra che per le molte altre occupationi mie mal ageuole
+sentinami, di recare al disiderato fine questa sua principata fati-
+ca, se uoi [e] di questa lingua; et d’ogni altra scienza [e] uirtu
+ardentissimo amatore siete, gogli sproni delle es?hortationi uostre
+non m’hauesce punto. Essendo adunque ella al presente, la buona
+merce d’Iddio, ad persuasione uostra peruenuta al fine, che anche
+sotto l’ombra del uostro gentil nome fuori ne esect; diceuole m’é
+paruto : si perche da coloro a quai questa mia fatica piacera, a 
+uoi, che in gran parte cagione stato ne siete, [e] recognitione [e]
+gratitudine hauuta ue ne sia; si anchora perche in qualche par=
+te [e] a uoi ; [e] al mondo tutto perpetuo te stimonio [e] fede sia;
+dell’amore [e] osseruanza mia usero di voi. Ne deuete sdegnare 
+che da me sotto’l nome uostro compiuta [e] a uoi dirizzarn sia, pa-
+rendoui perauennura, per esser pera  in uolgar lungua i[n]scritta; [e]
+che in se cose piaceuoli [e] giocose anziche no contiene, non molto 
+al stato [e] professione uosira conueneuole: percio che, doue la ue-
+								     rita
+pg 2
+
+rita con giudicioso occhio riguardar uogliamo, non a minor loda
+ueggiamo hoggi di arecarsi lo elegante [e] dottamente parlar uol-
+gare; che il latino, ne con minor dignita [e] leggiadria con esso
+potersi spiegare tutti e nostri concetti; che collatino si faccia, [e] cosi
+bene potersi con esso trattare tutti gliati sergreti, [e] profondi mi-
+steri [e] di Philosophia [e] di Theologia [e] d’ogni altra scienza,
+come in altra Imagina che sia, far si pessa: sicome ueggiamo [e]
+lo autore istessi in molti luoghi hauere fatto, et Dante, et Petrarcha,
+[e] dopo questi il Conte Giouanni Pico dalla mirandola; nel co-
+mento sopra la Canzone d’amore di Girolamo Beniuieni Fiorenti-
+no; secondo lo intendimunto de Platonici; [e] moltialtri assai. Meno
+anchora da uoi sprezzata esser dee, perche Nouelle racconti, per-
+cio che, [e] per tui nouelle, doue leggendtole diritamente a quelle
+l’arco dell’intelletto uogliamo tendere, [e] a che fine elle i[n]scritte
+fussero riguardare, [e] che seguire; [e] che fuggire; [e] da che guar=
+darci; [e] a che appigliarci in questa uita dobbiamo, come uoi (tan=
+to, [e] forse me ch’ognaltro) saper douete, acconciamente apparare 
+possiamo. Picciolo dono, confesso, apetto alla grandezza del di-
+siderio mio [e] del stato uostro, ma non pero del tutto disdiceuole
+alla somma humanita [e] gentilezza uostra: laquale, certo mi ren
+do, per sua natural uirtu [e] bonta, anzi alla  prontezza [e] buon
+uolere del animo [e] cor mio; che alla qualita del dono degnara
+riguardare. 
+
+Pg. (3)
+
+LETTOR, ouunque trouerai scritto bascio, basci, [e] basciare;
+   camiscia, camisi, o camisci, diuocione, ispacio, o spacio, specie, spe
+   cialimente, speciale, o sotto specie, strati, stratiati, istratiate, stratiò
+   uolendo significar panni, o altre robbe stracciate, [e] oracione;
+Leggerai bacio, baci, [e] baciare, camicia, camici, diuotione, ispatio,
+   spatio, spetie, spetialmente, spetiale, sottospetie, stracci, stracciati, istrac
+ciate, stracciò, oratione, [e] altri simili uocit per esser questa la
+propria [e] uera pronontia de fiorentini.
+
+Pg. (4) 3
+
+DEL DECAMERONE DI M.
+GIOVANNI BOCCACCIO
+GIORNATA PRIMA
+
+hVMANA Cosa è lo hauere compassione
+a gliaffitti: [e] come che a ciascuna persona
+istia bene; a coloro massimamente è richiesto;
+liquali gia hanno di conforto hauuto mestie=
+ri; et hannolo trouato in alcuni: fra quali, se
+alcuno mai n’hebbe; o gli fu caro, o gia ne ri
+ceuette piacere; io sono uno di quelli: peio che
+d’alla mia prima giouanezza isino a questo tépo oltra modo essendo
+istato acceso da altissimo [e] nobile amore forse piu assai, che al-
+la mia bassa conditione non parrebbe, narrandolo io, si richiedesse:
+quantunque appo coloro, che discreti erano; et alla cui notitia puen
+ne; io ne fussi lodato; [e] da molto piu reputato : non dimeno mè fu
+egli digrandissima fatica a soffrire; certo non per crudelta della
+donna amata: ma per soperchio amore nella mente conceputo da po
+co regolato appetito; il quale, perchio che a niuno conueneuole termi=
+ne mi lasciaua contento stare , piu di noia, che di bisogno non era;
+spesse uolte sentire mi faceua.Nellaqual noia tanto refrigerio mi por
+sero I piaceuoli ragionamenti d’alcuno amico, [e] le diletteuoli sue
+consolationi; che io proto fermissima oppenione per quello essere aue
+nuto, che non sia morto:Ma, si come a colui piacque, il quale essendo
+egli infinito, diede per legge incommutabile a tutte le cose mondane
+hauere fine; il mio amore oltre ad ogni altro feruente, [et[ ilquale
+niuna forza di proponimento,o di consiglio, o di uergogna euidente;
+o pericolo, che seguire ne potesse; haueua potuto ne rompere , ne pie
+gare , per se medesimo in processo di tempo si diminui in guisa ; che
+solo di se nella mente mi ha al presente lasciato quel piacere; ch’egli
+e’usato di porgere a chi troppo nó si mette n’e suoi piu cupi pelaghi
+nauicando: perche doue faticoso essere soleua ogni affanno, togliendo
+uia, diletteuole il sento essere rimaso : Ma quantunque cessata sia la
+pena; non percio è la memoria fuggita d’e benefici gia receuuti da-
+timi da coloro; aquali per beniuolenza da loro a me portata, erano
+garui le mie fatiche; ne passera mai( si com’io credo) se non [per] mor=
+te: Et perchio chella gratitudine( secondo ch’io credo)fra l’altriuir-
+te é sommamente da commendare; [e] contrario da biasimare;
+		           a iii
+
+Pg (5)
+
+GIORNATA
+per non parere ingrato, ho meco stesso proposto di uoler in quel po
+co, che per me si puo, in cambbio dicio, che io riceuetti; hora che libe-
+ro dire mi posso; [e] se non a coloro, che mi aiutorono; aquali pera-
+uentura per loro senno, o per la loro buona uentura non bisogna;
+a quegli almeno, aquali fa luogo alcuno alleggiamento prestare: Et
+quantunque il muo sostenimento, o conforto che uogliamo dire posa
+essere, et sia a bisognosi assai poco; non dimeno parmi quello douersi
+piu tosto porgere, doue il bisogno apparisce maggiore; si perche piu
+utilita far auui; [e] si anchora a perche, piu ui fie caro hauuto. Et chi
+neghera questo, quantunque egli si sia, non molto piu alle uaghe don
+ne, che a gli huomuni conuenirsi donare? Esse dentro a dilicati petti
+temendo, [e] uergognando, tengono l’amorose fi amme ascose; lequali
+quanto piu di forza habbiano;chelle palesi ; coloro il sanno bene;
+chell’hanno prouato; [e] prouano: et oltre accio ristrette da uoleri,
+da piaceri da commandamenti d’e padri, delle madri, d’e frategli, et
+d’e mariti piu del tempo nel piccolo circoito delle loro camererin
+chiuse dimorano: [e] quasi otiose sedendosi uolendo, [e] non uolendo
+in una medesima hora seco riuolgono diuersi pensieri: iquali, non è
+possible, che sempre siano allegri: Et se per quegli alcuna manin-
+conia mossa da focoso disio soprauiene nelle loro menti, in quelle con
+uiene, che con graue noia si dimori , se da nuoui ragionamenti non
+è rimossa; sanza ch’elle sono molto men forti, che glihuomeni a so-
+stenere:I lche de gl’innamorati huomini nó auiene ; so come noi pos=
+siamo apertamente uedere. Essi se alcuna maninconia o grauezza di
+pensier gliafige, hanno molti modi di alleggiare, [e] di passar quel
+la;per cio che uolendo essi, non manca a loro andare attorno, udi=
+re, er udere molte cose; uccellare, cacciare, pescare, caualcare, giuoca-
+re, [e] mercatantare: D’equali modi ciascuno ha forza di trarre o 
+in tutto o in parte l’animo a se ; [e] dal noiso pensero rimouerlo
+almeno per alcuno spatio di tempo, apresso ilquale o in un modo
+o in un altro o consolatione  soprauiene; o diuenta la noia minore.
+Adunque, accio che per me in parte s’ammendi il peccato della for=
+tuna; laquale, doue meno era di forza; si come nelle dilicate donne
+ueggiamo; quiui piu auara fu di sostegno; in soccorso [e] rifugio do
+quelle, che amano, (imperchio che all’altre era assai l’ago, e’l fuso,
+[e] l’arcolaio) io intendo di raccontare cento nouelle o fauole o pa=
+rabole o historie, che dire le uogliamo; raccontate in dieci giorni( co-
+me manifestamente apparira)da una honesta grigata do sette donne,
+[e] di tre giouani nel pestilentioso tempo, della passata mortalita
+			fatta; [e]
+
+pg 16.jpg
+
+PRIMA	4
+
+fatta; [e] alcune canzonette dalle predette donne, [e] huomini can-
+tate alloro diletto; nellequali nouelle piaceuoli, [e] aspri casi d’amo=
+re, [e] altri fortunosi auenimenti si udiranno cosi n’e moderni tem
+pi auenuti, come ne gliantichi:delle quali le gia dette dóne, che quel
+le leggeranno ; parimente diletto dalle sollazzeuoli cose in quelle
+mostrate, [e] utile consiglio potranno pigliare ; [e] conoscere quello,
+che sia da fuggire; [e] che sia similniente da seguitare: Lequai cose
+sanza passamento di noia nó cedo, che possono interuenire.Il che
+se auiene( che uogliaIddio, che cosi sia)ad amore ne rendano gra-
+tia; ilquale liber andome da suoi legami mi ha conceduto di pottere
+attendere a lor piaceri.
+Q  uannunque uolte Gratiose, [e] Nobili Donne meco pensando riguar=
+     do quanto uoi naturalmente tutte pietose siate ; tanto conosco, chella
+presente opera al uostro giudicio haura graue,et noioso principo; so
+come è la dolorosa ricordantione della pestifera mortalita trappas-
+sata,uniuersalmente a ciascuno,che quella uide o alirimenti conob
+be dannosa, [e] lagrimeuole molto; laqual essa portanella sua fron
+te:Ma nonuoglio percio che questo di piu auanti leggere ui spauen-
+ti;quasi sempre tra sospiri, [e] tra lagrime leggendo dobbiate trap
+passare. Questo horrido cominciamento ui fie non altrimenti, che a
+caminanti una montagna aspra, et erta; appresso laquale un bellis-
+simo piano , [e] dilettuole sia riposto ; ilquale tanto piu uiene loro
+piaceuole;quanto maggiore è stata più del salire, [e] del scendere
+la grauezza:Et si come la estremitra dell’allegrezza il dolore occu=
+pa; cosi le miserie da soprauegnente letitia sono terminate.A questa 
+brieue noia (dico brieue in quanto in poche lettre si contiene) segui-
+ra prestamente l’allegrezza.[e] il piacere ; ilquale io uiho dauan
+ti promesso, [e] che forse da cosi fatto principio non sarebbe, se non
+si dicesse;aspettato:Et nel uero, se potuto hauesse honestamente per al
+tra parte menarui a quello;ch’io disidero;che per cosi aspro sentiero,
+come Fie questo; io l’harrei uolentieri fatto:Ma percio che,quale fusse
+la cagione, perche l cose, che appresso si leggeranno,auenissono;nó si
+poteua sanza questa ramemoratione dimostrare; quasi di necessita co
+stretto a scriuerla mi conduco.
+Dico adunque, che gia erano glianni della fruttifera incarnatione del
+figliuol d’Iddio al numero peruenuti di Milletrecentoquarantotto,
+quanddo nella egregia citta I Firenze oltre ad ognialtra in Italia
+noblissima peruenne la mortisera pestilenza; laquale o per ope-
+ratione d’e corpi superiori, o per nostre inique opere da giusta ira 
+				a iii
+
+PAGES MISSING?
+P 17jpg
+GIORNATA
+
+d’iddio a nostra correttrione mandata sopra mortali, alquanti anni
+dauanti nelle parti orientali incominciata , quelle d’innumerabile
+quantita di uiuenti hauendo priuate sanza restare d’un luogo in
+un’altro continouandosi inuerso l occidete misrabilmente s’era ap
+pigliata:[e] in quella non ualendo alcuno senno, ne humano pro-
+uedimento; per loquale fu da molte immonditie purgita la citta da
+ufficiali sopra cio ordinati: [e] uietato l’entrarui dentro a ciascuno
+infermo, [e] molti consigli dati a conseruatione della citta;ne anchooo
+ra humili supplicationi non una uolta , a ma molte [e] in processioni
+ordinate, [e] in altre guise ad Iddio fatte dalle diuote persone; quasi
+nel principio della primauera dell’anno predetto horribilmente in-
+comincio suoi dolorosi effetti con miracolosa maniera a dimostrare:
+[e] non come in orinete haueua fatto; doue a chiunque usciua san=
+gue del naso; era manifesto segno d’ineuitabil morte;ma nasceuano
+nel cominciamento d’essa a maschi , [e] a femmine parimente nel-
+l’anguinaia a sotto le ditella enfiature; dellequali alcune cre-
+sceuano, come una communale mela, altre come uno uouo, [e] altre
+piu, [e] altre meno: lequali li uolgari nominauano gauocciuoli: [e]
+dalle due parti predette del corpo infra brieue spatio di tempo co-
+mincio il gia detto gauocciuolo mortisero indifferentemente in ogni
+parte di quello a nascere, [e] auenire;[e] appresso qusto s’incomin
+cio la qualita dela predetta infermita a permutare in macchie ne=
+re,  [e] liuide;lequali nelle braccia. [e] per le cosci grandi, in ciascuna
+altra parte del corpo appariuano a molti; a cui grandi , [e] rade,
+[e] a cui minute, [e] spesse::[e] come il gauocciuolo primieramente era
+stato , et anchora era certissimo indico di futura morte; et cosi era-
+no queste a ciascuno;; a cuiueniuano.A cura dellequali infirmita ne
+consiglio di medico, ne uirtu di medicina alcuna pareua, che ualesse,
+o facesse profitto:anzio chella natura del male nol patisse, o chella
+ignoranza d’e medicanti(d’equali,oltre al numero de gli scientiati,
+cosi di femmine, come d’huomini sanza hauere alcuna dottrina di
+medicina hauuta mat;era il numero diuenuto grandissimo) non co-
+noscesse, da che si mouesse, [e] [per] consegeuente debito argomento nó ui
+predesse; non solamente pochi guariuano;;anzi quasi tutti in fral ter
+zo giorno dalla appaatione d’e sopradetti segni ; che piu tosto , [e]
+chi meno, [e] il piu sanza alcuna febbre , o altro accidente moriua-
+no. Et fu questa pestilenza di maggiore forza ; percio che essa da
+g l’infermi di quella per lo comminucare insieme s’auentaua a sané
+non altrimenti,che si faccia il fucco alle cose secche, [e] unte; quan-
+				do moto
+
+Pg 18 jpeg
+PRIMA			5
+
+do molto ui sono auicinate : Et piu auanti anchora hebbe di male;
+che non solameente il parlare , o usare con gl’infermi daua a sani
+infermitade,o ragione di commune morte ; ma anchora il toccare i
+panni o qualunque altra cosa daqugl’infermi stata tocca, o adope
+rata;pareua seco quella cotale infirmita nel toccatore trasportare.
+Marauigliosa cosa e ad udire quello; chee io debbo dire; ilche se da
+gliocchi di molti, [e] da miei non fusse stato uedetuo ; appena che io
+ardissi di crederlo; non che di sriuerlo; quantunque dda persona
+degna di fede udito l’hauessi: DDico che di anta efficacia fu la qualita
+della pestilenza narrata nello appicarsi da unoall’altro ; che non
+solamente da huomo. ad huomo;ma questo che è molto piu ; assai
+uolte uisibilimente fece , cio è chella cosa delll’huomo infermo stato,o
+morto di tale infermita tocca da un’altro animale fuori della spetie
+dell’huomo non solamente della infirmita in contaminasse; ma quel=
+lo infra breuissimospatio occidesse:diche gliocchi miei, ( si come poco
+auanti è detto;)presero intra l’atre uolte un di cosi fatta experien
+za;che essendo gli strati d’uno pouero huomo di cotal infirmita mor
+to ittati nella uia publica;[e] abbatendosi ad essi due porce, liquali
+secondo il loro costume prima molto col griso, [e] poi co denti pre-
+sigli,[e] scossigli alle guanciee in picciola hora apressoo doppo alcu=
+no auolgimento, come se il ueleno hauessero preso ; amendue sopra
+gli mal tratti strati caddero morti in terra: Dallequali cose, [e] da
+assai alttre a queste simiglianti o maggiori nacquero diuerse pau-
+re, [e]imaginationi in quelli;che rimaneuano uiui:[e] tutti quasi ad
+uno fine tirauano assai crudel, cio era del schifare [e] figgure
+gl’inferma [e] le loro cose, [e] cosi facendo si credeua ciascuno a se me
+desimo salure  acquisttare: Et erano alcuni, liquali auisauano, che il
+uiuere moderatamente , [e] il guardarsi da ogni superfluita, douesse
+molto a cosi fatto accidente resistere;[e] fatta loro brigata d’ogni altri
+separati uiuenano; [e] in quelle case raccogliendosi, [e] rinchiuden-
+dosi, doue niuno intermo fusse,[e] auiuere meglio, dilicatissimi cibi,
+[e] ottimi uniè temperatissimamente usano. [e] ogni lussuria fug-
+gendo, sanza lasciari parlare ad alcuno, o uoler di fuori di moti
+o d’infermi alcuna nouella sentire , son suona [e] con queelli piaceri,
+che hauere poteuano; si dimoruano: Altri in contraria oppenio-
+ne tratti afermauano il bere assai, [e] il sodifare d’ogni cosa l’appeti==
+o, che si potesse;[e] di cio che aueniua ridersi [e] beffarsi . essere me-
+dicina certissima a tanto male;[e] cosi, come il diceuano, il mittenuano
+
+pg. 19jpeg
+GIORNATA
+
+in opera allor potere; il giorno [e] la notte hora a quella tauerna
+hora a quell’altra andando, beuendo sanza modo [e] sanza misura:
+Et molto piu per l’altrui case facendo , solamente che cose ui sentis-
+sero;che loro uenisser o a grado oin piacere: Et cio poteuano fare di
+leggieri;percio che ciascuno (quasi non piu uiuere douesse) haueua
+se,[e] le sue cose messe in abbandono; diche le piu delle case erano
+diuenute communi;[e] cosi le usana lo straniero;pur che ad esso s’a=
+uenisse, come l’haurebbe il propio signore usate; [e] con tutto questo
+proponiméto bastiale sempre gl’infermi suggiuano alloro potere:Et
+in tanta afflittione [e] miseria della nostra citta era la reuerenda
+auttorita delle leggi cosi diuine come humane quasi caduta [e] disso-
+tutae tutta per il ministri et essecutori di quelle;liquali, si come glial
+tri huomini erano tutti o morti, o infermi, o di famiglie rimasi stre=
+mi; che ufficio alcuno non poteuano fare:per laqual cosa era a cia=
+scuno lectio, quanto a grado gliera,da operare.Molti altri seruaua
+no intra questi due di sopradetti una mezzana uia, non istrignen-
+dosi nelle uiuande quanto I primi,ne nel bere, ne in altre dissolutio=
+ni allargandosi quanto I secondi; ma a sofficienza secondo gliappeti
+ti loro le cose usauano : [e] sanza rinchiudersi andauano attorno,
+portando nelle mani chi fiori, chi herbe odorifere , [et[ chi diuerse
+maniere di spetiarie,quelle al naso ponendosi spesso stimando essere
+cosa ottima il cielabro con cotali odori confortare ; concio fusse cosa
+cell’aria tutto paresse dal puzzo d’e morti corpi, [e] delle infermi
+ta, [e] delle medicine compreso [e] puzzolente.Alcuni erano di piu
+crudele sentimento( come che perauentura piu fusse sicuro) dicendo;
+niun’altra medicina esser contro alle pestilenze migliore, ne cosi buo
+na, come il fuggire loro dauanti;[e] da questo argomento mossi non
+curando d’alcuna cosa, se non di se, assai huomini [e] donne abban
+donarono la propria citta, le propie case, I loro luoghi, [e] I loro pa-
+renti [e] le lor cose; [e] cercaron l’atrui, o almeno il loro contado,
+quasi l’ira d’Iddio a punirele iniquita de glihuomini con quella pe
+stilenza non doue fossero; procedesse; ma solamente a coloro opprime 
+re,iquali dentro alle mura della loe citta si trouassero , commosse
+intendesse,qausi auisando niuna persona in quella douer rimanere;
+[e] la sua ultima hora esser uenuta: Et come che questi cosi uariamen
+te oppinanti non morissono tutti;non percio tutti campauano: Anzi
+infermandone molti di ciascuni, [e] in ogni luogo hauendo essi stessi
+quando sani erano ; exempio dato a coloro ; che sani rimaneuano;
+quasi abbandonati per tutto languiuano : Et lasciamo stare, chel-
+
+Pg 20jpeg
+Prima	6
+l’uno cittandino l’atro schifasse; [e] quasi niuno ucno hauesse del-
+l’atro cura; [e] I parenti insieme rade uolte, o non mai si uisitassero,
+[e] di lontano ; era con si fatto spauento questa tribulatione entrata
+n’e petti de glihuomini et delle donne;chell’uno fratello l’altro ab-
+bandonaua, [e] il zio il nipote, [e] la sorella il fratello, [e] spesse uol-
+te la donna il suo marito:[e],che maggiore cosa è, [e] quasi non cre
+dibile; li padri, [e] le madri I figliuoli, quasi loro non fossero, di ui-
+sitare, et di seruire schifauano: Per laqual cosa a coloro, dequali era
+la moltitudine inestimabile, [e] maschi [e] fammine, che infermaua-
+no; niun’altro sussidio rimase; che olla carita de gliamici, [e] di que
+sti. furono pochi ; oll’auaritia d’e seruenti , liquali da grossi sala-
+ri;[e] sconueneuoli tratti seruiuano, quantunque per tutto cio mol-
+ti non fossero diuenuti:et quelli cotanti erano huomini[e] femmi-
+ne di poco [e] grosso ingegno ; [e] I piu di tali seruigi non usati,
+equali quasi di niuna altra cosa seruiuano ; che di porgere alcune
+cose addomandate daglinfermi, o di riguardare quando moriuano,
+[e] seruendo in tale seruigio se molte uolte col guadagno perdeua-
+no: Et da questo essere abbndonati gl’infermi da uicini [e] da pa
+renti [e] daglia,ici, [e] hauere scarsita di seruenti;discorse un uso
+quasi dauanti mai non udito:che niuna, quantunue leggiadrao bel
+la o gentil donna fusse , infermando non curaua d’hauere a suoi
+serui huomo, qual che egli si susse o giouane, o altro; [e] allui san-
+za aluna uergogna ogni parte del corpo aprire , non altrimenti,
+che ad una femmina un’altra haurebbe fatto, solo chella necessita
+della sua infermita il richiedesse:ilche in quelle, che ne guarirono,
+forse su di menore honesta nel tempo,che succedette; cagione: Et ol=
+tre a questo ne segui la morte di molti; che perauentura se stati fos=
+seo aiutati;campati sarieno ; diche tra per il diffetto de gl’oppor-
+ni seruigi,iquali glinfermi hauer non poteano, [e] per la forza del
+la pestilenza,era tanta nella citta la moltitudine di quelli, che di i
+[e] di notte moriuano; che uno stupore era ad udire non che a ri=
+guardala : perche quasi di necessita cose assai contrarie a primi
+costumi di cittadini naequero tra coloro; iquali rimaneuano uiui.
+Era usanza ( si come anchora hoggi ueggiamo usare) chelle don-
+ne parenti, [e] uicine nelle caa del morto, si raunauano: [e] qui-
+ui con quelle, che piu gli apparteneuano, piangeuano, [e] dallal-
+tra parte inanzi la casa del morto co suoi pprossimi si raunauano
+i suoi uicini [e] altri cittadini assai, [e] secondo la qualita del mor=
+to ui ueniua il chiericato; [e] eli sopra gli homeri de suoi pari con
+
+Jpeg 21
+
+GIORNATA
+
+funerabile pompa di cera [e] canti alla chiesa dallui prima elet=
+ta innanzi alla morte n’era portato:lequai cose, poi che a montare
+comincio la ferocita della pestilenza; o in tutto o in maggior parte
+quasi tutte cessorono;[e] altre nuoue in loro luogo ne soprauennero-
+Ma percio che non solamente snza hauer molte donne datorno
+moriuano le genti ; ma assai u’erano di quelli ; che di questa uitae
+sanza testimonio trappassauano;[e] pochissime erano coloro aquali i
+piatosi pianti [e] l’amare lagrime de lor conngiuti fossero concedu-
+te;anzi in luogo di quelle , quai per le piu persone s’usauano risa
+[e] motti, et festeggiare compagneuole:laquale usanza in gran par
+te le donne posposta la donnesca piata per la salute di loro haueua
+no ottimamente appresa: Et erano rari coloro; I corpi dequali fusse=
+ro piu che da dieci o dodeci de suoi uicini alla chiesa accompagnati;
+Equali non horreuoli [e] carii cittadini sopra glihomeri portauano;
+ma una maniera di beccamorti soprauenuti di minuta gente ; che 
+chiamare si faceuano becchini;iquali questi seruigi prezzolati face-
+uano; sotto intrauano alla bara, [e] quella con frezzolosi passi nó a 
+quella chiesa, che esso haueua inna[n]zi alla morte eletta;ma alla piu
+uicina le piu uolte il portauani drieto a quatro o sei chierici con po
+co lume et taluolta sanza alcuno; liquali con l’aiuto de detti becchi-
+ni, sanza affaticarsi in troppo lungo ufficio o solenne, in qualunque
+sepoltura scoperta trouauano, piu tosto il mitteuano : Della minuta
+gente et in gran parte della mizzana era il riguardaminto di mol
+to maggiore miseria pieno; pcio che essi il piu o da speranza o pieta 
+ritenuti nelle lor case,nelle lor uicinanze standesi, a migliaia [per] gior
+no infermauano; [e] non essendo ne seruiti ne aiutati d’alcuna cosa,
+quasi sanza alcuna redentione tutti moriuano:et assai u’erano, che
+nella strada publica o di di o di notte finiuano : [e] molti, anchora
+che nelle lor case finissero, prima col puzzo del lor corpi corroti, che
+a;trimenti, faceuano a uicini sentire se esser morti, [e] di questi [e]
+de gli altri, che moriuano tutto pieno era. Il piu de uicini una mede
+soma maniera seruata, mossi non meno da terma chella corruttione
+de morti nó[n] glioffendesse, che da charita;laquale hauessono a trap
+passati;[e] per se medesimi et con lo aiuto d’alcuno portatore, quan
+do hauere ne poteano , traheuano delle loro case gli corpi de gia
+passasti;[e] quelle innanzi allo loro usci poneuano; doue la mattina
+specialmente h’haurebbe potuti uedere sanza numero, chi fusse attor
+no andato. Et quiui fatte uenire bare,tali furno, che per diffetto di
+quelle sopra alcuna tauola ne portauano : Ne fu una bara sola
+
+JPEG 22
+PRIMA	7
+quellaa, che due o tre ne porto inssiememente ; ne auenne  pure una 
+uolta, ma se ne sarieno assai potute  annouerare di quele,chella mo-
+glie e’ marito gli due o tre fratelli,il padre [e] il figliuolo osi fatta=
+mente ne conteniano. Et infinite uolte auenne, che andando due preti
+con una croce per uno, si misero tre o quattro bare da poratori
+portare di direto a quella ; [e] doue un morto credeuano hauere i
+preti a spellire , n’haueuano sei o otto [e] taluolta piu : Ne erano
+percio questi da alcuna lagrima o lume o compagnia honorati; an-
+zi era la cosa peruenuta attanto ; che non altrimenti si curaua de
+glihuomini; che moriuano ; che hora si curarebbe di capre:perche
+assai manifestamente apparue; che quello che il natural corso delle
+cose non haueua potuto con piccoli [e] rari danni a saui mostrare,
+cio è douersi con patienza passare la grandezza de mali, etiandio i
+semplici furon di cio scorti, [e] non curanti.Alla grande moltitudi-
+ne de corpi mostrata, che ad ogni chies ogni di [e] quasi ognihora
+concorreua portata non bastando la terra sacra alle sepolture [e]
+massimamente uolendo dare a ciascuno luogo proprio secondo l’an
+tico costume; si faceuano [per] gli cimiteri delle chiese; poi che ogni par-
+te era piena, fosse grandissime;nellequali a centinaia si metteuano i
+soprauegnenti: Et in quelle situati, come si mettono le mercatantie nel=
+le naui a suolo a suolo, con poca terra si ricopriano infino attanto,
+che della fossa al sommo si perueniua : Et accio che drieto ad ogni
+particolarita le nostre passate miserie per la citta auenute piu ricer-
+cando non uada; dico, che cosi iniquo tempo correndo per quella, no[n]
+percio meno d’alcuna cosa pisparimo il circostante contado:nelquale,
+(lasciando stare le castella,  che simili erano nella loro piccolezza al-
+la citta;) per le sparte uille [e] per gli campi I lauoratori miseri [e]
+poueri [e] le loro famiglie; sanza alcuna fatica di me dico o aiuto di
+seruidore per le uie, [e] per gli colti [e] per le loro case, di di [e] di
+notte indifferentemente non come huomini, ma quasi come bestie mo-
+riuano:per laqual cosa essi cosi nelli lor costumi come I cittadini di-
+uenuti lasciui, di ueruna loro cosa o face[n]da curauano:anzi tutti, quasi
+quel giorno, nelquale si uedeuano esseruenuti; la morte aspettassero;
+non d’aiutare I futuri frutti delle bestie [e] delle terre [e] delle lor
+passate fatiche;ma di consumare quelli, che si trouauano presenti, si
+sforzauano con ogni ingegno.Perche auenne che i buoi, gliasini, le
+pecore, le capre; i porci, i polli, [e] i cani medesimi fedelissimi a gli-
+huomini fuori delle proprie case cacciati per li campi , doue le biade
+anchora abbandonate erano, sanza essere non che raccolte;ma pur
+
+JPEG 23
+GIORNATA
+Segate;come melio piaceualoro, s n’andauano: Et molti quasi come
+rationali, poi che pasciuti rano bene il giorno, la notte alle lor case
+sanza alcuno correggimento di pastore si ritornauano satolli. Che
+piu si puo dire, lasciando sare il contado [e] alla citta tornando, se-
+nonne che tanta [e] tale fu la crudelta del cielo [e] forse in parte
+quella de glihuomini, che infra’l marzo et il proximo luglio uegnen
+te tra per la forza della pestifera a mortalita [e] per lo esser molti
+infermi mal seruiti o abbandonati ne loro bisogni per la paura , che
+haueuano i sani, oltre a cento mila creature humane, si crede per=
+certo dentro alle mura della citta di Firenze essere di uita tolti: Che
+forse anzi l’accidente mortisero non si saria stimato tanti hauerne
+dentro hauuti: O quanti gran palagi, quante belle case, quanti no-
+bili habitare per aditero di famiglie pieni di signori [e] di donne
+infino al minimo fante rimaseero uoti. O quante memorabili ischiat=
+te, quante ampissimie heredita, quante famose ricchizze si uidero
+
+sanza successore debito rimanere: Ouanti ualorosi huomini, quante
+belle donne, quanti leggiadri giouani, iquali non che altri;ma Ga-
+lieno, Hipocrate, o Esculapio haueriano giudicati sanissimi; la mat-
+tina desinarono con loro. parenti compagni [e] amici; che poi la se-
+ra uegnente appresso nellaltro mondo cenarono con lilor passati.
+A  me medesimo incresce andarmi tanto tra tante miserie rauolgendo;
+perche uolendo homai lasciare stare quella parte di quelle ; che io
+acconciamente posso schifare;dico, che stando in questo termini la no-
+sra citta d’habitatori quasi uota adiuenne( si come io poi da persona
+degna di fede sent) che nella uenerabile chiesa di santa Maria no-
+uella un marte di mattina non essendoui quasi alcun’altra persona,
+uditi li diuini uffici in habbito lugubre, quale a si fatta sta gione siri-
+chiedeua; si ritrouarono sette giouani donne, tutte l’una all’altra o
+[per] amista o per uicinanzao [per] parentado congiunte, dellequali niuna
+uentotto anni hauea passati: ne era minore di diciotto; sauia ciasu=
+na, da sangue nobile, bella i forma, ornata di costumi, [e] di leggia=
+dra honesta. gli nomi dellequali io inproria forma racconterei; se
+giusta cagione di dirlo non mel togliesse; laquale è qusta, che io no[n]
+uoglio per le raccontate cose da loro, che segono; [e] per le ascoltate
+nel tempo auenire alcuna di loro possa prender uergogna , essendo
+hoggi alquanto ristrette le leggial piacere; che allhora per le gaio-
+ni di sopra mostrate erano non che alla loro eta, ma a troppo piu 
+matura larghissim . Ne anchora dar materia a glinuidiosi presti
+a mordere oni laudeuole uita, di dimmire in niuno atto l’honesta 
+
+JPEG 24
+PRIMA 		8
+delle ualorose donne con i conci parlari : Et pero, accio che quello,
+che ciascuna dicesse; sanza confusione si possa comprendere; apresso
+per nome alle qualita di ciascuna conuenienti o in tutto o in parte,
+intendo di nominarle: Dellequali la prima, [e] quella, che di piu eta 
+era; Pampinea chiameremo, [e] la seconda Fiammettta ; Philomena
+la erza; [e] la quatra Emilia : Et appressp Lauretta diremo alla 
+quinta; [e] alla sexta Nephile; [e] l’ultima Elissa non sanza cagio
+ne nomineremo : Lequali non gia da alcuno propronimento tirate
+ma per caso in una delle parti della chiesa adunatesi, quasi in cer-
+chio a sedere postosi doppo piu sospiri lasciato stare il dire de pater-
+nostro , seco della qualita del tempo molte [e] uarie cose comincio=
+rono a ragionare; [e] doppo alcuno spatio, acendo l’atre, cosi Pam
+pinea comincio a parlare.
+Donne mie care uoi potete cosi come io , molte uolte hauere udito ; che a 
+niuna persona fa ingiuria,chi honestamente usa la sua ragionee.Na=
+tural ragione è di ciascuno, che ci nasce; la sua uita, quantunque puo,
+aiutare [e] conseruare [e] difendere; [e] condesi questo tanto; che
+alcuna uolta è gia auenuto , che perguadare quella sanza colpa
+alcuna si sono occisi de glihuomini: Et se qusto concedoo le leggi;
+nelle sollecitudini delle quali è il ben uiuere d’ogni mortale; quanto
+magiormente sanza offesa d’alcuno è a noi, [e] a qualunque al-
+tro honesto alla conseruationne della nostra uita prendere quelli ri-
+medi; che noi possiamo. Ogni hora che io uengo bene riguardando
+alli nostri modi di questa mattina; [e] anchora a quelli di piu altre
+passate ; [e] pensando chenti [e] quali gli nostri ragionamenti sie-
+no;io comprendono; [e] uoi simiulemte il potete comprendere, ciascuna
+di noi di se medesima dubitare; ne di cio mi marauiglio niente: ma
+marauigliome forte, auedendomi ciascuna di noi hauere sentimento
+ di donna,non prendersi per noi a quello, di che ciascuna di noi me-
+ritamente teme alcuno compenso. Noi dimoriamo testimoni di quan
+ti corpi morti ci sieno alla sepoltura recati, o ascoltare, se i frati di
+qua ento, dequali il numero è quasi uenuto a niente; alle debite ho=
+re cantino i loro uffici, o dimostrare a chiunque ci apparisce, ne no
+stri habiti la qualita [e] la quantita delle nostre miserie : Et se di
+quinci usciamo, o uegiamo corpi morti o infermi trasportarsi da-
+torno; oueggiamo coloro, iquali per gli loro difetti l’auttorita del=
+lle publiche leggi gia condanno ad essilio; quasi quelle schernendo,
+percio che sentono gli effecutori di quelle o morti o amalati , con
+
+JPEG 25
+GIORNATA
+
+ispiaceuoli epiti per la terra discorrere, olla feccia della nostra cit-
+ta del nostro sangue riscaldata chiamarsi becchini, [e] in istratio di
+noi andare caualcando [e] discorrendo per tutto con dishoneste can
+zoni rimprouer adoci i nostri danni. Ne altra cosa alcuna ci uida=
+mo, senonne cotali son morti ; [e] coali sono per morire ; [e] sel ci
+fuse chi fargli; per tutto dolorsi pianti udiremo.Et se alle nostre
+case torniamo(( non so se a uoi cosi,come a me adiuiene) io di moltie
+famiglia niuna altra persona in quella, se non la mia fante trouan
+do,impaurisco , [e] quosi tutti i capegli adosso mi sento arriccia-
+re:[e] parmi douunque io uado, o dimoro; per quella l’ombre di co-
+loro, che soNo trappassati uedere [e] non con quelli uisi, che io solea: 
+ma con una uista horrible, non so donde in loro nuouamente ue-
+nuta, spauentarmi: perlequai cose [e] qui [e] fuor i qui [e] in casa
+mi sembra star male, [e] tanto piu anchora , quanto e gli mi pare,
+che niuna persona , laquale habbia alcun polso , [e] doue posse
+andare , come noi habbimo , ci sia rimasa altri , che noi;[e] ho
+sentito [e] ueduto piu uolte ( se pure alcuni ce ne sono) quelli cotali
+sanza fare distintione alcuna dalle cose honeste a quelle; che honeste 
+non sono ; solo chell’ appetito le cheggia; [e] soli [e] accompagna-
+ti, [e] di di [e] di notte quele fare ; che piudi diletto loro porgono:
+[e] non chelle solute persone, ma anchora le rinchiuse ne monaste=
+ri, facendosi a crederer, che quello a loro. si conuenga [et[ non si disdi
+ca; che all’altre, rotte della obedienza le leggi,datesi a diletti carna=
+li, in tal guisa auisando scampare, son diuenute lasciue [e] dissolute.
+Et se cosi è; (che essere manifestamente si uede) ) che facciamo noi qui?
+che attendiamo? che sogniamo? perche piu pigre [e] lente allano=
+stra salute, che tutto il rimanente de cittadini siamo? reputiam-
+ci noi men care,che tuttellaltre? o crediamo la nostra uita con
+piu forti catene essere ligata al nostro corpo , che quella de glial=
+tri si sia, [e] cosi di niuna cosa curare dobbiamo, laquale hab-
+bia forza d’offenderla? Noi erriamo ; noi siamo ingannate: che
+bestialita è lla nostra, se cosi crediamo,  quante uoltenoi ci uor=
+remo ricordare quanti [e] quali sieno stati i giouani, [e] le
+donne unite daquesta crudel pestilenza ; tante uolte udremo
+apertisemo argomnto contro a noi ; [e] percio, accio che noi
+per ischifelta o per tracuraggine non cadessimo in quel; di-
+che noi perauentura pe alcuna maniera uolendo potremmo
+scampare ( non so se a uoi ne parra quello,, che a m ne par=
+rebbe) io giudicherei ottimamente fatto ;che noi, si come noi
+			siamo;
+JPEG 26
+PRIMA
+siamo; come molti innanzi noi hanno fatto, [e] fanno di questa ter=
+ra uscissimo; [e] fuggendo come la morte i dishonesti exempi de-
+glialtri, honestamente a nostri luoghi in contado, dequali a ciascuna
+di noi e' gran copia, ce ne andassimo a stare; [e] quiui quella festa
+quella allegrezza, [e] quello piacere, che noi potessimo, sanza trap-
+passare in alcuno atto il segno della ragione, ci prendessimo. Quiui
+si odono gliuccelletti cantare: ueggonsi uerdeggiare i colli, [e] le pia-
+nure; [e] i campi pieni di biade non alrimenti ondeggiare , che'l
+mare [e] d'alberi ben mille maniere ; [e] il cielo piu apertamente,
+ilquale anchora che crucciato ne sia. non percio le sue bellezze eter-
+ne ne nega; lequali molto piu belle sono a riguardare; chelle mura
+uote della nostra citta. Et oltre a questo l'aere assai piu fresco ; [e]
+di quelle cose, che alla uita bisognano in questi tempi; u'è la copia
+maggiore, [e] minore il numero delle noie. Percio che, quantunque
+cosi muoiano i lauoratori, come qui fanno i cittadini , u'è tanto mi-
+nore il d spiacere, quanto ui sono piu, che nella citta, rade le case [e]
+gli habitanti. Et qui dall'altra parte, (se io benueggio;) noi non ab=
+bandoniamo persona; anzi ne possiamo con uerita dire molto piu
+tosto abbandonate ; percio che i nostri mariti o morendo,o da mor-
+te fuggendo, quasi non fossimo loro, sole in tanta affiittione n’hanno
+lasciate. Niuna riprensione adunqu; puo cadere in cotale consiglio segui
+re; dolore et noia et forse morte, non seguendolo potrebbe auenire;
+[e] percio, (quando ui paia) prendendo le nostre fanti; [e] con le cose
+opportune facendosi seguire hoggi in questo luogo , [e] domani in
+quell’altro, quella allegrezza [e] festa prendendo, che questo tempo
+puo porgere; credo che sia ben fatto a douer fare; [e] tanto dimorare
+in cotal guisa; che noi ueggiamo (se prima da morte non siamo so=
+pragiunte) che fine il cielo riserbi a queste cose: Et ricordiui , che
+egli non si disdice piu a noi honestamente uiuere; che si faccia a gran
+parte dell' altre lo stare dishonestamente.
+Laltre donne udita Pampinea non solamente il suo consiglio lodarono;
+ma disiderose di seguitarlo haueuano gia piu particolarmente tra
+se cominciato a trattar del modo; quasi, quindi leuandosi da sedere,
+a mano a mano douessoro entrare in camino : Ma Philomena, la-
+quale discretissima era, disse. Donne quantunq; cio, che ragiona Pam=
+pinea; sia ottimamente detto; non è percio cosi da correre affarlo; co=
+me mostra, che uoi uogliate fare: Ricordoui, che noi siamo tutte fem-
+mine, [e] non ce n'ha niuna si fanciulla; che non possa bene conosce-
+re, come le femmine raunate insieme, et sanza la prouede[n]za d' alcuno
+					b
+
+JPEG 27
+GIORNATA
+huomo si sappiano regolare. Noi siamo mobili, ritrose, sospettose:pu=
+sillanime, et [per] lequali cose io dubito forte; se noi alcun’altra
+guida non prendianmo, chella nostra; che questa compagnia non si
+dissolua troppo piu tosto, [e] con meno honore di noi; che non ci biso-
+gnerebbe: Et percio è buono di prouedere auanti, che cominciamo.
+Disse allhora Elissa.Veramente glihuomini sono delle femmini capo,
+[e] sanza l’ordine loro rade uolte riesce alcuna nostra opera alaie
+deuole fine: Ma come possiamo noi hauere questi huomini?? ciascuna
+di noi sa, chee sui ono la maggiore parte morti; [e] glialtri, che
+uiui rimasi sono;che qua, [e] chi la in diuerse brigate, sanza sapere
+noi doue,uanno fugge[n]do quello; che noi cherchiamo di fuggire: Et il
+prendere gli strani non saria conueneuole : perche se alla nostra
+salute uogliamo andare dietro, trouare ne conuiene modo, [e] si fat-
+tamente ordinarci; che douoe per diletto [e] per riposo andiamo; noia
+[e] scandolo non se segua.
+Mentre tralle donne erano cosi fatti ragionamenti, ecco entrare nel=
+la chiesa tre giouani non percio tanto, che meno di uenticinque
+anni fusse l’eta di colui, che piu giuane era di loro; nequali ne [per]-
+uersita di tempo, ne perdita d’amici o di parenti, ne paura di se me
+desimi haueua potuto amore non che spegnere; ma pur raffreddare:
+Dequali uno era chimato Pamphilo, [e] Phillostrato il secondo, [e]
+l’ultimo Dioneo; assai piaceuole [e] costumato ciascuno , et andauano
+cerrcando per loro somma consolatione in tanta turbatione di cose di
+uedere le loro donne ; lequali perauentura tuttatre erano tra le
+predette sette, come che dell’altre alcune ne fussero parenti, [e] con-
+giunte d’alcuni di loro: Ne prima esse agliocci corsero di costro;
+che costoro furono da esse ueduti:perche Pampinea  allhora comincio
+sorriideno, Ecco chella fortuna a nostri cominciame[n]ti è fauoreuole;
+[e] hacci dauanti postii discreti giouani [e] ualorosi;liquali uolentieri
+[e] guida [e] seruidori ne saranno; se di prenderli a questo ufficio
+non schiffermo.Neiphile allhora tutta nel usio diuenuta per uergo
+gna uermiglia, perchio chell’una era di quelle, che dalluno de gioua=
+ni eraamata; disse.Pampinea per Dio guarda cio, che tu di;io cono-
+sco assai apertamente niunaltra cosa altro che buoa dire potersi di
+qualunque sia di costoro, [e] credogli atroppo maggior cosa, che que
+sta non è; sofficienti: Et similmente auiso loro buona compagnia [e]
+honesta douer tenere; non che a noi, ma a molto piu belle [e] piu ca
+re, che nou no[n] siamo: Ma, percio che assai manifesta cosa è loro essere
+d’alcune, chhe qui ne sono; innamorati;temo,che infamia [e] ripren
+				sione
+
+JPEG 28
+
+PRIMA		10
+
+sione sanza nostra colpa o di loro no[n] che ne segua, se noi glimeniamo.
+Disse allhora Philomena, questo nó monta niente la; doue io honesta
+mente uiua, ne mi rimorda d’alcuna cosa la conscie[n]z:parlichi uuole
+in conerario; Iddio et la uerita l’arme [per] me prenderanno:hora fusse
+ro essi pur gia disposti a uenire; che uerame[n]te, come Pampinea disse,
+potremmo dire la fortuna essere alla nostra andata fauoreuole.
+L’altre ude[n]do costei cosi fattame[n]te parlare no[n] solamente si tacquero;
+ma con consentimento co[n]cordi tutte dissero; che essi fussero chiamati, et
+loro si dicesse la lor intentione, et ppregassersi, che douesse loro piacere
+in cosi fatta andata loro tenere compagnia; perche sanza piu parole
+Pampinea leuatasi in pie, laquale ad alcuno di loro [per] consanguinite
+era co[n] giunta; usero loro, che fermi stauano a riguardarle, sii fece: et
+con lieto usio salutatigli, loro la loro dspositione fe manifesta; [e] pre-
+gogli [per] parte di tutte, che con puro, et fratelleuole animo a tenere lo=
+ro co[m]pagnia si douessero disporre. I giouani si credettero primier ame[n]
+te essere beffai; ma poi che uidero, che da douero parlaua la donna;
+riposero lietame[n]te se essere apparechiati: Et sanza dare alcuno in
+dugio all’opera, anziche q[u]indi si partissono, diedono ordine accio; che
+affare hauesseroni sul partire: Et ordinatamente fatta ogni cosa op-
+potuna apparecchiare, et prima ma[n]dato la, doue inte[n]deuano d’an=
+dare la segue[n]te mattina cio eè il mercordi insul ischiarar del gior=
+no le donne con alquante delle loro fanti, et gli tre giouani con tre
+loro famigli ucsiti della citta si misero in uia; ne oltre a due picciole
+miglia dilungaro da essa;che essi [per]uennero al luogo da loro pri=
+mieramente ordinato. Era il detto luogo sopra una piccola monta-
+gnetta da ogni parte lontano alqua[n]to alie nostre strade, di uari ar=
+boselli et di uerdi frondi ripieno, piaceuoli a riguardare; in sul col
+mo delquale era in palagio con bello et grann cortile nel mezzzo, con
+loggie et con sale et con camere tutte, ciascuna uerso di se bellissima
+et di liete dipinture riguardeuole et ornata, con pratelli dintorno et
+con giardini marauigliosi, et con pozzi d’cque freschissime, [e] con
+uolte piene di preciosi uini, cose piu atte a curiosi beuitori; che a so=
+brieet honeste donne; ilquale tutto ispacciato, [e] nelle camere i leeeti
+fatti, et ogni cosa di fiori, quali nella stagione si poteuano hauere; pie
+na, di giunchi giuncata, la uegnente brigata trouo con suo non poco
+piacere: Et postisi nella prima giunta a sedere, disse:Dioneo; ilquale
+oltre ad ognialtro era piaceuole goiuane et pieno di motti. Donne il
+uostro senno piu, che’l nostro. auedime[n]to ci ha [qui] guidati; io no[n] so quel
+lo, che de uostri pensieri u’intendiae di fare: gli miei lasciai dentro
+			b    i i 
+   
+
+JPEG 29
+
+GIORNATA
+
+della porta della citta allhora; che io con uoi , poco fa; men’usci
+fuori : Et percio, o uoi a sollazzare [e] a ridere [e] a cantare con
+meco insieme ui disponete (tanto dico quanto allauostra dignita s’ap-
+partiene) o uoi mi licentiate, cheio per gli miei pensieri mi ritorni,
+[e] stiami nella citta tribolata. A cui Pampinea non d’altra ma-
+niera, che se similmente tutti i suoi hauesse da se cacciati; lieta rispose.
+dioneo ottimamente parli; festeuolmente uiuere si uuole, ne altra ca=
+gione tali tristitie ci ha ftte fuggire: Ma percio, chelle cose,che sono
+sanza modo, non possono lungamente durare; io che comenciatirce
+fui d’e ragionamenti, daquali questa cosi bella compagnia è stata
+fatta pensando al continouare della nostra letcia, istimo, che di neces=
+sita sia conuenire essere tra noi alcuno prencipae; ilquale noi ho-
+noriamo [e] ubid:amo come maggiore;nelquale ogni pensiero sia di
+douerci a lietamente uiuere disporre;[e]. accio che ciascun proui il pe
+so della sollecitudine insieme col piacere della maggioranza, [e] per
+conseguente da una parte [e] dall’altra tratti non possa chi nol pro
+ua, inuidia hauere alcuna; dico, che a ciascuno per un giorno s’ at-
+tribuisca [e] il peso e’l honore; [e] chi il primo di noi essere debba,
+nella elettionedi noi tutti sia; di quelli, chee seguiranno, come l’hora 
+del uespro s’auicinera; quegli o quella sia, che a colui o a colei pia-
+cera, che. quel giorno hara hauuta la signoria: [e] questo cotale
+secondo il suo arbitri del luogo [e] del modo, nelquale a uiuere
+habbiamo;ordini [e] disponga.
+Queste parole sommamente a tutti piacquero;[e] ad una uoce lei per 
+Renia del primo giorno elessono: [e] Philomena corsa prestameente
+ad uno alloro, percio che assai uolte hauea udito ragionare di quan-
+to honore le frondi di quello erano degne;[e] quanto degno d’hono
+re faceuano, che n’era meritamente incoronato, di quello alcuni ra-
+mi colti ne le fece una ghirlanda horreuole [e] appatente;laquale
+messele sopra la testa. Fu poi, mentre duro la loro compagnia;mani-
+festo segno a ciascuno della reale signoria [e] maggioranza.
+Pampinea fatta Renia commando, che ogniuno tacesse, hauendo gia fatti
+i famigli de tre giouani [e] le loro fanti, che eran quattro; dauanti
+chiamarsi, [e] tacendo ciascuno disse. Accio, che io prima exempio dia
+a tutti uoi, per loquale di bene in meglio procendendola nostra com
+pagnia, con ordine [e] con piacere [e] sanza alcuna uergogna uiua 
+er duri; quanto a grado ne sia; io primier amente constituisco Parmeno
+famigliare di Dioneo mio simsclaco; [e] allui lacura [e] la sollecitu-
+dine di tutta la nostra famiglia commeto, et cio che al seruigio della
+					sala
+
+Jpeg 30
+PRIMA
+
+sala appartiene Sirisco famiglio di Pamphilo uoglio, che di noi sia
+spenditore [e] thesoriere, [e] di Parmeno seguitti i co[m]mandamenti.
+Tindaro al seruigio di Philostrato [e] gliatri due attenda nelle
+camere loro, quahora gliatlri intorno alli loro uffici impediti atten
+dere non ui potessero. Missia mia fante, et Licisca di Philomena nella 
+cucina saranno continoue; [e] quelle uiuande diligentemente appa-
+recchieranno, che per Parmeno loro saranno imposte. Chimera di
+Lauretta, Stratilia di Fiametta al gouerno delle camere delle don=
+ne attente uogliamo, che stieno, [e] alla nettezza de luoghi, doue sta
+remo: [e] ciascuno generalmente, [per] quanto egli hara cara la nostra
+grattia, uogliamo [e] co[m]mandiamo, che siguardi, doue che egli uada,
+di cosa, che egli oda o uegga, niuna nouella altra, che lieta rechi di
+fuori.  Et questi ordini dati, liquali sommamente da tutti co[m]mendati
+furono, lieta dirizzata in pie disse. Qui sono giardini, qui sono pra
+telli, qui altri luoghi diletteuoli assai, per liquali ciascuno a suo pia-
+cere sollazandosi uada: [e] come terza suona, ciasuno qui sia; sccio
+che per lo fresco si mangi
+Licentiata adunque dalla nuova Reina la lieta bbrigata, gli giouani
+insieme con le belle donne ragionando diletteuoli cose con lento passo
+si messero [per] un giardino belle ghirlande di uari fiori facendosi, [e]
+amorosamente cantando:et poi che in quello tanto furono dimorati,
+quanto di soatio dalla Renia hauuto haueano, a casa tornati, troua-
+rono Parmeno studiosamente hauere dato principo al suoufficio: [per]cio
+che entrati in una sala terrena quiui le tauole messe uidero con to-
+uaglie bianchissime, et con bicchieri, che d’argento pareuano; et ogni
+cosa di fior di ginestra coperta:[per]chee data l’aqua alle mani, come
+piacque alla renia; secondo il giudicio di Paremo tutti andorono
+a sedere. Le uiuande dilicatame[n]te fatte uennero; et finissimi uini fur
+presti; [e] sanza piu chetamente gli tre famigli seruirono le tauole.
+Dellequali cose, [per]cio che belle et ordinate erano; rallegrato ciscuno,
+con piaceuoli motti et confesta mangiarono: Et leuate le tauole, co[n]cio
+fusse cosa che tuute le donne carolar sapessero, st similemnte i giouvani;
+et parte di loro ottimamente sonare et cantare; co[m]mando la Renia,
+che gli stormenti uenissero, et per co[m]minciorono soauemente una
+danza a sonare; perche la renia con l’atre donne insieme con due
+giouani presa una danza con lento passo, mandati i famili a man-
+giare, a carolar comciorono; et quella finita, canzoni uaghe et liete
+cominciorono a cantare. Et in questa maniera a settero tanto, ehe te[m]po
+				b   i i i 
+JPEG 31
+
+GIORNATA
+
+parue alla Renia d’andare a dormire, perche, data a tutti la licn-
+za gli tre giouani alle loro camere da quelle delle donne separate,
+se n’andarono:lequali con letti ben fatti, [e] cosi di fiori pieni come
+la sala trouarono, [e] simigliantemente le donne le loro: perche spo-
+gliate si s’andorno a riposare.
+Non era di molto spatio sonata nona, chella Renia leuaa si tutte l’aatre
+fece leuare, et similmente i giouani, afferma[n]do essere nociuo il troppo
+dormre il giorno; et cosi se n’andarono in un particello; nequale
+l’herba era uerde et gra[n]de; ne ui [per]cotena d’alcuna parte il sole: et [qui]
+ui, sente[n]do un soaue ue[n]ticello uenire si come uolle la lor Renia, tutti so
+pra la uerde herba si puosero í chercio a sedere; aquali ella disse cosi.
+Come uoi uedete, il sole è alto;[e] il caldo é gra[n]de; ne altro s’ode, chelle
+cicale su per glioliui:perche l’andare al presente in alcun luogo sa-
+rebbe sanza dubbio sciocchezz.qui è bello [e] ffresco stare. [e] ecci,
+(come uedete,) [e] tauoliere et scacchiere, et puo ciascuno, secondo che
+all’animo gli è piiu di piacere, diletto pigliare: Ma se in questo il mio
+parere si seguisse, no[n] giuocando, nequale l’animo dell’una delle parti
+co[n]uiene che si turbi sanza troppo piacere dell’altra, o di chi sta a ue
+dere; ma nouelleando(ilche puo porgere dicendouno a tutta la có-
+pagnia, che ascolta; diletto) questa calda parte del giorno trappasse=
+remo, uoi no[n] harete compiuto ciascuno di dire una nouella; che il so
+le fie delinato; et il caldo mancato, [e] potremo, doue piu agrado ui
+fie, andare pre[n]de[n]do diletto: Et [per]cio qua[n]do questo, che io dco; ui piac-
+cia (cie disposta sono in cio di seguire il piacere uostro) facciamilo; et
+doue nóui piace. LE donne parimente et glihuomini tutti lodarno il
+nouellare. A dunque, disse la Renia, se questo ui piace [per] questa pri-
+ma giornata uoglio, che libero sia a ciascuno di quella materia ragio=
+nare, che piu gli sara a grado: Et riuolta a Pamphilo, il quale alla
+sua destra sedea piaceuolme[n]te gli disse; che con una delle sue nouel=
+le all’altre desse principio. La onde Pamphilo udito il commanda-
+mento, prestamente essendo da tutti ascoltato, comincio cosi.
+Ser Ciappelletto con una falsa confessione inganna uno santo frate; [e]
+essendo stato in uita uno pessimo huommo, morto santo si è ripu-
+cato.			Nouella. I.
+Onuennuole cosa è Carissime donne, che in ciascuna cosa,
+       e	laquale l’huomo fa; dall’ammirabile et santo nome di co-
+	lui, iilquale di tutto fu fattore, le dia principo: [per]che doue[n]do
+io al nostro nouellare si come primo dare cominiciamento, intendo da
+					una delle
+
+JPEG32
+
+PRIMA 			11
+
+una delle sue marauigliose cose incomenciare:accio che, quella udira,
+lanostra speranza in lui so come in cosa impermutabile si fermi; [e]
+sempre sia da noi il suo nome lodato.Manifesta cosa è; che si come
+le cose temporali tutte sono transitorie [e] mortali, cosi in se [e] fuor
+di se essere piene di noia, d’angoscia, [e] di fatica. [e] as infiniti pe-
+ricoli soggiacere: Allequali sanza niun fallo ne potre[m]mo noi, che ui-
+uiamo mescolati in esse;[e] che siamo parte d’esse; durare; ne ripa-
+rarci; se spetiale gratia Iddio forza [e] auedimento no[n] ci prestas=
+se: Laquale a noi [e] in noi, non è da credere, che  [per] alcuno nostro
+merito discenda; ma dalla sua propria benignita mossa, et da prieghi
+di coloro imperata, che si come noi siamo; furono mortali; [e] bene
+gli suoi piaceri; mentre furono in uita, seguendo, hora con lui eterni
+son diuenuti [e] beati: Alliquali noi medesimi si come a procuratori
+informati per experienza della nostra fragilita, forse non audaci
+di porgere i prieghi nostri nel conspetto di tanto giudice delle cose;
+lequali a noi reputiamo opportune; gli porgiamo : Et anchora piu
+lui usero noi di piatosa liberalita pieno discerniamo: che non poten-
+do lagrimee di occhio mortale nel secreto della diuina mente trap-
+passare in alcun modo; auiene forse taluolta, che a oppenione in-
+gannati tale dinanzi alla suamaesta facciamo procuratore; che da
+quella con eterno essilio è  iscacciato; et non dimeno esso, aquale
+niuna cosa è occulta; piu alla purita del pregatore riguardano, che
+alla sua ignoranza, o all’essilio del pregatore riguardando, che
+se nel suo conspetto beato; eexaudisce coloro, che’l pregano: il che mani-
+festamente porta apparire nella nouella; laquale di raccontare in=
+tendo ; manifestamente dico , non il giudicio d’Iddio. ma quello de
+glihuomini seguitando.		Ragionasi adunque , che
+essendo Mucciato francesi ricchissemo [e] gran mercatante in Fran-
+cia caualiere diuenuto, [e] douendo in Thoscana uenire con Mes-
+ser Carlo Sanzaterra fratello del Re di Francia da Papa Boni-
+facio addomandato, [e] al uenire promesso, sentendo gli fatti suoi,
+si come il piu delle uolte son quelli de mercatanti, molto intra-
+uagliati in qua [e] in la, [e] non ui potersi ddi leggeri ne subi-
+tamente strauagliare ; penso quegli commettere a piu persone: Et
+a tutti trouo modo, fuori solamente in dubbio gli rimase chila-
+sciare potesse sofficiente a ricuotere suoi crediti fatti a piu bor-
+gognoni: [e] la cagione del dubbio era il sentire gli borgogno-
+ni huomini retroosi [e] di mala conditione, [e] desleali; [e] al-
+lui non andaua per la memoria chi tanto maluagio huome
+		b   i i i i
+
+JPEG 33
+
+GIORNATA
+
+fusse; in cui egli potesse alcuna fidanza hauere, che opporre alla lo-
+ro maluagita si potesse: Et sopra questa examinatione pensando, [e]
+lungamente stato, gli uene a memoria un Ser Ciappelletto da prato;
+ilquale molto alla sua casa in Parigi si riparaua; ilquale, [per]cio che
+piccolo di [per]sona era et molto assettatuzzo, non sapendo gli francesi
+che si uolesse dire, crede[n]do che Ciappello ghirlanda secondo il loro
+uolgare addire uenisse; [per]cio che picciolo era, come dicemmo, no[n] Ciap=
+pello, ma Ciappelletto il chiamauano: {et} [per] Ciappelletto era cogno-
+sciuto [per] tutto la, doue pochi pr Ser Ciappello il conosceuano. Era
+questo Ser Ciappelletto di questa uita; che egli essendo notaio haue=
+ua grandissima uergogna, quando uno d’e suoi strumenti (come che
+pochi ne facesse) fusse altro, che falso trouato; de quali tanti harebbe
+fatti; di qua[n]ti fusse stato richiesto; et quelli piu uolentieri in dono, che
+in alcuno altro modo grandemente salariato. Testimona[n]zefalse con
+sommo diletto diceua richiesto, et non richiesto; et dandosi a que te[m]pi
+in Francia a sacramento grandissima fede, non ccurando fargli falsi,
+tante questioni malaugiamente uincena; a quante a giurare di dire
+il uero soprala sua fede era chiamato. Haueua oltre modo piacere
+[e] forte studiaua in com[e]ettere tra amici [e] parenti et qualunque
+altra [per]sona mali [e] nimicitie et scandali; dequali quanto maggio-
+ri mali uedeua seguire, tanto piu d’allegrezza prendeua. Inuitato
+ad uno micidio o a qualunque altra rea cosa sanz megarlo mai; uo
+lonterosamente n’’andaua: et piu uolte a ferire er ad occidere huomi
+no con le proprie mani si ritrouo uolentieri. Bestemmiatore d’Iddio et
+de santi era gra[n]dissimo; et [per] ogni picciola cosa, si come colui, che piu
+che alcun altro era iracondo. A chiesa non usaua giamai: et i sacra
+menti di quella tutti come uil cosa con abbomineuoli parole scher-
+niua. Et cosi in contrario le tauerne et glialtri dishonesti luoghi ui-
+siataua uolentieri, et usauagli. Delle femmine era cosi uago, come sono
+i cano de bastoni: del contrario piu, che alcun’altro tristo huomo, si
+dilettaua. Inuolato harebbe, et rubbato con quella conscie[n]za, che un
+santo huomo offerrebbe.Golosissimo et beuiore grante ta[n]to, che al=
+cuna uolta sconciamente gli face a noia, Giuocatore, et metitore di mal
+uagi dadi era sole[m]ne. Perche mi distendo io in tante parole? egli era
+il piggiore huomo forse, che mai nascesse. La cui malicia luongo te[m]po
+sostenne la potenza [e] lo stato di Messere Mucciatto; per cui molte
+uolte et dalle priate [per]sone, allequali assai soue[n]te faceua in giuria; et
+dalla corte, a cui tuttauia la facea ; fi riguardato: Venuto adunque
+questo Ser Ciappelletto nell’animo a Messere Mucciatto; ilquale otti=
+				mamente
+JPEG 34
+
+PRIMA 		13
+
+mamente la sua uita conosceua si penso iid detto Messere Mucciatto co
+stui douere essere tale, quale alla malaugita de borgognoni si richie
+dea. Et [pr]chio fattosi chiamare gli disse cosi. Ser Ciapelletto, come ti
+sai, io sono [per] ritrarmi del tutto di [qui]: et haue[n]do traglialtri affare co[m]
+borgognoni huomini pieni d’inganni, no[n] so cui io mi possa lasciare
+a riscuotere il mio da loro piu co[n]ueneuole di te. Et [per]cio, conciosia co
+sa che tu niente faccia al presente, oue a questo uoglia attendere; io
+inte[n]do di farti hauere il fauore della corte; et di donarti quella par
+te di cio che tu riscuoterai; che cóueneuole sia. Ser Ciappelletto; che
+scioperato si uedea et male agiato delle cose del mondo; et lui ne ue
+deua andare, che suo sostegno [e] rifugio era lungamente stato; san
+za niuno indugio quasi da necessita costretto si dilibero.et disse; che
+uolea uolentieri:[per]che conuenutisi insieme riceuuta Ser Ciappelletto
+la procura et le letter fauoreuoli del Re, partitosi Messere Mucciatto,
+n’ando in borgogna; doue quasi niuno il conoscena: et quiui fuor di
+sua natura benigna et mansuetamente comincio a uolere riscuotere,
+et fare quello, [per]che andato u’era, quasi si riserbasse l’addirarsi al
+dasezzo: Et cosi facendo, ripara[n]dosi in casa di due fraelli fiorenini;
+liquali quiui ad usura prestauano: et lui [per] amore di Messer Muc-
+ciatto honor auan molto auenne, che egli infermo; alquale i due fra
+telli fecero prestamente uenitre medici, et fanti che’l seruisser; et ogni
+cosa opportuna alla sua sanita rac[qui]stare:ma ogni aiuto gli era nulo;
+[per]cio che il buon huomo, ilquale gia era uecchio et diisordinatamente
+uiuuto: secondo che medici diceuano, andaua di giorno in giorno di
+male in peggio; come colui, che haueua il male della morte; di che gli 
+due fratelli si doleuano forte. Et un giornoo assai uicini della came-
+ra, nella quale Ser Ciappelletto giacea infermo; seco medesimi co-
+minciorono a ragionare, che faremo noi, diceua l’uno all’altro di
+costui? Noi habbiamo de fatti suoi pessimo partito alle mani: [per]cio
+che il mandarlo fuori di casa nostra cosi infermo ne sarebbe gran
+biasimo, et segno manifesto di poco senno;ueggendo la gante, che noi
+Phauessimo riceuuto prima; et poi fattolo seruire, et medicare cosi sol=
+lectiame[n]te: et hora sanza potere egli hauere fatta cosa alcuna, che di-
+spiacere ci debba; cosi subiamente di casa nostra. infermo a morte
+uederlo mandare fuori. Dall’altra parte egli è stato si maluagio
+huomp; che no[n] si uorra confessare; ne prendere alcuno sacramento
+della chiesa: et morendo sanza confessione niuna chiesa uorra il suo
+corpo riceuere; anzi sara gittato a fossi a guisa d’un cane. Et se egli
+pur si confessa, i peccati suoi sono tanti et si horribili, che’l simiglia[n]te
+
+JPEG 35
+GIORNATA
+ne auerra; [per]cio che frate ne prete ci sara; che’luoglia, ne possa assol-
+uere; [per]che non assoluto anche sarra gittato a fossi. Et se questo auie-
+ne; il popolo di questa terra, ilqualle, si [per] nostro mistiero che a loro
+pare iniquissimo et tutto il giorno ne dicono male; [e] si [per] la uolon
+ta che hanno di rubbarci; ugegendo cio si leuer anno aromore, et gri
+dera[n]no questi lombardi cani liquali a chiesan[n]o son uoluti riceuere;
+no[n] si uogliono piu sostenere: [e] correrannoci alle case: er [per]auentura
+no[n] solamente l’hauerci torra[n]no; ma forse oltre accio, le [per]]sone; diche
+noi in ogni guisa stiam male, se costui muore. Ser Ciappelletto, ilqua-
+le, come dice[m]mo, apresso giaceua la; doue costoro cosi ragionauano;
+haue[n]do l’udire sottile, si come le piu uolte ueggiamo hauere glinfer-
+mi, udicio; che costoro di lui diceano. Liquali egli si fece chiamare; et 
+disse loro cosi. Io no[n] uoglio, che uoi d’alcuna cosa di me dubiate:ne
+habbiate paura di riceuere [per] me alcuno danno.io ho inteso cio, che
+di me ragionato hauete; et sono certissimo; che cosi ne aurrebbe; co-
+me uoi dite; se cosi andasse la bisogna; come auisate; ma ella andra al-
+trimenti. io uiue[n]do ho tante ingiurie fatte a Domenedio; che [per] far=
+gliene una, hora in sulla mia morte; ne piu ne meno ne sara. et [per]cio
+procacciate di farmi uenire un santo et uale[n]te frate il piu; che haue
+re potete se alcuno ce n’è: et laciate fare a me: che fermame[n]te io ac-
+conciero i fatti uostri et miei in maniera; che staranno bene; et che
+dourete essere co[n]tenti. I due fraelli, come che molta spera[nza non pre[n]
+dessero di questo; no[n] di meno se n’andorno ad una religione di fra-
+ti; et domandorono d’alcuno santo et sauio huomo; che udisse la con
+fessione d’un lombardo; che in casa loro era infermo: et fu loro dato
+un frate antico di danta et di buona uita, [e] gran maestro in sacra
+scrittura et molto uenerabile huomo; nelquale tutti i cittadini gran-
+dissima et spetiale diuotione haueuano; et lui menorono. Il quale giu[n]
+to nella camera doue Ser Ciappelletto giaceua; et al lato postogli a 
+sedere; prima benigname[n]te il comincio a co[m]fortare: et apresso il do
+mando quanto tempo era; che egli altra uolta confessato su fusse. Al-
+quale Ser Ciappelletto, che mai confessato non s’era; ripose. Padre
+mio la mia usanza suole essere di confessarmi ogni settimana alme-
+no una uolta, sanza che assai sono di quelle; che io mi confesso piu-
+E’il uero che, poi che io infermai; che sono presso a otto di; io non
+mi co[n]fessai; tanta è stata la noia della mia infermitaa. Disse allhora
+il frate. Figliuolo mio bene hai fatto; et cosi si uuole fare [per] innazi, [e]
+ueggio che poi si spesso ti co[n]fessi; poca fatica hauro d’udire o di doma[n]
+dare. Disse Ser Ciappelletto. Messer lo frate no[n] dite cosi; non mi con-
+
+JPEG 36
+PRIMA 			14
+fessai mai tante uolte, ne si spesso; che io sempre no[n] mi uolessi co[n]fessa-
+re generalme[n]te di tutti i miei peccati; che io mi rcordassi dal di, che
+io nac[qui] infino a quello; che co[n]fessato mi sono; et [per]cio ui prego padre
+mio buono, che cosi puntalme[n]te d’ogni cosa mi domandiate; come se
+mai co[n]fessato no[n] mi fussi. Et no[n] mi riguardate, perche io infermo sia:
+che io amo molto meglio di dispiacere a queste mie carni; che face[n]do
+lloragio, io facessi cosa, che potesse essere [per]ditione dell’anima mia; la-
+quale il mio saluaatore rico[n]pero col suo precioso sangue. Queste paro
+le piacquero molto al santo huomo: et parueugliargome[n]to di ben di-
+sposamennte: et poi che a Ser Ciappelletto hebbe molto commendato
+questa sua usanza; lui comincio a doma[n]dare: se egli mai in lussuria 
+con alcuna femmina peccato hauesse. Alquale Ser Ciappelletto sospi=
+rando ripose. Padre mio di questa parte mi uergogno io di dirueue
+il uero, teme[n]do di no[n] peccare in uana gloria. Aquale il santo frate
+disse, Dillo sicurame[n]te; che’l uero dice[n]do ne in co[n]fessione ne in alro
+atto si pecco giamai. Dissse allhora Ser Ciappelletto, poi che di questo
+uoi mi fate sicuro; io uel diro. Io sono cosi uergine, com’io usci del cor
+po della madre mia. O benedetto dsia tu da Iddio; disse il frate; come
+bene hai fatto; et face[n]do hai ta[n]to piu meritato, qua[n]to uolendo haueui
+piu d’arbito di fare il co[n]trario; che no[n] habbiamo noi, o quelli, che
+sotto alcuna regola sono constretti. Et appresso lo doma[n]do se nel pecca
+to della gola hauea a Iddio dispiaciuto; alquale sospira[n]do forte Ser
+Ciappelletto rispose di si, et molte uolte: Percio, co[n]cio fusse cosa che, ol=
+trè al digiuno della quadragesima, che nell’anno si fa dalle diuote
+[per]sone; ogni settimana tre di fusse uso di digiunare almeno in pane et
+in acqua; con quello diletto et appetito l’acqua beuuita hauea; et spe
+cialmente qua[n]do hauesse alcuna fatica durato o oorando o anda[n]do in 
+pellegrinaggio; che fanno i gran beuitori il uino: [e] molte uolte
+haueua hauuto disiderio d’hauere cotale infalantuzza d’herbiccue;
+come fanno le femmine quando uanno in uilla: [e] alcuna uolta 
+gliera paruto migliore il mangiare; che non parea allui; che do-
+se parere, a chi digiunaua [per]diuoti[n]e; come digiunaua egli. Alquale
+il frae. disse. Questi peccati figliuol mio sono naturali; sono assai
+leggeri; et [per]cio io no[n] uoglio, che tu te ne graui piu la co[n]scie[n]za tua; che
+bisogni. Ad ogni huomo auiene, qua[n]tu[n]qe; santissimo sia, il parergli dop
+po lugo digiuno buono il ma[n]giare; et doppo gra[n]fatica il bere. O, dis=
+se Ser Ciappelletto; padre mio no[n] mi dite questo [per] confortarmi; ben
+sapete; che io so, chellle cose che al seruigio d’Iddio si fanno, si deono
+fare tutte nettamente sanza alcuna ruggine d’animo: [e] chiun-
+
+JPEG 37
+GIRONATA
+que altrimentile fa; pecca. Il frate contentissimo disse. Io sono conte[n]to,
+che cosi ti cappia nell’animo; et piacemi forte la tua pura [e] buona
+co[n]scie[n]za in cio: Ma dimmi, in auaritia hai tu peccato desidera[n]do piu,
+che il conueneuole, o tenendo quello, che tu hauere non douresti?
+Alquale Ser Ciappelletto disse. Padre mio io no[n] uorrei, che uoi guar=
+daste, perche io sia in casa di questi usurai, io non ci ho affare nulla;
+anzi ci era uenuto [per] douergli ammonire, [e] castigare, [e] torgli da
+questo abomineuole guadano: [t] credo mi sarebbe uenuo fatto; se
+Iddio non mi hauesse cosi uietato: ma uoi douete sapere, che mio pa
+dre mi lascio ricco huomo; del cui hauere, com’egli fu morto; diedila
+maggior parte [per] Dio; et poi [per] sostentare la uita mia, et [per] potere aiu=
+tare e poueri di chirsto, ho fatte mie piccole mercatantie: et in quel=
+le ho disiderato di guadagnere: et quello, che hoguadagnato; sempre
+co pueri d’Iddio ho partito per mezzo, luna meta conuertendo ne
+miei bisogni. laltra meta dando loro: et di co m’ha il mio creatore
+si bene aiutato; che io ho sempre di bene in meglio fatto i fatti miei,
+Ben hai fatto: disse il frate: ma come ti se tu spesso adirato? o disse Ser 
+Ciappelletto; cotesto ui dio; io so ben; che io hospesso fatto. Et chi se 
+ne potrebbe tenere ueggendo tutto di glihuomini fare le sconcie cose,
+non offeruare i co[m]mandamenti d’Iddio, no[n] temere il suo giudicio, Egli
+sono state assai uolte il di; che io uorrei piu tosto essere stato morto; che 
+uiuo, ueggendo i giuano andrare dietro alle uanita, et ude[n]dogli giu-
+rare: et spergiurare, et andare alle tauerne, no[n] a uisitare le chiese, et
+seguire piu tosto le uie del mondo; che quelle d’iddio. Disse allhora
+il frate; Figliuol mio cotesta è buona ira: ne io [per] me te ne saprei pe=
+nitenza imporre:ma [per] alcuno caso harebbeti potuto l’ira inducerti
+affare alcuno midicio; addire uillania a [per]sona; o affare alcun’al-
+tra ingiuria. A cui Ser Ciapplletto rispose. Oime Messere, o uoi mi pa
+rete huomo d’Iddio, come dite uoi coteste parole? o, se io hauesse pure
+hauuto in. pe[n]siero di fare una di quelle cose, che uoi dite, credete uoi,
+che io creda, che Iddio mi hauesse sostenuto ta[n]to? coteste sono cose, che
+fanno gli scherani et gli rei huomini: dequali quando alcuno n’ho
+ueduto; sempre ho detto; ua, che Iddio ti co[n]uerta.Allhora disse il fra=
+te. Hora mi di figliuol mio; che benedetto sia tu da Iddio; hai tu mai
+niuna testimona[n]za falsa fatta contro alcuno; o detto male dell’artui 
+cose sanza piacere di colui; di cui sono? Mai messere si rispose Ser Ciap-
+pelleto; che io ho detto male d’altrui; [per]cio che io hebbi gia un mio
+uicino; che al maggiore torto del mondo nò facea altro tutto di; che
+battere la moglie si, che io dissi una uolta mal di lui a pare[n]ti della
+
+JPEG 38
+PRIMA	15
+
+moglie, si grand piata mo uenne di quella cattiuella; laquale ogni 
+uolta, che beuuto hauea troppo; egli conciaua come Iddio uel dica:
+Disse allhora il frate. Hor bene tu mi di; che se stato mer catante: inga
+na, tu mai persona; some fanne i mercata[n]ti? Gnaffe disse Ser Ciappel
+letto Messer si; ma io non so chi egli si fu, se non che egli si fu, se non che uno hauendomi
+recati danari, che mi doueua da e di panno; che io gli haueua uen-
+duto: [e] io messigli in una mia cassa sanza annouerargli, iui bene
+ad un mese trouai; che erano quattro piccoli piu; che essere non do-
+ueano: perche non riuedendo colui; [e] hauendogli serbati bene
+un anno per renderglieli io gli diedi per l’amore d’iddio. Disse il
+frate, cotesta fu picciola cosa: [e] facesti bene affare quello; che ne fa=
+cesti. Et oltre a questo lo domando il santo frate di molte altre cose,
+dellequali a tutte rispose a questo modo: [e] uolendo egli gia proce-
+dere alla assolutione, disse Ser Ciappelletto. Messer io ho anchora al
+cun peccato; che io non ui ho detto. Il frate lo domando quale: egli ri-
+spose, Io mi riccordo, che io feci un sabbato dopo nona al fante nuo
+spazzare la casa: [et non hebbi alla fanta dominica quella reueren
+za; che io douea hauere. O, disse il frate cotesto è legger cosa, Non,
+disse Ser Ciapelletto; non dite leggier cosa; chella dominica è trop-
+po da honorare, che in cosi fatto di risiscito da morte a uita il nostro
+signore. Disse allhora il frate. Altro hai tu fatto> MAesser si sipose Ser
+Ciappelletto che io non auedendomene isutai una uolta nella chiesa
+d’Iddio, Il frate comincio a sorridere: [e] disse, Figliuol mio cotesta
+non è cosa da curarsene.noi, che siamo religiosi; tutto di ui sputiamo.
+Disse Ser Ciappelletto. Et uoi fate un fran male; percio che niuna co
+ssa si conuiene tenere tanto netta, quanto il santo tempio; nelquale si
+rende sacrificio a Iddio. Et in brieue di cosi fatti glie ne disse molti:
+[e] ultimatamente comincio a sospirare, [e] appresso a piangere for
+te, come colui, che’l sapea troppo ben fare; quando uolea. Disse il fra-
+te, che hai tu? Rispose Ser Ciappelleto. Oime MEssere, che un peccato
+mo è rimaso; dequale io non mi confessai mai si gran uergogna ho di
+dirlo: [e] ogni uolta, che io me ne ricordo piango, come uoi uedete: [e]
+parmi essere certo; che Iddio non hara mai misericordia uedete: [e]
+questo peccato. Allhora il santo frate disse. Vauia figliuol mio; che è
+quello; che tu dici? Se tutti i peccati, che furono mai fatti da tutti gli-
+huomini; o che si deono fare; mentre che’l mondo durera fussero tutti
+in un huomo solo. [e] egli ne fusse pentuto [e] contrito; come io ueg-
+gio te; è tanta la misericordia et benignita d’Iddio; che confessando-
+gli egli e perdonerebbe liberamente, [e] pero dillo sicuramente, Disse
+
+
+JPEG 39
+Giornata
+allhora Ser Clappelletto sempre piangendo forte. Oime padre mio
+il mio è troppo gran pecato; appena posso credere, se i uostri prie-
+ghi non ci s' adoperanno ; che egli mi debba mai essere perdonato.
+Acui il frate disse. Dillo sicuramente ; che io ti prometto di pregare
+Iddio per te. Ser Ciappelletto pur piagnea: et nol dicea. Il frate pur
+il confortaua di dire: ma poi che, Ser Ciappelletto piagnendo hebbe
+un gran pezzo tenuto il frate oosi scspeso; egli gitto uno grandissimo
+sospiro: et disse. Padre mio poi che uoi mi promettete di pregare Iddio
+per me,[e] io uel diro.Sappiate, che quando io era piccoiolino, io be-
+stemmiai una uolta la madre mia: [e] cosi detto ricomincio a pian-
+gere forte. Disse il frate, o figliuol mio, o parti questo cosi gran pecca
+to? glihuomini bestemmiano tutto il giorno Iddio [e] santi: [e] si [per]do
+na egli uolentieri, a chi si pente d'auerlo bestemmiato : [e] tu non
+credi, che egli perdoni a te questo? Non piangere; confortati; che fer
+mamente, se tu fussi stato un di quelli; che'l posono in croce hauen-
+do la contricione, che io ti ueggo; si ti perdonerebbe egli . Disse Ser
+Ciappelletto. Oime padre mio che dite uoi? la madre mia dolae, che
+mi porto in corpo suo il di [e] la notte nuoue mesi: [e] portommi in
+collo piu di cento uolte. troppo feci male a bestemmiarla; [e] troppo
+gran pecato: [e] se uoi non pregute Iddio per me, egli non mi sara
+perdonato. Veggendo il frate non essere altro restato addire a Ser
+Ciappelletto gli fece l'assolutione: [e] diedegli la sua benedittione ha
+uendolo per santissimo huomo si come colui , che pienamente credea
+essere uero cio; che ser Ciappelletto hauea detto . Et chi sarebbe co=
+lui; che non hauesse creduto, ueggendo uno in caso di morte confes-
+sandosi dire cosi? Et poi dopo tutto questo gli disse. ser Ciappelletto
+coll'aiuto d'Iddio uoi sarete tosto sano. Ma se pur auenisse, che Iddio
+la uostra benedetta, [e] ben disposta anima chiamasse a se, piacciagli,
+chel uostro corpo sia sepellito al nostro luogo. Alquale ser Ciappel=
+letto rispose: Messer si, anzi, non uorrei io essere altroue ; pescia che
+uoi m'hauete promesso di pregare Iddio per me : sanza che io ho
+hauuto sempre spettiale diuotione al uestro ordine. Et percio ui pre
+go, che come uoi al uostro luogo sarete, facciate; ch'a me uenga quel
+ueracissimo corpo di Christo; ilquale uoi la mattina in sull'altare
+consecrate; percio che, (come io degno non sia) io intendo colla uostra
+licenza di prenderlo; [e] appresso l'ultima [e] santa untione : accio
+che io, se uiuuto sono come peccatore ; almeno muoia come christiano .
+Il santo huomo disse: che molto gli piaceua cio: [e] che egli dicea be-
+ne: [e] farebbe, che di presente gli sarebbe portato: [e] cosi fu. Li duo
+
+040
+PRIMA 		1
+
+fratelli, liquali dubitauano forte, nó Ser Ciappelletto glingannasse;
+s’eranno pesti dietro ad uno tauolato; ilquale la camera, doue Ser
+Ciapelletto giacea; diuidea da unaltra: et ascolta[n]do leggerme[n]te u-
+diuano et inte[n]deuano cio; che Ser Ciappelletto al frate diceua: et ha-
+ueuano alcuna uolta so gran uoglia di ridere, udendo le cose ch’egli
+co[n]fessaua d’auer fatto; che quaasi scoppiauano di risa: et fra se alcu
+na uolta diceano, che huomo è costui; ilquale ne uecchiezza ne infer
+mita ne paura di morte allquale si uede uicino; ne anchora a d’iddio;
+dina[n]zi al giudicio delquale di [qui] a poche hore s’aspetta di douere
+essere; dalla sua maluagita l’han[n]no potuto rimouere ne fare, ch’egli co
+si no[n] uoglia morire; com’eglié uiuuto ma pur ude[n]do, che egli sareb-
+be a sepoltura riceuuto in chiesa, nie[n]te del rimane[n]te si curorono. Ser
+Ciapelletto iui a poco si cominico; et peggiora[n]do sanza modo hebbe
+l’ultima untione; et poco passato uespro quel diistesso, che fatta hauea 
+la buona co[n]fession, si mori: [per] laqual cosa gli due frategliordinatio di
+quello di lui medesimo come egli fusse horreuolme[n]te spellito, et ma[n]da
+to addire alluogo de frati, che essi uenissono la sera affare la uigilia
+secondo l’usanza, wt la mattina [per] loro corpo; ogni accio opportuna
+disposero. Il santo frate, checo[n]fessato l’hauea ude[n]do che egli era trap
+passato; fu insieme col priore del luogo: et fatto sonare a capitolo, [e]
+gli frati raunati in quello, mostro Ser Ciapelletto essere stato huomo
+santissimo, secondo che [per] la sua co[n]fessione co[m]preso hauea. Et spera[n]do
+[per] lui Domenedio molti miracoli douere dimostrare  [per]suadette loro,
+che quello corpo con grandissima reuere[n]za [e] diuotione si douesse
+riceuere: allaqual cosa il priore et glialtri frati creduli s’accordoro=
+no: et la sera andati tutti la doue il corpo di Ser Ciappelletto giacea,
+sopra esso fecono una grande et sole[m]ne uigilia: et la mattina tutti ue
+stiti con camisi et con piuiali con libbri in mano, et con le croci in-
+nanzi canta[n]do andorono [per] questo corpo, et con grandissima festa et
+sole[m]nita il recorono alla loro chiesa, seguena quasi tutto il popolo
+della citta huomini et do[n]ne: et nella chiesa postolo il santo frate, che
+co[n]fessato l’hauea; salito in sul [per]gamo di lui comincio et della sua ui
+ta et de suoi digiuni et della sua uirginita et della sua semplicita et 
+innoce[n]za et santita marauigliose cose apredicare. Et trall’altre cose
+narra[n]do quello, che Ser Ciapelletto [per] suo maggiore peccato pia[n]ge[n]do
+Phaueua co[n]fessato; et come esso appena glihauea potuto mettere nel ca
+po; che Iddio gliel douesse [per]donare: et da questo riuoltossi a ripre[n]de
+re il popolo, che ascoltaua, dice[n]do. Et maladetti da Iddio [per] ogni
+fusciello di paglia, che ui si uolgetra piedi ; besti mmiate Iddio, [e]
+
+</p>
+         
+        </body>
+        <back>
+            <!--  [ back matter ...  ] -->
+        </back>
+    </text>
+</TEI>
