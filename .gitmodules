@@ -1,0 +1,8 @@
+[submodule "staticSearch"]
+	path = code/staticSearch
+	url = https://github.com/projectEndings/staticSearch
+	branch = release-1.4
+[submodule "code/TEIC_Stylesheets"]
+	path = code/TEIC_Stylesheets
+	url = https://github.com/TEIC/Stylesheets
+	branch = release-7.54.0
