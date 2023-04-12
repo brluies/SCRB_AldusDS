@@ -2,1650 +2,658 @@
 layout: default
 ---
 
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-        <titleStmt>
-          <title type="short">IL PERTARCHA</title>
-          <title type="main">SONETTI ET CANZONI
-            DI MESSER
-            FRANCESCO PETRARCHA
-            IN VITA 
-            DI MADONNA LAVRA.</title>
-          <author>Francesco Petrarcha</author>
-          <respStmt>
-            <resp>Copy edited from OCR</resp>
-            <name>Luies, Brenda</name>
-          </respStmt>
-        </titleStmt>
-        <publicationStmt>
-          <publisher>Aldus Manutius</publisher>
-          <date when="1521">1521</date>
-          <pubPlace>London</pubPlace>
-          <idno type="call">PQ 4495 A2 1521</idno>
-          <idno type="cdm">Petrarch 1521</idno>
-        </publicationStmt>
-        <notesStmt>
-          <note>203 p. 19 cm.</note>
-        </notesStmt>
-        <sourceDesc>
-          <msDesc>
-            <msIdentifier>
-              <repository>SFU Special Collections</repository>
-              <idno type="call">PQ 4495 A2 1521</idno>
-              <idno type="cdm">PETRARCH 1521</idno>
-            </msIdentifier>
-            <msContents>
-              <msItem>
-                <title type="main">SONETTI ET CANZONI DI MESSER FRANCESCO PETRARCHA IN VITA DI MADONNA LAVRA.</title>
-                <title type="short">Il Petrarcha</title>
-                <docImprint>
-                  Impresso in Vinegia nelle case d’Aldo 
-                  Romano, [e] d’Andrea Asola
-                  no suo sucero nel’anno
-                  M. D. X X I
-                  del mese di 
-                  Giulio
-                  </docImprint>
-                <docEdition>1</docEdition>
-                <docDate when="1521"/>
-              </msItem>
-            </msContents>
-            <physDesc>
-              <objectDesc form="unknown">
-                <supportDesc>
-                  <extent>
-                    <measure unit="pages" quantity="184"/>
-                    <measure unit="volumes" quantity="1"/>
-                  </extent>
-                </supportDesc>
-              </objectDesc>
-              <bindingDesc>
-                <p> green morocco binding, gilt edges, the sides tooled in gold in Grolier style by Durer</p>
-              </bindingDesc>
-            </physDesc>
-          </msDesc>
-        </sourceDesc>
-    </fileDesc>
-  </teiHeader>
-  <text>
-    <front>
-    </front>
-    <body>
-      <pb type="prologue" facs="002.jpg"/>
-      <fw type="heading">A GLILETTORI.</fw>
-       <p>
-TRALLE Molte humane passioni, allequai sia-
-mo soggetti noi museri mortali; lo amore per certo è
-quella; che in questo breue corso do uita con piu 
-acuto stimolo co torme[n]ta, et afflige. Et intanto il piu
-delle uolte questa passione ci cempie fo cosi pe[n]sie=
-ri; che non possendogli noi portate nel petto rin-
-chiusi, spessi uolte ci è di mestieri et nostro mal gra=
-do, et come possiamo il meglio, altrui fare loro pale-
-si. Onde, se esso amore [per]auentura si appiglia a spi=
-rito gentile; ha poi tanto di forza; che lo sospri-
-gne a celebrare il suo ardore, [et] a cantare in
-uersi mille accidenti auenutigli amando, [et] col
-pe[n]siero er opera a tessere cose tali; che di lui et del=
-la sua cara donna eternamente al mondo presti-
-no materia da ragionare. Ilche qua[n]to felicemen-
-te auenisse al nostro M. Francesco, et in parte a
-Madonna Laura dallui cosi feruentemente ama-
-ta, niuno e cosi poco tinto delle nostre lettre; che
-leggendo le opere sue nella lingua uolgare com-
-poste, chiaramente nol comprenda. Chi non ue-
-de ne suoi leggiardrissima uersi lui tanto calda-
-mente hauere amato; quanto ciascuno altro aman-
-te, che dalle punture amorose stimolato uiues-
-se giamai? Chi no[n] ode le sue dubbie speranzie, i cer=
-tissimi affani, et in quanto altri erroi egli ama[n]=
-do lungamente sia stato inuolto? Chi non sente con
-quanta dolcezza di parile, cia cuna per se et tut-
-te insieme considerate, egli la sua donna con eterne
-
-<pb n="2" facs="004.jpg"/>
-
-lode inalzie stesso parimente facendo eterno? Che
-non sono si uaghi nella primauera e fiori de uer-
-di prati, ne de colli i riuestiti arboscelli; come sono
-uaghi i dolcissimi accenti delle rime dello eccelle[n]tis-
-simo M. Fra[n]cesco. L’altezza dello ingegno delqua-
-le se io hauesse degne lode da commendare; mai sa-
-stia non se ne uderebbe la uoce mia. Questo so-
-lamente pure io diro ; che ne il piu leggiadro, ne
-il piu diletteuole, ne il piu utile poeta hoggidi 
-leggere da noi si puo, ne il piu compiuto ; dico
-compiuto non tanto per l’eccellenza delle cose dal
-lui composte, quanto per essere consomma diligen-
-za [e] ottimamente corrette. Legga adunque con
-lieto animo ciascuno il nostro poeta ; [et] special=
-mente coloro, che sono inamorati ; lo habbia- 
-no per lo continouo alle mani: Che di certo oltra lo
-infinito piacere, che esse di leggerlo pre[n]deranno;
-imparreranno dal suo honestissimo amore in mille
-rime dal lui diuinamente cantato no[n] pur ad hone=
-stamente amare, ma a mettere etiandio leggiara-
-mente in uersi le sue amorose fiamme, i sospiri, le
-speranze, le gioie.Et alla fine sanza fallo alcuno
-celebrando le loro donne essi anchora rimarran-
-no dopo la morte con perpetua fama al mondo
-uiui [et] celebrati.
-       </p>
-         <fw type="catchword">a   ii</fw>
-					
-<pb facs="005.jpg"/>
-<fw type="title">
-SONETTI ET CANZONI
-DI MESSER
-FRANCESCO PETRARCHA
-IN VITA 
-DI MADONNA LAVRA.
-</fw>
-<pb facs="009.jpg"/>
-         
-<l>
-La gola, e’l sonno, [et] l’otiose piume
-Hanno del mondo ogni uertu sbandita,
-Ond’e dal corso suo quasi smarrita
-Nostra natura uinta dal costume:
-Et e si spento ogni benigno lume
-Del ciel, per cui s’informa humana uita;
-Che per cosa mirabile s’addita
-Chi uol far d’Hellicona naser fiume.
-Qual uaghezza di lauro, qual di muerto?
-Puoera [et] nuda uai philosophia,
-Dice la turba al uil guadagno intesa.
-Pochi compagni haurai per l’altra uia:
-Tanto ti prego piu gentile spirto
-Non lassar la magnanima tua impresa.
-</l>
-<l>
-A pie d’e colli; oue la bella uesta 
-Prese de le terrene memóra pria
-La donna, che colui, ch’a a te n’enia 
-Spesso dal sonno lagrimando desta;
-Libere in pace passauan per questa
-Vita mortal, ch’ogni animal desia,
-Senza sospetto di trouar fra uia
-Cosa, ch’al nostr’ andar fosse molesta.
-Ma del musero stato; oue noi semo
-Condotte da la uita altra serena;
-Vn sol conforto [et] de la morte hauemo:
-Che uendetta e’ di lui, ch’a cio ne mena
-Loqual in forza altrui, presso al’extremo
-Riman legato con maggior catena.
-</l>
-
-      <pb n="9" facs="010.jpg"/>
-      <l>
-Quando’ l pianeta, che distingue l’hore,
-Ad albergar col tauro si ritorna; 
-Cade uertu da l’infiammate corna,
-Che ueste il mondo di nouel colore;
-Et non pur quel, che s’apre a noi di fore,
-Leriue e i colli di firoetti adorna;
-Ma dentro, doue giami non s’aggorna,
-Grauido fa di se il terrestro humore;
-Onde tal frutto, [et] simile si colga:
-Cosi costei, ch’è tra le donne un sole,
-In me mouendo d’e begliocchi i rai
-Cria d’amor penseri,,atti,[e] parole:
-Ma come ch’ella gli gouerni, o uolga;
-Primauera per me pur non è mai.
-      </l>
-      <l>
-Gloriosa colonna in cui s’appoggia 
-Nostra speranza e’l gran nome Latino,
-Ch’anchor non torse del uero camino
-L’ira di Goiue. per uentosa pioggia;
-Qui non palazzi, non theatro, o loggia;
-Ma’n lor uece un’abete, un faggio, un pino
-Tra l’herba uerde, e’l bel monte uicino,
-Onde si scende poetando [e] poggia,
-      </l>
-<pb facs="011.jpg"/>
-<l>
-Lassare il uelo o per ombra
-Donna non ui uid’io,
-Poi, che in me conosceste il gran desio,
-Ch’ogni altra uoglia dentr’al cormi sgombra.
-Mentr’io portaua i be pensier celati,
-C’hanno la mente desiando morta,
-Vidiui di pietate ornare il uolto:
-Ma poi ch’amor di me ui fece accorta;
-Fur i biondi capelli allhor uelati,
-Et l’amoroso sguardo inse raccolto.
-Que, che piu desiaua in uoi, m’è tolto;
-Si mi gouerna il uelo,
-Che per mia morte [et] al caldo [et] al gielo
-D’e be uostr’occhi il dolce lume adombra.
-</l>
-      <l>
-Se la mia uita da l’aspro tormento
-Si puo tanto schermire [e] da gli affanni,
-Ch’i ueggia per uertu de gli ultim’anni
-Donna d’e be uostr’occhi il lume speto,
-E i cape d’oro fin farsi d’argento,
-Et lassar le ghirlande e i uerdi danni
-Allamentar mi  fa pauroso [et] lento;
-Pur mi dara tanta baldanza amore,
-Ch’i ui discouriro d’e miei mariti
-Qua sono stati glianni e i giorni [e] l’hore: 
-Et sel tempo e’ contrario a i be desiri;
-Non fia, ch’almen non giunga al mio dolore
-Alcun soccorso di tardi sospiri.
-      </l>
-<pb n="6" facs="012.jpg"/>
-<l>      
-Quando fra Paltre donne adhora adhora
-Amor uien nel bel uiso di costei;
-Quanto ciascua e’men bella di lei;
-Tanto cresce’l desio, che m’innamora,
-I benedico il loco e’l tempo [et] l’hora,
-Che si altro muraron gliocchi mei;
-Et dico, Anima assai ringratiar dei;
-Che fosti a tanto honor degnata alhora
-Da lei ti uen l’amoroso pensero;
-che, mentre’l segui, al sommo ben t’inuia
-Poco prezzando quel, ch’ogni huom desia:
-Da lei uien l’animosa leggiadria;
-Ch’al ciel i scorge per destro sentero.
-Si, ch’i uo ggia de la speranza altero.
-</l>
-      <l>
-Occhi miei lassi; mentre ch’io ui giro
-Nel bel usio di quella, che u’ha morti; 
-Pregoui, siate accorti:
-Che gia ui sfida amore; ond’io sospiro.
-Morte po chiuder sola a miei penseri 
-L’amoroso camun; che gli conduce 
-Al dolce porto de la lor salute:
-Ma puossi a uoi celar a uostra luce 
-Per meno meno oggettto; perche meno interi
-Siete formati, [e] di minor uirtute.
-Pero dolento anziche sian uenute
-L’hore del pianto, che son gia uicine,
-Prendete hor’ a la fine
-Breue conforto a si lungo martiro.
-      </l>
-      <l>
-013
-Io mi riuolgo indietro a ciascun psso
-Col corpo stanco, ch’a gran pena porto;
-Et prendo allhor dell uostr’aere conforto,
-Chee’l fagir’oltra dicendo, oime lasso.
-Poi ripensando al dolce ben, ch’io lasso;
-Al camin lungo, [e] al mio uiuer corto;
-Fermo le piante sbigottio [et] smorto;
-Et gliocchi in terra lagrimando abbasso-
-Tallhor m’assale in mezzo a tristi pianti
-Vn dubbio, come posson queste membra
-Da lo spirito lor uiuer lontane:
-Ma rispondemi Amor; Non ti rimembra,
-Che questo e’ priuilegio de gli amanti
-Sciolti da tutte qualitati humane?
-
-Mouesi luecchierel canuto [e] bianco
-Del dolce loco, ou’ha sua eta fornita,
-Et da la famigliuola sbigottita,
-Che uede il caro padre uenire manco:
-Indi trahendo poi l’antico fianco
-Per l’exreme giornate di sua uita,
-Quanto piu po, col buon uoler s’aita
-Rotto da glianni [e] dal camino stanco:
-Et uiene a Roma Seguendo’l desio
-Per mirar la sembianzadi colui,
-Ch’anchor lassu nel ciel uedre spera:
-Cosi lasso talhor uo cercand’io
-Donna, quant’e’ possibie, in alrui
-La desiata uostra forma uera.
-
-014
-					7
-Piouommi amare lagrime dal usio
-con un uento angoscicso di sospiri;
-Quando in uoi adiuien che gliocchi giri,
-Per cui sola dal mondo i son diuiso.
-Vero e’, che’l dolce mansueto riso
-Pur acqueta gliardenti miei desiri,
-Et mi sottragge al foco d’e martiri; 
-Mentr’io sona mirarui intento [e] fiso
-Ma gli spiriti miei s’agghiaccian poi,
-Ch’i ueggio al dipartir gliatti souai
-Torcer da me le mie fatali stelle.
-Largata al fin con l’amorose chiaui
-L’anima esce del cor per seguir uoi;
-Et con molto pensiero indi si suelle.
-
-Quand’io son tutto uolto in quella parte,
-oue’l bel usio di Madonna luce;
-Et m’e’ rimasa nel pensier la luce,
-Che m’arde [e] strugge dentro a parte a parte;
-I; che temo del cor, che mi si parte,
-Et ueeggio presso il fin de la mia luce;
-Vommene in guisa d’orbo senza luce;
-Che non sa oue si uada, [e] pur si parte.
-Cosi dauanti a i colpi de la morte
-Fuggo; ma non si ratto, che’l desio
-Meco non uenga, come uenir sole.
-Tacito uo: che le parole morte
-Farian pianger la gente: [e] i desio,
-Che le lagrime mie si spargan sol.
- 
-015
-
-Sol animali al mondo di si altera
-Vista; che’ncontr’al sol pur si difende:
-Altri; pero che’l gran lume glioffende;
-Non escon fuor, senon uerso la sera:
-Et altri co’l desio, folle; che spera
-Gioirforse nel foco, perche splende;
-Prouan lantra uertu quella, che’ncende;
-Lasso il mio loco è’n questa ulima schera:
-Ch’i non son fote as aspettar la luce
-Di questa donna; [e] non sofare schermi
-Di luoghi tenebrosi, od’hore tarde.
-Pero con gliocchi lagrimose e’nfermi
-Mio destino a uederla mi conduce:
-Et so ben, ch’i uo dietro a quel, che m’arde.
-
-Vergognando talhor, ch’anchor si taccia
-Donna per me uostra bellezza in rima,
-Ricorro al empo, ch’i ui uidi prima 
-Tal, chee null’altra fia mai, che mi piaccia.
-Ma trouo peso non da l mie braccia,
-Ne l’operation tutto s’agghiaccia.
-Piu uolte gia per dir le labbra apersi:
-Poi rimase la uoce in mezzo’l petto.
-Ma qual suon poira mai salir tant’alto?
-Piu uolte incominciai di scriver uersi:
-Ma la penna, [e] la mano, [e] l’intelletto
-Rimaser uinti primier assalto.
-
-016
-					8
-Mille fiate o dolce mia guerra,
-Per Hauer co begli occhi uostri pace,
-V’aggio proferto il cor: m’a uoi non piace
-Mirar si basso con la mente altera:
-Et se di lui fors’altra donna spera;
-Viue in speranza debile [e] fallace:
-Mio; perche sdegno cio, ch’a uoi dispiace;
-Esser non po giamai cosi, com’era.
-Hor s’io lo scaccio [e] e non troua in uoi
-Nel exilio infelice alcun soccorso,
-Ne sa star sol, ne gire ou’altr’il chiama;
-Smarrire poira il suo natural corso,
-Che graue colpa fia d’ambeduo noi;
-Et tanto piu di uoi, quanto piu u’ama.
-
-A qualunque anima e alberga in terra;
-Senonse alquanti, c’hanno in odio il sole;
-Tempo da trauagliare è, quanto è’l giorno:
-Ma poi, ch’el ciel accende le sue stelle;
-Qualtorna a casa, [e] qual s’annida in selua,
-Per hauer posa almeno in fin a l’alba.
-Et io, da che comincia la bell’alba
-A scuoter l’ombra intorno de la terra
-Suegliando glianimali in ogni sleua,
-Non ho mai triegua di sospir col sole.
-Poi, quand’io ueggio fiammegiar le stelle,
-Vo lagrimando [e] desiando i giorno.
-Quando la sera scaccia il chiaro giorno.
-Et le tenebre nostre altrui fann’alba;
-
-019
-In fin allhor percossa di suo sttrale
-Non essermi passato oltra la gonna,
-Prese in sua scorta una possente donna;
-Ver cui poco giamai mi ualse, o uale
-Ingegno, o forza, o dimandar perdono.
-Ei duo mi trasformaro inquel, ch’i sono,
-Facendomi d’huom uiuo un lauroo uerde;
-Che per fredda stagion fooglia non perde.
-Qual mi fec’io, quando primier. m’accorsi
-De la trasfigurata mia persona;
-Ei capei uidi far di quella fronde,
-Di che sperato hauea gia lor corona;
-Ei piedi, in ch’io mi stetti [e] mossi [e] corsi,
-Com’ogni membro al’anima risponde,
-Diuentar due radici soura l’onde
-Non di Peneo, ma d’un piu altero fiume;
-E’n duo rami mutarsi ambbe le braccia:
-Ne meno anchor m’agghiaccia
-L’esser couerto poi di bianche piume
-Allhor; che folminato [e] morto giacque
-Il mio sperar, che troppo alto montaua.
-Che perch’io non sapea doue, ne quando
-Mel ritrouasse; solo lagrimando,
-La’ue tolto mi su, di [e] notte andaua
-Ricercando dal lato [e] dentro a lacque:
-Et gimai poi la mia lingua non tacque,
-Mentre poteo, del suo cader maligno:
-Ond’io presi col suon color dun cigno.
-Cosi lungol’amate riue andai;
-
-020
-					10
-Che uolendo parlar cantaua sempre
-Merce Chiamando con estrania uoce:
-Ne mai in si dolci, o in souai tempre
-Risonar sppi gliamorosi guai;
-Che’l cor s’humiliasse aspro [e] feroce.
-Qual fu a sentire; che’l ricordar mi coce?
-Ma molto pu di quel, ch’è per inanzi,
-De la dolce [e] aceròa mia menica
-È bisogno ch’io dica;
-Benche sia tal, ch’ogni parlare auanzi.
-Questa; che col mirar glianinu fura;
-M’aperse il petto, e’l cor prese con mano
-Dicendo a me, di cio non far parola
-Poi la riuidi in altro habito sola
-Tal ch’i non la conobb, o senso humano;
-Anzie le dissi’l uer pien di paura:
-E della me l’usata sua figura
-Tosto tornado fecemi, oime sasso.
-Ella parlaua si turbata. in uista;
-Che tremar mi fea dentro a quella petra
-Vdendo, i non son fors, chi tu credi:
-Et diceameeco, se costei mi spetra;
-Nulla uita mi sia noiosa, o trista:
-A farme lagrimar signor mio riedi.
-come, non so; pur io mossi indi i pidi
-Non altrui incolpando, che me stesso,
-Mezzo tutto quel di ra uiuo [e] morto.
-Ma perche’l tempo è corto;
-				b   ii
-
-021
-La penna al buon uoler non po gir presso:
-Onde piu cose ne la mente scritte
-Vo trapassando;[e] sol d’alcune parlo,
-Che merauiglia fanno a chi l’ascolta.
-Morte mi s’era intorno alcore auolta;
-Ne tacendo potea di sua man trarlo.
-O dar soccorso a le uirtuti afflitte:
-Le uiue uoci m’erano interditte:
-Ond’io cridai con charta [e] con inchiostro,
-Non son mio, no s’io moro: i danno è uostro.
-Ben mi credea dinanzi a gliocchi suoi
-D’indegno far cosi di merce degno:
-Et questa speme m’hauea fatto ardito.
-Ma talhor humilita spegne disdegno;
-Talhor l’enfiamma: [e] cio sepp’io dapoi
-Lunga stagion di tenebre uestito:
-Ch’a quei preghi il mio lume era sparito.
-Ed io non ritrouando intorno intorno
-Ombra i lei, ne pur de suoi piedi orma;
-Com’huom, che tra uia dorma;
-Gittaimi stanco sopra l’herba un giorno.
-Iui accusando il fuggitiuo aggio
-A le lagrime triste allargai’l freno;
-Et lasciaile cadder,come a lor parue:
-Ne giamai neue sott’al sol disparue;
-Com’io senti una sontana a piee d’un faggio.
-Gran tempo humido tenni quel uiaggio.
-Chi udi mai d’huom uero mascer fonte?
-
-
-023
-
-Mi mossi [e] quella fera bella [e] crude
-In una fone ignuda
-Si staua, quando’l sol piu forte ardea.
-Io, perche d’altra uista non m’appago,
-Stetti amirarla: ond’ella hebbe uergogna;
-Et per farne uendetta, o per celarse, 
-L’acqua nel uiso con le man mi sparse.
-Vero diro: forse e parra menzogna:
-Ch’i senti trarmi de la propria imago;
-Et in un ceruo solitario [e] uago
-Di selua in selua ratto mi trasformo;
-Et anchor di miei can fuggo lo stormo.
-Canzon i non fu mai quel nuuol d’oro;
-Che poi discese in pretiosa pioggia.
-Si che’l foco di Gioue in parte spense:
-Ma fui ben fiammi, ch’un bel guardo acense;
-Et fui l’ucel, che piu per lacre poggi,
-Alzando lei, che ne miei detti honoro:
-Ne per noua fiigura il primo alloro
-Seppi lassar: che pur la suadolce ombra
-Ogni men bel piacer del cor mi sgombra.
-
-S l’honorata fronde, che prescriue 
-L’ira del ciel, quando’l gran Gioue tona;
-Non m’haiesse disdetta la corona,
-Chhe suolw ornar chi poetando scriue;
-I era amico a queste uostre Diue,
-Lequa ulimene il secolo abandona:
-Ma quella ingiuria gia lunge mi sprona
-
-025
-
-Di me, uggendo quella spada scinta,
-Che fece al signor mio si lunga guerra:
-Et tutti voi, ch’amor laudate in rima,
-Al buon testor d gliamorosi detti
-Rendete honor, ch’era smarrito in prima:
-Che piu gloria è nel regno de gli eletti
-D’un spirito conuerso, [e] piu s’estima;
-Che di nouantanoue altri perfetti.
-
-Il sucessor di Carlo; che la chioma
-Con la corona del suo antico adorna;
-Prese ha gia l’arme per fiaccar le adorna;
-Prese ha gia l’arme per piaccar le corna
-A Babilonia, [e] chi da lei si noma:
-E’l uicario di Christo con la soma
-De le chiaui [e] del manto al nido torna;
-Si che, s’altro acidente no’l distorna,
-Vedra Bologna, [e] poi la nobil Roma.
-La mansueta uostra [e] gentil agna
-Abbatte i fieri lupi: [e] cosi uada,
-Chiunque amor legittimo scompagna.
-Consolate lei dunque, ch’anchor bada;
-Et Roma, che del suo sposo silagna;
-Et per Iesu cingete homai la spada.
-
-O aspetta in ciel beeata [e] bella
-Anima; che di nostra humanitade
-Vestita uai, non come l’altre carca;
-Perche ti sian men dure homai le strade
-A Dio diletta obediente ancella,
-
-026
-					13
-Onde al suoregno di qua giu si uarca;
-Ecco nouelleamente a la tua barca.
-Ch’al cieco mondo ha gia. uolte le spalle
-Per gir a miglior porto,
-D’un uento occidental dolce conforto;
-Lo qual per mezzo questa oscura ualle,
-Oue piangiamo il nostro [e] l’altrui torto,
-La condurra de lacci antichi sciolta
-Per drittissimo calle
-Al uerace oriente, ou’ella e uolta.
-Forse i deuoti [e] gliamorosi preghi,
-Et le lagrime sante de mortali
-Son giunte inanzi a lapieta superna:
-Et fors non fur mai tante ne tali;
-Che per merito lor punti si pieghi
-Fuor di suo corso la giustita eterna:
-Ma quel benigno re; che’l ciel gouerna;
-Al sacro loco, oue fu posto in croce,
-Gliocchi per gratia gira:
-Onde nel petto al nouo Carlo spira
-La uendetta, ch’a noi tardata noce
-Si, che molt’anni Europa ne sospira:
-Cosi soccorre a la sua amata sposa
-Tal; che sol de la uoce
-Fa temar Babilonia, [e] star pensosa.
-Chiunque alberga tra Garona, e’l monte
-Entra a’l Rodano e’l Reno [e] l’ode salse;
-Le’nsegne Christianissime accompagna:
-Et a cui mai di uero pregio calse
-
-027
-
-Dal Pireneo a l’ultimo orizionte,
-Con Aragon lassarauota Hispagna:
-Inghliterra con l’isole, che bagna
-L’Oceano intra’l carro [e] le colonne,
-In fin la, doue sona
-Dorrtina del santissimo Helicona,
-Varie di lingue [e] d’arme [e] de le gonne
-Al’alta impresa caritate sprona.
-Deh qual amor si licio, o si degno;
-Qua figli mai; quai donne
-Furon materia a si giusto disdegno?
-Vna parte del mondo è; che si giace
-Mai sempre in ghiaccio [e] in gelate neui
-Tutta lontana dal camin del sole.
-La sotto i giorni nubilosi [e] breui
-Nemica naturalmente di pace
-Nasce una gente; a cui’l morir non dole:
-Questa se piu deuota, che non sole,
-Col Tedesco furor la spada cigne.
-Turchi, Arabi [e] Caldei
-Con tutti quei, che speran nelli Dei
-Di qua dal mar, chee fa l’onde sanguigne,
-Quanto sian da prezzar conoscer dei;
-Popolo ignudo, pauentoso, [e] lento;
-Che ferro mai non stringe;
-Ma tutti colpi suoi commette al uento.
-Dunque hora è’l tompo da ritrarre il collo
-Dal giogo antico; [e] da squarciare il uelo,
-Ch’è stato auolto intorno gliocchi nostri;
-
-028
-					14
-Et che’l nobile ingegno, che dal cielo 
-Per gratia tien’ de l’immortale Apollo;
-Et l’eloquentia sua uertu qui mostri
-Hor con la lingua, hoe con laudati inchiostri:
-Per chee d’Orpheo leggendo [e] d’Amphiono
-Se non ti marauigli;
-Assai men fia, ch’Italia co suoi figli
-Se desti al suon del tuo chiaro sermone
-Tanto, che per Iesu la lancia pigli:
-Che,s’al uer mura questa antica madre,
-In nulla sua tentione
-Fur mai cagion si belle, o si leggidare.
-Tu; c’hai per arricchir d’un bel thesauro
-Volte lantiche [e] le moderne charte
-Volando alciel con la terrena soma;
-Sai da l’imperio del figliuol di Marte
-Al grande Augusto, che di uerde lauro
-Tre uolte triomphando orno la chioma,
-Ne l’altrui ingurie el suo sangue Roma
-Spesse fiate quanto fu cortese:
-Et hor perchee non fia
-Cortese no; ma connoscent [e] pia
-A uendicar le dispietate offese
-Co figliuol glorioso di Maria?
-Che dunque la nemica parte spera
-Ne l’humane difese;
-Se christo sta da la contraria schiera?
-Pon mente al temerario ardir di Xerse;
-Che fece per calcar i nostri liti
-
-029
-
-Di noui ponti oltraggio a la marina:
-Et Uerdrai ne la morte d’e mariti
-Tutte uestite a brun le donne perse,
-Et tinto in rosso il mar di Salamina: 
-Et non pur queesta misera ruina
-Del popolo infelice d’Oriente
-Vittoria ten’promette;
-Ma Marathona, e li mortali strette,
-Che difese il Leon con poca gente;
-Et altre mille, c’hai’ scolate[e] lette.
-Prche inchinar a Dio molto conuene
-Le ginoccia [e] la mente;
-Che glianni tuoi riserua a tanto bene.
-Tu uerda’ Italia [e] l’honorata riua
- Canzon; ch’agliocchi miei cela [e] contende
-Non mar, non poggio, o fiume;
-Ma solo amor; che de suo altero lume
-  Piu m’inuaghisce, doue piu m’incende:
-Ne natura po star contra’l constume.
-Hor moui, non smarrir l’altre compagne:
-Che non pur sotto bende
-Albergha amor; per cui si ride [e] piange.
-
-Verdi panni, sanguigni, oscuri, o persi
-Non uesti donna unquanco;
-Ne d’or capelli in bionda treccia attorse
-Si bella; come questa, che mi spoglia
-D’arbito; [e] da camin di libertade
-Seco mi tira si, ch’o non sostegno
-
-030
-					15
-Alcun giogo men graue.
-Et se pur s’arma talhor a dolersi
-L’anima; a cui uien manco
-Consiglio, oue’l martir l’adduce in forse;
-Rappella lei da la sfrenata uoglia
-Subito uista; che del cor mmi rade
-Ogni delira impresa, [e] ogni sdegno
-Fa’l ueder lei soaue.
-Di quanto per amore giami soffersi,
-Et haggio a soffrir ancho
-Fin che mi sani’l cor colei chel morse
-Rubella di merce, che pur le’nuoglia;
-Vendetta fia; sol che contra humilitade
-Orgogolio [e] ira il bel passo, ond’io uegno,
-Non chiuda [e] non inchiaue.
-Ma l’hora e’l giorno; ch’io le luci apersi
-Nel bel nero [e]. nel bianco,
-Che mi scacciar di la doue amor corse;
-Nouella d’esta uita, che m’aggoglia,
-Furon radice; [e] quella; in cui. l’etadee
-Nostra si mira; laqual piombo, legno
-Vedendo è chi non paue.
-Lagrima’ dunque; che da gliochhi uersi
-Per quelle, che nel manco
-Lato mi bagna, chi primer s’accorse,
-Quadrella; dal uoler mio non suoglia:
-Che’n guista parte la sententia cade:
-Per li sospira l’alma; [e] ella è degno,
-che le sue piaghe laue.
-
-031
-Da me son fatti i miei pensierr diuersi:
-Tal gia; qual io mi stanco;
-L’amata spada in se stessa cotorse.
-Ne quella prego, che pro mi scioglia:
-Che men son dritte al ciel tutt’altre strade;
-Et non s’aspira al glorioso regno
-Certo in piu salda naue.
-Benigne elle; che compagne fersi
-Alfortunato fianco,
-Quando’l bel. parto giu nel mondo scors:
-Ch’è stella in terra; [e], come in lauro foglia,
-Conserua uerde il pregio d’honestade;
-Oue non spira folgore, ne indegno
-Veno mai, che l’aggraue.
-So io ben; ch’a uoler chiuder in uersi
-Suo llaudi, for a stanco,
-Che piu degna la mano a scriuer porse.
-Qual cella è di memoria; in cui s’accoglia,
-Quanta uede ueertu, quanta beltade,
-Che gliocchi mira d’ogni ualor segno,
-Dolce del mio cor chiaue?
-Quanto’l sol gira, amor piu. caro pegno
-Donna di uoi non haue.
-
-Giouene donna sott’un uerde lauro
-Vidi piu bianca [e] piu fredda, che neue
-Non percossa dal sol molti [e] molt’anni:
-E’l suo parlar, e’l bel usio. [e] le chiome
-Mi piacque si; ch’i l’ho dinanzi a gliocchi;
-
-032
-						16
-Et hauro sempre, ou’io sia in poggio o’n riua.
-Allhor saranno i miei pensieri a riua;
-Che foglia urde non sitroui in lauro:
-Quand’hauro queto il cor, ascuitti gliocchi;
-Verdrem ghiacciar il foco, arder la neue.
-Non ho tanti capelli in queste chiome;
-Quanti uorrei quel giorno atender anni.
-Ma per che uola il tempo, [e] fuggon glianni
-Si, ch’a la morte in un punto s’arriua
-O con le brune, o con le ianche chiome;
-Segurio l’ombra di quel dolce lauro
-Per lo piu ardente sole [e] per la neue,
-Fin che l’ultimo di chiuda quest’occhi.
-Non fur giamai ueduti si begliocchi
-O ne la nostra etade, o ne prim’anni;
-Che mi struggon cosi, come’l sol neue:
-Onde procede lagrimosa riua;
-Ch’amor conduce a pie del duro lauro;
-C’ha i rami di diamante, [e] d’or le chiome.
-I temo di cangiar pria uolto [e] chiome;
-Che con uera pieta mi mostri gliocchi
-L’idolo mio scolpito in uiuo lauro:
-Che;s’alcontar non erro; hoggi ha sett’anni;
-Che sospirando uo i riua in riua
-La notte, e’l giorno, al caldo, ed a la neue.
-Dentro pur foco, [e] for candida neue
-Sol con questi pensier, con altre chiome
-Sempre piangendo andro per ogni riua,
-Per far forse pieta uenir ne gliocchi.
-
-033
-Di tal, che scera dopo mill’anni;
-Se tanto uiuer po ben culto lauro.
-Lauro, e i topaci, al sol sopra la neue
-Vincon le bionde chiome presso a gliocchi;
-Che minan glianni miei si tosto a riua.
-
-Quest’anima gentil; che si diparte
-Anzi tempo chiamata a l’altra uita;
-Se lassuso è, quant esser de gradita;
-Terra’ del ciel la piu beata parte.
-S’ella riman fra’l terzo lume [e] Marte;
-Fia la uista del sole scolorita,
-Poi ch’a mirar sua bellezza infinita
-L’anime dene intorno a lei fien sparte.
-Se si posasse sotto’l quarto nido;
-Ciascuna de l tre saria men bella,
-Et essa sola hauria la fama e’l grido
-Nel quinto giro non habitrebbe’ella:
-Ma se uola piu alto; assai mi fido,
-Che con Gioue sia uinta ognialtra stella.
-
-Quanto piu m’auicino al giorno extreme,
-Che l’humana miseria suol far breue:
-Oiu uegggio’l tempo anar ueloce [e] leue,
-E’l mio di lui perar fallace [e] scemo.
-I dico amiei penser, non molto andremo
-D’amor parlando homai; che’l duro [e] greue
-Terreno incarco, como fesca neue,
-Si ua sruggendo: onde noi pace hauremo:
-
-034
-						17
-Perche con lui cadra quella speranza
-Che ne se uaneggiar si lunamente;
-E’l riso, e’l pianto,  [e] la paura, [e] l’ira.
-Si uedrem chiaro poi; come couente
-per le cose dubbiose a tri s’auanza;
-Et come spesso indarno si sospira.
-
-Gia fiammeggiaua l’amorosa stella
-Per l’’oriente; [e] l’altra, che Giunone
-Suol’far gelosa, nel settentrione
-Rotaua i raggi suoi lucente [e] bella;
-Leuata era a filar la uecchiarella
-Discinta [e] scalza, [e] desto hauea’l carbone;
-Et gliamanti pungea quella stagione,
-Che per usanza a la grimar gliappella;
-Quando mia speme gia condotta aluerde
-Giunse nel cor non per l’usata uia;
-Che’l sonno tenea chiusa, e’l dolor molle;
-Quanto cangiata oime da qiel di pria:
-Ett parea dir, perche tuo ualor perde?
-Veder quest’occhi anchor non ti si tolle.
-
-Apollo; s’anchor uiue il bel desio,
-Che t’infammaua a le Thesaliche onde;
-E se non hai l’amate chiome bionde
-Volgndo glianni gia peste in oblio;
-Dal pigro gielo [e] dal tempo aspro [e] rio,
-Che dura quanto’l tuo uiso s’asonde,
-Difendi hor l’honarata [e] sacra fronde;
-					c
-
-035
-
-Oue tu prima, [e] poi fu’inuescat’io:
-Et per uertu de l’amorosa spene,
-Che ti sostenne ne la uita acerba,
-Di queste impression l’aere disgombra.
-Si uedrem poi per merauiglia inseme
-Seder la donna nostra sopra l’herba,
-Et far de le sue braccia a se stess’ombra.
-
-Solo [e] pensoso i piu deserti campi
-Vo misurando a passi tari [e] lenti;
-Et gliocchi porto per fuggire intenti,
-Oue uestigio human la rena stampi.
-Altro schermo non trouo, chemi scampi
-Dal manifesto accorger de le genti:
-Perche ne gliatti d’allegrezza spenti
-Di fuor si lege; com’io dentro auampi:
-Si ch’io mi credo homai, che monti [e] piagge
-Et fumi [e] selue sappian di che tempre
-Sia la mia uita; ch’è celata altrui.
-Ma pur si aspre uie ne si seluagge
-Cercar non so; ch;amor non uenga sempre
-Ragionando con meco, [e] io con lui.
-
-S’io credesse per morte essere scarco
-Del pensier amoroso, che m’atterra;
-Com le mie mani haurei gia posto. in terra
-Quese membra noiose, [e] quello incarco:
-Ma perch’io tempo, che sarebbe un uarco
-Di pianto in pianto, [e] d’una in altra guerra.
-
-036
-						18
-Di qua dal passo anchor, che mi si serra,
-Mezzo rimango lasso, [e] mezzo il uarco.
-Tempo ben for a homai h’hauere spinto
-Lultimo stral la dispietata corda
-Ne l’altrui sangue gia bagnato [e] tinto:
-Et io ne prego amore [e] quella sorda;
-Che mi lasso de suoi color dipinto;
-Et di chiaarmii a se non le ricorda.
-
-Si è debile il filo, a cui s’attene
-
-La grauosa mia uita;
-Che, s’altri non l’aita,
-Ella fia tosto di suo corso a riua:
-Pero che dopo l’empia diapartita,
-Che dal dolce mio bene
-Feci, sol una spene
-È stato infin a qui cagion ch’io uiua,
-Dicendo, per che priua
-Sia de l’amata uista;
-Mantienti anima trista:
-Che sai, c’a miglior tempo ancho ritorni,
-Et a piu lieti giorni?
-O se’l perduto ben mai si racquista?
-Questa spranza mi sostenne un tempo:
-Hor uien mancando; [e] troppo in lei m’attempo.
-Il tempo passa; [e] l’hore son si pronte
-A fornir il uiaggio;
-Ch’assai spatio non haggio
-Pur a pensar, com’io corro a la morte
-					c    ii
-
-037
-
-A pena spunta in oriente un raggio
-Di sol; ch’a l’altro monte
-Del aduerso orizonte 
-Giunto’l uedrai per uie lunghe [e] distorte.
-Le uite son si corte,
-Si graui i corpi [e] frali
-De glihuomini mortali;
-Che quand’io mi ritrouo dal bel uiso
-Contanto esser diuiso
-Col desio non possendo mouer l’ali;
-Poco m’auanza del conforto usato:
-Ne so, quant’io mi uiua in questostato.
-Ogni loco m’attri sta, ou’io non uegio
-ue begliocchi souai;
-che portaron le chiaui
-De miei dolci pensier, mintr’a Dio piacque:
-Et perche’l duro exilio piu m’aggraui;
-S’io dormo, o uado,osegio;
-Altro giamai non cheggio;
-Et cio ch’i uidi dopo lor, mi spiacque.
-Quante montagne [e] acque,
-Quanto mar, quanti fiumi
-M’ascondon que duo lumi;
-Che quasi un bel sereno a mezzo’l die
-Fer le tenebre mie,
-Accio che’l rimembrar piu mi consumi:
-Et quant’era mia uita allhor gioiosa,
-M’insegni la presente aspra [e] noiosa.
-Lasso, se ragionando si rinfresca
-
-038
-					19
-Quel ardente desio,
-Che nacque il giorno, ch’io
-Lassai di me la miglior parte a dietro;
-Et s’amor se ne ua per lungo oblio;
-Chi mi conduce a l’esca,
-Onde’l mio dolor cresca?
-Et per che pria acendo non m’impretro?
-Certo cristallo, o uerto
-Non mostro mai di fore
-Nascosto altro colore;
-Che l’alma sconsolata assai non mostri
-Piu chiari i pensier nostri
-Et la fera dolceszza, ch’è nel core;
-Per gliocchi; che di sempre pianger uaghi
-Cercan di [e] notte pur, chi glie n’appaghi. 
-Nouo piacer; che ne glihumani ingegni
-Spesse uolte si troua;
-D’amar, qual cosa noua
-Piu folta schiera di sospiri accoglia:
-Et io son un di quei,chel pianger gioua:
-Et par ben, ch’io m’ingegni,
-Che di lagrime pregni
-Siengliocchi miei, si come’ l cor do doglia:
-Et perche accio m’inuoglia
-Ragionat de begliocchi;
-(Ne cosa è; che mi tocchi,
-O sentir mi si faccia cosi a dentro)
-Corro spesso [e] rientro
-Cola, donde piu largo il duol trabbocchi
-					c    iii
-
-039
-
-Et sien col cor punite ambe le luei,
-Ch’a la strada d’amor mi furon duei.
-Le treccie d’or, che deurien far il sole
-D’inuidia molta ir pieno;
-E’l bel guardo sereno;
-Oue i raggi d’amor si caldi sono,
-Che mi fanno anzi tempo uenir meno;
-Et l’accorte parole
-Rade nel mondo o sole,
-Che mi fer gia di se cortese dono;
-Mi son tolte: [e] perdono
-Piu lieue ogni alra offesa;
-Che l’essermi contesa
-Quella benigna angelica salute;
-Che’l mio cor a uirtute
-Deestar solea con una uoglia accesa;
-Tal; ch’io non penso udir cosa giamai,
-Che mi confote as altro, ch’a trar guai.
-Et per pianger anchor con piu diletto;
-Le man bianche sottili
-et le braccia gentili,
-Et gliatti suoi soauemente alteri,
-E i. dolci sdegni alteramente humili,
-E’l bel giouenil petto
-Torre d’alto intelletto
-Mi celan questi luoghi alpestri [e] feri:
-Et non so, s’io mi speri
-Vederla anzi ch’io mora:
-Pero ch’adhora ahora
-
-040
-						20
-S’erge l spm; [e] poi non sa star ferma;
-Ma ricadendo afferma
-Di mai non ueder lei, che’l cielo honora;
-Oue alberga honestate [e] cortesia;
-Et dou’io pego, che’l mio albergo sia.
-Canzon; s’al dolce loco
-La donna nostra uedi;
-Credo ben, che tu credi,
-Ch’ella ti porgera la bella mano;
-Ond’io son si lontano.
-Non la toccar.ma reuerente a piedi
-Ledi, ch’io saro la tosto ch’io possa,
-O spirito ignudo, o huom di carne [e] d’ossa.
-
-Orso ee non furon mai fiumi, ne stagni,
-Ne mare, ou’ogni riuo so di disgombra;
-Ne di muro, o di poggio, o di ramo ombra;
-Ne nebbia, che’l ciel copra, e’l mondo bagni;
-Ne altro impedmento, ond’io mi lagni;
-Qualunque piu l’humanauista ingombra;
-Quanto d’un uel, che due begliocchi adombra;
-Et par che dica, hor ti consima [e] piangi:
-Et quel lor inchinar; ch’ogni mia gioia
-Spegne o per humiltate, o per orgoglio;
-Cagion sara, che nanzi tempo o moia:
-Et d’una bianca mano ancho mi doglio;
-Ch’è stata sempre accorta afarmi noia,
-Et contragliocchi miei s’è fatta scoglio.
-					c    iiii
-
-041
-Io temo si de begliocchi l'assalto,
-Ne quali amore [e] la mia morte alberga;
-Ch'i fuggo lor, come fanciulla uerga;
-Et gran tempo è, ch'io presi'l primier salto.
-Da hora inanzi faticoso, od alto
-Loco non fia; doue luoler non s'erga;
-Per non scontrar, ch'i miei sensi disperga
-Lassando, come siol, me freddo smalto.
-Dunque s'a ueder uoi tardo mi uolsi,
-Per non rauicinarmi a chi me strugge;
-Fallir forse non fu di scusa indegno.
-Piu dico: chè l tornare a quel, c'huom fugge;
-E'l cor, che di paura tanta sciolsi;
-Fur de la fede mia non legger pegno.
-
-S'amore, o morte non da qualche stroppio
-A la tela nouella, c'hora ordisco;
-Et s'io mi suoluo dal tenaoe uisco,
-Mentre che l'un con l'altro uere accoppio;
-I faro forse un mio lauor si doppio
-Tra lo stil de moderni e'l sermon prisco;
-Che (pauentesamente a dirlo ardisco)
-In fin a Roma n'udirai lo scoppio.
-Ma pero, che mi manot a fornir l'opra
-Alquanto de le fila benedette,
-Ch'auanzaro a quel mio diletto padre;
-perche tien uerso me le man si strette
-Contra tua usanza?i prego, che tu l'opra:
-Et uedrai riuscir cose leggiadre.
-
-042
-21
-Quando dal proprio sito si rimoue
-L’arbor, ch'amo gia Phebo in corpo humano;
-Sospira [e] suda a l'opera Vulcano,
-Per rinfrescar l'aspre saette a Dioue:
-Il qual hor tona, hor neuica, [e] hor pioue
-Senza honorar più Cisare, che Giano:
-La terra piagne, e'l sol ci sta lontano,
-Che la sua cara amici vede altroue.
-Allhor riprende ardir Saturno [e] Marte
-Crudeli stelle; [e] Orione armato
-Spezza a tristi nocchier gouerni [e] sarte:
-Eolo a Nettuno [e] a Giunon turbato
-Fa sentir, [e] a noi; come si parte
-Il bel viso da gliangeli aspettato.
-
-Ma poi chel doloe riso humile [e] piano
-Piu non asconde sue bellezze nove;
-Le braccia a la fucina indarno moue
-L'antiquissimo fabbro Siciliano:
-Ch'a Giove tolte son l'arme di mano
-Temprate in Mongibello a tutte proue,
-Et sua sorella par, che sirinoue
-Nel bel guardo d'Apollo amano amano.
-Del lito occidental si moue un fiato;
-Che fa securo il navigar senz'arte.
-Et desta i fior tra l'herba in ciascun prato.
-Stelle noiose fuggen d'ogni parte
-Disperse dal bel uiso inamorato;
-Per qui lagrime molte son gia sparte.
-
-043
-
-Il figliuol di Latona hauea gia noue
-Volte guardato dal balcon sourano
-Per quella; ch'alcun tempo mosse in uano
-I suoi sospiri, [e] hor gli altrui commoue:
-Poi che cercando stanco non seppe oue
-S'albergasse daprosso, o di lontano;
-Mostressi a noi, qual huom per doglia insano
-Che molto amata [e] cosa non ritroue:
-Et osi tristo standosi in disparte
-Tornar non uide il uiso; che laudato
-Sara, s'io viuo, in piu di mille charte:
-Et pieta lui medesmo hauea cangiato
-Si; ch'e begliocchi lagrimauan parte:
-Pero l'aere ritenne il primo stato.
-
-Quel; che'n Thesaglia hebbe le man si pronte
-A farla del ciuil sangue uermiglia;
-Pianse morto il marito di sua figlia
-Raffigurato a le fatezze conte:
-E'l pastor, ch'a Golia ruppe la fronte
-Pianse la ribellante sua famiglia;
-Et sopra'l buon Saul cangio le ciglia:
-Ond'assai puo dolersi il fiero monte.
-Ma uoi; che mai pieta non discolora,
-Et c'hauete gli schermi semprèe accorti
-Contra laroo d'amor, che'ndarno tira;
-Mi uedete stratiare a mille morti:
-Ne lagrima pero discesce anchora
-Da be uostr' occhi; ma disdegno [e] ira-
-
-044
-				22
-Il mio auersario, in cui ueder solete
-Gliocchi uostri; ch'amore e'l ciel honora;
-Con le non sue bellezze u'innamora
-Piu, che’n guisa mortal, soaui [e] liete.
-Per consiglio di lui Donna m'hauete
-Saccciato del mio dolce albergo fora,
-Misero exilio; auegna ch'io non fora
-D'habitar degno, oue uoi sola siete.
-Ma s'io u'era con saldi chioui fisso;
-Non deuea specchio farui per mio danno
-A uoi stessa piacendo aspra [e] superba.
-Certo se ui rimemibra di Narosso;
-Questo e quel corso ad un termino uanno:
-Ben che di si bel fior sia indegna l'herba.
-
-L'oro, [e] le perle, ei fior uermigli e i bianchi;
-Chè'l uerno deuria far languidi [e] secchi;
-Son per me acerbi [e] uelenosi stecchi;
-Ch'io prouo per lo petto [e] per li fianchi:
-Pero i di miei fien lagrimosi [e] manchi:
-Che gran duol rade volte aven, che nuecchi.
-Ma piu ne' ncolpo i micidiali specchi;
-Che'n uagheggiar uoi stessa hauete stanchi-
-Questi poser silentio al signor mio,
-Che per me ui pregaua; ond'ei si tacque
-Veggendo in uoi finir uostro desio:
-Questi fur fabbricatti sopra l'acque
-D’abisso, [e] tinti nel eterno oblio;
-Onde'l principio di mia morte nacque.
-
-045
-
-Io sentia dentr'al cor gia uenir meno
-Gli spirti, che da voi riceuon uita:
-Et perche naturalmente s'aita
-Contra la morte ogni animal terreno;
-Largai'l desio, ch'i teng’hor molto a freno;
-Et misil per la uia quasi smarrita:
-Pero che di [e] notte indi m'inuita;
-Et io contra sua uoglia altronde'l meno.
-E mi condusse uergognoso [e] tardo
-A riueder gliocchi leggiadri; ond'io,
-Per non esser lor graue, assai mi guardo.
-Viurommi un tempo homai: ch al uiuer mio
-Tanta uirtute ha sol un uostro sguardo:
-Et poi morro; s'io non credo al desio.
-Se mai foco per foco non si spense,
-Ne fiume fu giamai seco per pioggia;
-Ma sempre l'un per. l'altro simil pioggia,
-Et spesso l'un contrario l'altro acense;
-Amor tu, ch'e pensier nostri dispense,
-Alqual un'alma in duo corpi s' appoggia,
-Perche fa’ in lei con disusata foggia
-Men per molto uoler le uoglie intense?
-Forse; si come'l Nil d'alto caggendo
-Col gran siono i vicin dintorno assorda,
-E'l sol abbaglia che ben fiso il guarda;
-Cosi l desio, che seco non s'accorda,
-Ne lo sfrenato obbietto uien perdendo;
-Et per troppo spronar la fuga è tarda.
-
-046
-					23
-Perch'io t'habbia guardato di menzogna
-A mio podere, [e] honorato assai
-Ingrata lingua; gia pero non m'hai
-Renduto honor; ma fatto ira [e] uergogna:
-Che quando piu’l tuo aiuto mi bisogna
-Per dimandar mercede, allhor ti stai
-Sempre piu fredda; [e] se parole fai,
-Sono imperfette, [e] quasi d'huom, che sogne:
-Lagrime triste [e] uoi tutte le notti
-M'acompagnate, ou'io uorrei star solo;
-Poi fuggite dinanzi a la mia pace:
-Et uoi si pronti a darmi angoscia [e] duolo
-Sospiri, allhor trahete lenti [e] rotti.
-Sola la uista mia del cor non tace.
-
-Ne la stagion; che'l ciel rapido inchina
-Verso occidente, [e] che'l di nostro uola
-A gente, che di la forse l'aspetta;
-Veggendosi in lontan paese sola
-La stanca uecchiarella pellegrina
-Raddoppia i passi, [e] piu [e] piu s'affretta:
-Et poi cosi soletta
-Al fin di sua giornata
-Talhora è consolata
-Dalcun breue riposo; ou'ella oblia
-La noia e'l mal de la passata uia.
-Ma lasso, ogni dolor, che'l di m'adduce
-Cresce, qualhor s'inuia
-Per partirsi da noi l'eterna luce.
-047
-
-Come’l sol uolge l'enfiammate rote,
-Per dar luogo a la notte; onde discende
-Da gli altissimi monti maggior l'ombra;
-L'auaro Zappador l'arme riprende;
-Et con parole [e] con alpestri note
-Ogni gravezza del suo petto sgombra;,
-Et poi la mensa ingombra
-Di pouere uiuande
-Simili a quelle giande,
-Lequa fuggendo tutto’l mondo honora.
-Ma chi uuol si rallegri adhora adhora:
-Ch'i pur non hebbi anchor non diro lieta,
-Ma riposata un' hora,
-Ne per uolger di ciel, ne di pianeta.
-Quando uede'l pastor calare i raggi
-Del gran pianeta al nido, ou’egli alberga;
-E'mbrunir le contrade d'oriente;
-Drizzasi in piedi; [e] con l'usata uerga
-Lassando l'herba [e] le fontane e i faggi
-Moue la schiera sua soauemente:
-Poi lontan da la gente
-O casetta, o spelunca
-Diuerdi frondi ingiuna:
-Iui senza pensier s’adagia [e] dorme.
-Ai crudo Amor;ma tu allhor piu m’informe
-A seguir d'una fera, che mi strugge,
-La uoce e i passi [e] l’orme;
-Et lei non stringi, che s’appiatta [e] fugge.
-E i nauiganti in qualche chiusa ualle
-
-048
-					24
-Gettan le membra, poi che'l'sols'asconde
-Sel duro legno [e] sotto a l'apre gonne.
-Ma io; perche s'attuffi in mezzo l'onde,
-Et lassi Hispagna dietro a le sue spalle
-Et Granata [e] Marroco [e] le Colonne,
-Et glihuomini [e] le donne
-E'l mondo [e] glianimali
-Acquctino i lor mali;
-Fine non pongo al mio ostinato affanno:
-Et duolmi, ch'ogni giorno arroge al danno:
-Ch'i son gia pur crescendo in questa uoglia
-Ben presso al decim'anno;
-Ne poss' indouinar, chi me ne scioglia.
-Et perche un poco nel parlar misfogo;
-Veggio la sera i buoi tornare sciolti
-Da le campagne [e] da solcati colli.
-I miei sospiri a me perche non tolti,
-Quando che sia? perche no'l graue giogo?
-Perche di [e] notte gliocchi miei son molli?
-Misero me, che uolli;
-Quando primir si fiso
-Gli tenni nel bel viso,
-Per iscolpirlo imagginando in parte;
-Onde mai ne per forza, ne per arte
-Mossi sara; fin ch'i sia dato in preda
-A chi tutto diparte:
-Ne so ben ancho, che di lei mi creda.
-Cancon se l'esser meco
-Dal mattino a la sera
-
-049
-
-T’ha fatto di mia schiera;
-Tu nonuorrai mostrarti in ciascun loco:
-Et d'altrui loda curerai si poco;
-Ch'assai ti fia pensar di poggio in poggio
-Come m’ha concio'l foco
-Di questauiua petra, ou’io m’appoggio.
-
-Poco era ad appressarsi a gliocchi miei
-La luce, che da lunge gli abbarbaglia;
-Che, come uide lei cangiar Thesaglia
-Cosi cangiato ogni mia forma haurei:
-Et s'io non posso tra formami in lei
-Piu, ch’i mi sia, non ch’a merce mi uaglia;
-Di qual petra piu rigida s’intaglia,
-Pensoso ne la uista hoggi sarei;
-O di diamante, o d’un bel marmo bianco
-Per la paura forse, o d'un diaspro
-Pregiato poi dal uulgo auaro [e] sciocco:
-Et sarei fuor del graue giogo [e] aspro;
-Per cu'i ho inuidia di quel uecchio stanco,
-Che fa con le sue spalle ombra a Marroco.
-
-Non al suo amante piu Diana piacque,
-Quando per tal uentura tutta ignuda
-La vide in mezzo de le gelid’acque;
-Ch'a me la pastorella alpestra [e] cruda
-Posta a bagnar un leggiadretto uelo
-Ch'a Laura il uago [e] biondo capel chiuda;
-Tal; che mi fece hor, quand’egli arde il cielo
-
-050
-					25
-Tutto tremar d’un amoroso gielo.
-
-Spirto gentil; che quelle membra reggi
-Dentro a le qual peregrinando albergae
-Vn signor ualoroso accorto [e] saggio;
-Poi che se giunto a l’honorata uerga,
-Con la qual Roma [e] suoi erranti correggi,
-Et la richiami al suo antico uiaggio;
-Io parlo a te:pero ch’altroue un raggio
-Dormira sempre; e non fia, chi la suegli?
-Le man l’hauess' io auolte entro capegli.
-Non spero, che giamai dal pigro sonno
-Moua la testa per chiamar, c’huom faccia;
-Si grauement’ è oppressa, [e] di tal soma.
-Ma non senza destino a le tue braccia;
-Che scuoter forte e solleuarla ponno;
-E’hor commesso il nostro capo Roma.
-Non veggio di vertu, ch'almondo e spenta;
-Pon man in quella uenerabil chioma
-Securamente [e] ne le treccie sparte
-Si, che la neghittesa esca del fango.
-I;che di [e] notte del suo stratio piango;
-Di mia speranza ho in te la maggior parte:
-Che sel popol di Marte
-Deuesse al proprio honor alzar mai gliocchi;
-					d
-
-051
-Parmi pur, ch’a tuoi di la gratia tocchi.
-Lantiche mura; ch’anchor teme [e] ama
-Et trema’l mondo, quando si rimembra
-Del tempo andato e’n dietro si riuolue;
-E i sassi, doue fur chiuse le membra
-Di ta, che non saranno senza fama,
-Se l’uniuerso pria non si dissolue,
-Et tutto quel, ch una ruina inuolue,
-Per te spera saldar ogni suo uitio.
-O grandi Scipioni, o fedel Bruto
-Quanto u’aggrada, se gli è anchor uenuto
-Romor la giu del ben locito offitio.
-Come cre, che Fabritio
-Si faccia lieto udendo la nouella;
-Et dice, Roma mia sara anchor bella.
-Et se cosa di qua nel ciel si cura;
-L’anime; che lassu son citadine,
-Et hanno i corpi abandonati in terra;
-Del lungo odio ciuil ti pregan fine,
-Per cui la gente ben non s’assecura;
-Onde'l aimin a lor tetti si serra;
-Che fur gia si devoti; [e] hora in guerra
-Qvasi spelunca di ladron son fatti
-Tal, ch’a buon solamente uscio si chiude;
-Et tra glialtari, [e] tra le statue ignude
-Ogn’impresa crudel par che si tratti.
-Deh quanto diuersi atti.
-Ne senza squille s' incomincia assalto;
-Che per Dio ringratiar fur poste in alto.
-
-052
-					26
-Le donne lagrimose, el uulgo inerme
-De la tenera etate, e i vecchi stanchi;
-C’hanno se in odio [e] la souerchia uita;
-E i neri fraticelli, e i bigi, e i bianchi
-Con l'altre schiere travagliate e'nferme
-Gridan, o signor nostro aita aita:
-Et la pouera sbigottita
-Ti scopre le sue piaghe a mille a mille;
-C'Hanibale, non ch’altri, farian pio:
-Et se ben guardi a la magion di Dio
-Ch'arde hogghi tutta; assai poche fauille
-Spegnendo fien tranquille
-Le uoglie, che si mostran s’ infiammate:
-Onde fien l’opre tue nel ciel laudate.
-Orsi, lupi, leoni, aquile, [e] serpi
-Ad un gran marmorea colonna
-Fanno noia souente, [e] a se danno:
-Di costor piagne quella gentil donna;
-Che t'ha chiamato, acio che di lei sterpi
-Le male piante, che fiorir non sanno.
-Passato è gia piu che’l millesim’anno;
-Che’n lei mancar quell’anime leggiadre,
-Che locata l'hauean la, dou’ell’era.
-Ai noua gente oltra misura altera,
-Irreuerente a tanta [e] a tal madre.
-Tu marito, tu padre;
-Ogni soccorso di tua man s’attende:
-Che'l maggior padre ad altr’opera intende.
-Rade uolte aduien, ch'a l'alte imprese
-d ii
-
-053
-
-Fortuna ingiuriosa non contrasti;
-Ch’a glianimosi fatti mal s'accorda.
-Hora sgombrando’l passo, onde tu intrasti,
-Fa mi si perdonar molt’altre offese:
-Ch' almen qui da se stessa si discorda:
-Pero che, quanto'l mondo si ricorda,
-Ad huom mortal non fu aperta la uia
-Per farsi, come a te, di fama eterno:
-Che puoi drizzar, s’i non falso discerno,
-In stato la piu nobil monarchia.
-Quanta gloria ti fia
-Dir, glialtri l’aitar giouene [e] forte:
-Questi in uecchiezza la scampo da morte.
-Sopra’l monte Tarpeo canzon uedrai
-Vn atualier; ch'Italia tutta honora;
-Pensoso piu d’altrui, che di se stesso.
-Digli; Vn, che non ti uide anchor dapressa,
-Senon come per fama huom s’innamora;
-Diae, che Roma ognihora
-Con gliocchi di dolor bagnati [e] molli
-Ti chier merce da tutti sette i colli.
-
-Perch’al viso d'amor portaua insegna;
-Mosse una pellegrina il mio cor uano:
-Ch’ognialtra mi parea d’honor mien degna:
-Et lei seguendo su per l’herbe uerdi
-Vdi dir alta uoce di lontano,
-Ai quanti passi per la selua perdi.
-Allhor mi strinsi a l’ombra d’un bel faggio
-
-054
-					
-Tutto pensoso; [e] rimirando intorno
-Vidi assai perigliso il mio uiaggio:
-Et torna’indietro quasi a mezzo il giorno.
-
-Quel foco ch’io pensai che fosse spento
-Dal freddo tempo, et da l’eta men fresca;
-Fiamma [e] martir ne l'anima rinfresca.
-Non fur mai tutte spente a quel, ch’i ueggio:
-Ma ricoperte alquanto le fauille:
-Et temo no’l secondo error sia peggio.
-Per lagrime, ch’io spargo a mille a mille.
-Conuen che'l duol per gliocchi si distille
-Dal cor, c’ha secole fauille [e] l'esca,
-Non pur qual fu; ma pare a me che cresca.
-Qval foco nonhaurian gia spento [e] morto
-L’onde, che gliocchi tristi versan sempre?
-Amoi (auegna mi sia tardi accorto)
-Vol, che tra duo contrari mi distempre:
-Et tende lacei in si diuerse tempre;
-Che,quand’ho piu speranza che’l cor n’esca,
-Allhor piunel bel uiso mi rinuesca.
-
-Se col cieco desir, che’l cor distrugge,
-Contando l’hore non m’ingann’io stesso;
-Hora, mentre ch’io parlo, il tempo fugge;
-Ch’a me fu inseme [e] a merce promesso.
-Qual ombra è si crudel, che’l seme adhugge,
-Ch’al desiato frutto era si presso?
-Et dentro dal mio ouil qual fera rugge?
-d  iii
-
-055
-19
-Tra la spiga [e] la man qual muro e’meso?
-Lasso nol so. ma si conosco io bene;
-Che per far piu dogliosa lo mia uita
-Amor m’addusse in si gioiosa spene:
-Et hor di quel, ch io ho letto, mi souene:
-Che nanzi al di de l’ultima partita
-Huom beato chiamar non si conuene.
-
-Mie uenture al uenir son tarde [e] pigre;
-La speme incerta; e’l desir monta [e] cresce:
-Onde’l lassar, e l’aspettar m’incresce:
-Et poi al partir son piu leui, che tigre.
-Lasso, le neui fien tepide [e] nigre,
-E'l mar senz'onda, et per l'alpe ogni pesce;
-Et corcherassi’l sol la oltre, ond’esce;
-D'un medesimo fonte Euphrate [e] Tigre,
-Prima, ch’i troui in cio pace ne tregua;
-O amor, o Madonna altr’uso impari;
-Che m'hanno congiurato a torto incontra:
-Et s'i ho alcun dolce; è dopo tanti amari;
-Che per disdegno il gusto si dilegua.
-Altro mai di lor gratie non m’incontra.
-
-La guancia, che fu gia piangendo stanca,
-Riposate sul’un signor mio caro;
-Et siate homai di uoi stesso piu auaro
-A quel crudel, che suoi seguaci imbianca:
-Con l’altro richiudete da man manca
-La strada a messi suoi, ch’indi passaro.
-
-056
-					28
-Mostrandoui un d’agisto [e] di genaro;
-Perch’a la lunga uia tempo ne manca:
-Et col terzo beuete un suco d’herba;
-Che purghe ogni pensier, che’l cor afflige;
-Dolce a la fine, [e] nel principio acerba:
-Me riponete, oue'l piacer si serba,
-Tal; ch’i non tema del nocchier di stige;
-Se la preghiera mia non è superba.
-
-Perche quel, che mi trasse ad amar prima,
-Altrui colpa mi toglia;
-Del mio fermo uoler gia non mi suoglia.
-Tra le chiome de l’or nascose il laccio,
-Al qual mi strinse Amore;
-Et da begliocchi mosse il freddo ghiaccio,
-Chi mi passo nel core
-Con la uertu d’un subito splendore,
-Che dogni altra sua uoglia
-Sol rimembrando anchor l’anima spoglia.
-Tolta m’è poi di que biondi capelli
-Lasso la dolce uista;
-E'l uolger di duo lumi honesti [e] belli
-cal suo fuggir m’attrista:
-Ma perche ben morendo honor s’acqusta;
-per morte, ne per doglia
-Non uo, che da tal nodo amor mi scioglia.
-
-L'arbor gentil; che forte amai molt’anni,
-Mentre i bei rami non m’hebber a sdegno;
-d   iiii
-
-
-
-
-057
-Fiorir faceua il mio debile ingegno
-A la sua ombra, [e] crescer ne gli affanni.
-Poi che, securo me di tali inganni,
-Fece di dolce se spietato legno;
-I riuolsi i pensier tutti ad un segno,
-Che parlan sempre de lor tristi danni.
-Che pora dir, chi per amor sospira;
-S’altra speranza le mie rime noue
-Gli auesser data, [e] per costei la perde?
-Ne poti[*e]a ne colga mai; ne Gioue
-La priuilegi; [e] al sol uenga in ira
-Tal, che si secchi ogni sua foglia uerde.
-
-Benedetto sia’l giorno, e’l mese, [e] l'anno.
-Et la stagione, e’l tempo, e l’hora, e’l punto,
-  El bel paese, e'l loco; ou'io fui gunto
-Da duo begliocchi, che legato m’hanno:
-Et benedetto il primo dolce affanno,
-Ch’i hebbi ad esser con amor congiunto;
-Et l'arco, [e] le saette, ond’i fui punto;
-Et le piaghe, che'n fin al cor mi uanno.
-Benedette le uoci tante, ch’io
-Chiamando il nome di mia donna ho sparte;
-E i sospiri, [e] le lagrime, e’l desio:
-Et benedette sian tutte le charte,
-Ou’io fama l'acquisto; e'l pensier mio,
-Ch'è sol di lei si, ch altra non u'ha parte.
-
-Padre del ciel dopo i perduti gorni,
-
-
-058
-					29
-Dopo le notti uaneggiando spese
-Con quel fero desio, ch’al cor s’acese
-Mirando gliatti per mio mal si adorni,
-Piacciati homai, col tuo lume ch’io torni
-Ad altra uita, [e] è piu belle imprese;
-Si c’hauendo le reti indarno tese
-Il mio duro auersario se ne scorni.
-Hor uolge signor mio l’undecim’anno
-Ch’i fui sommesso al dispietato giogo,
-Che sopra i piu soggetii è piu feroce.
-Miserere del mio non degno affanno:
-Reduci i pensier uaghi a miglior luogo:
-Ramenta lor, com’hoggi fosti in croce.
-
-Volgendo gliocchi al mio nouo colore,
-Che fa di morte rimembrar la gente,
-Pieta ui mosse: onde benignamente
-Salutando teneste inuita il core.
-La frale vita, ch’ancor meco alberga,
-Fu de begliocchi uostri aperto dono,
-Et de la uoce angelia soaue:
-Da lor conosco l’esser, ou’io sono:
-Che come suol pigro animal per uerga;
-Cosi destaro in me l’anma graue.
-Del mio cor donna l’una [e] l’altra chiaue
-Hauete in mano [e] di cio son contento
-Presto di nauigur a ciascun uento:
-Ch' ogni cosa da uoi m’e dolce honore.
-
-059
-
-Se uol poteste per turbati segni,
-Ser chinar gliocchi, o per piegar la testa,
-O per esser piu d’altra al fuggir presta
-Torcendo l’uiso a preghi onesti [e] degni,
-Vscir giamai, ouer per altri ingegni,
-Del petto, oue dal primo lauro innesta
-Amor piu rami; i direi ben, che questa
-Fosse guſta cagione a uostri sdegni:
-Che gentil pianta in arido terreno
-Par che si disconuenga; [e] pero lieta
-Naturalmente quindi si diparte.
-Ma poi uostro destino a uoi pur uieta
-L'esser altroue; prouedete al meno
-Di non star sempre in odiosa parte.
-
-Lasso, che mal accorto fui da prima
-Nel giorno, ch’a ferir mi uenne amore:
-Ch’a passo a passo e’ poi fatto signore
-De la mia uita, [e] posto in su la cima.
-Io non credea per forza di sua lima,
-Che punto di fermezza o di ualore
-Mancasse mai ne l’indurato core:
-Ma cosi va, chi sopra’ l uer s’estima.
-Da hora inanzi ogni difesa è tarda
-Altra, che di prouar, s’assai o poco
-Questi preghi mortali amore sguarda.
-Non prego gia; ne puote hauer piu loco,
-Che misuramente il mio cor arda,
-Ma che sua parte habbia ostei del foco.
-       </l>
-    </body>
-    <back>
-      <!--  [ back matter ...  ] -->
-    </back>
-  </text>
-</TEI>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="it" lang="it">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+      <!--THIS FILE IS GENERATED FROM AN XML MASTER. DO NOT EDIT (5)--><title> — SONETTI ET CANZONI DI MESSER FRANCESCO PETRARCHA IN VITA DI MADONNA LAVRA.</title><meta name="author" content="Francesco Petrarcha"/>
+      <meta name="generator" content="Text Encoding Initiative Consortium XSLT stylesheets"/>
+      <meta name="DC.Title" content="— SONETTI ET CANZONI DI MESSER FRANCESCO PETRARCHA IN VITA DI MADONNA LAVRA."/>
+      <meta name="DC.Type" content="Text"/>
+      <meta name="DC.Format" content="text/html"/><link href="https://www.tei-c.org/release/xml/tei/stylesheet/tei.css" rel="stylesheet" type="text/css"/><link rel="stylesheet" media="print" type="text/css" href="https://www.tei-c.org/release/xml/tei/stylesheet/tei-print.css"/></head>
+   <body class="simple" id="TOP">
+      <div class="stdheader autogenerated">
+         <h1 class="maintitle"> — SONETTI ET CANZONI DI MESSER FRANCESCO PETRARCHA IN VITA DI MADONNA LAVRA.</h1>
+      </div>
+      <!--TEI front-->
+      <div class="tei_front"></div>
+      <!--TEI body-->
+      <div class="tei_body">
+         <div class="pagebreak" id="index.xml-pb-w11224024aab3b3b1"><a href="002.jpg">[Pagina]</a></div>A GLILETTORI.
+         <p>TRALLE Molte humane passioni, allequai sia- mo soggetti noi museri mortali; lo amore
+            per certo è quella; che in questo breue corso do uita con piu acuto stimolo co torme[n]ta,
+            et afflige. Et intanto il piu delle uolte questa passione ci cempie fo cosi pe[n]sie=
+            ri; che non possendogli noi portate nel petto rin- chiusi, spessi uolte ci è di mestieri
+            et nostro mal gra= do, et come possiamo il meglio, altrui fare loro pale- si. Onde,
+            se esso amore [per]auentura si appiglia a spi= rito gentile; ha poi tanto di forza;
+            che lo sospri- gne a celebrare il suo ardore, [et] a cantare in uersi mille accidenti
+            auenutigli amando, [et] col pe[n]siero er opera a tessere cose tali; che di lui et
+            del= la sua cara donna eternamente al mondo presti- no materia da ragionare. Ilche
+            qua[n]to felicemen- te auenisse al nostro M. Francesco, et in parte a Madonna Laura
+            dallui cosi feruentemente ama- ta, niuno e cosi poco tinto delle nostre lettre; che
+            leggendo le opere sue nella lingua uolgare com- poste, chiaramente nol comprenda.
+            Chi non ue- de ne suoi leggiardrissima uersi lui tanto calda- mente hauere amato;
+            quanto ciascuno altro aman- te, che dalle punture amorose stimolato uiues- se giamai?
+            Chi no[n] ode le sue dubbie speranzie, i cer= tissimi affani, et in quanto altri erroi
+            egli ama[n]= do lungamente sia stato inuolto? Chi non sente con quanta dolcezza di
+            parile, cia cuna per se et tut- te insieme considerate, egli la sua donna con eterne
+            <span class="pagebreak" id="index.xml-pb-w11224024aab3b3b5b1"><a href="004.jpg">[Pagina 2]</a></span> lode inalzie stesso parimente facendo eterno? Che non sono si uaghi nella primauera
+            e fiori de uer- di prati, ne de colli i riuestiti arboscelli; come sono uaghi i dolcissimi
+            accenti delle rime dello eccelle[n]tis- simo M. Fra[n]cesco. L’altezza dello ingegno
+            delqua- le se io hauesse degne lode da commendare; mai sa- stia non se ne uderebbe
+            la uoce mia. Questo so- lamente pure io diro ; che ne il piu leggiadro, ne il piu
+            diletteuole, ne il piu utile poeta hoggidi leggere da noi si puo, ne il piu compiuto
+            ; dico compiuto non tanto per l’eccellenza delle cose dal lui composte, quanto per
+            essere consomma diligen- za [e] ottimamente corrette. Legga adunque con lieto animo
+            ciascuno il nostro poeta ; [et] special= mente coloro, che sono inamorati ; lo habbia-
+            no per lo continouo alle mani: Che di certo oltra lo infinito piacere, che esse di
+            leggerlo pre[n]deranno; imparreranno dal suo honestissimo amore in mille rime dal
+            lui diuinamente cantato no[n] pur ad hone= stamente amare, ma a mettere etiandio leggiara-
+            mente in uersi le sue amorose fiamme, i sospiri, le speranze, le gioie.Et alla fine
+            sanza fallo alcuno celebrando le loro donne essi anchora rimarran- no dopo la morte
+            con perpetua fama al mondo uiui [et] celebrati.
+         </p>a ii
+         <div class="pagebreak" id="index.xml-pb-w11224024aab3b3b9"><a href="005.jpg">[Pagina]</a></div>SONETTI ET CANZONI DI MESSER FRANCESCO PETRARCHA IN VITA DI MADONNA LAVRA. 
+         <div class="pagebreak" id="index.xml-pb-w11224024aab3b3c13"><a href="009.jpg">[Pagina]</a></div>
+         <div class="l">La gola, e’l sonno, [et] l’otiose piume Hanno del mondo ogni uertu sbandita, Ond’e
+            dal corso suo quasi smarrita Nostra natura uinta dal costume: Et e si spento ogni
+            benigno lume Del ciel, per cui s’informa humana uita; Che per cosa mirabile s’addita
+            Chi uol far d’Hellicona naser fiume. Qual uaghezza di lauro, qual di muerto? Puoera
+            [et] nuda uai philosophia, Dice la turba al uil guadagno intesa. Pochi compagni haurai
+            per l’altra uia: Tanto ti prego piu gentile spirto Non lassar la magnanima tua impresa. 
+         </div>
+         <div class="l">A pie d’e colli; oue la bella uesta Prese de le terrene memóra pria La donna, che
+            colui, ch’a a te n’enia Spesso dal sonno lagrimando desta; Libere in pace passauan
+            per questa Vita mortal, ch’ogni animal desia, Senza sospetto di trouar fra uia Cosa,
+            ch’al nostr’ andar fosse molesta. Ma del musero stato; oue noi semo Condotte da la
+            uita altra serena; Vn sol conforto [et] de la morte hauemo: Che uendetta e’ di lui,
+            ch’a cio ne mena Loqual in forza altrui, presso al’extremo Riman legato con maggior
+            catena. 
+         </div>
+         <div class="pagebreak" id="index.xml-pb-w11224024aab3b3c19"><a href="010.jpg">[Pagina 9]</a></div>
+         <div class="l">Quando’ l pianeta, che distingue l’hore, Ad albergar col tauro si ritorna; Cade uertu
+            da l’infiammate corna, Che ueste il mondo di nouel colore; Et non pur quel, che s’apre
+            a noi di fore, Leriue e i colli di firoetti adorna; Ma dentro, doue giami non s’aggorna,
+            Grauido fa di se il terrestro humore; Onde tal frutto, [et] simile si colga: Cosi
+            costei, ch’è tra le donne un sole, In me mouendo d’e begliocchi i rai Cria d’amor
+            penseri,,atti,[e] parole: Ma come ch’ella gli gouerni, o uolga; Primauera per me pur
+            non è mai. 
+         </div>
+         <div class="l">Gloriosa colonna in cui s’appoggia Nostra speranza e’l gran nome Latino, Ch’anchor
+            non torse del uero camino L’ira di Goiue. per uentosa pioggia; Qui non palazzi, non
+            theatro, o loggia; Ma’n lor uece un’abete, un faggio, un pino Tra l’herba uerde, e’l
+            bel monte uicino, Onde si scende poetando [e] poggia, 
+         </div>
+         <div class="pagebreak" id="index.xml-pb-w11224024aab3b3c25"><a href="011.jpg">[Pagina]</a></div>
+         <div class="l">Lassare il uelo o per ombra Donna non ui uid’io, Poi, che in me conosceste il gran
+            desio, Ch’ogni altra uoglia dentr’al cormi sgombra. Mentr’io portaua i be pensier
+            celati, C’hanno la mente desiando morta, Vidiui di pietate ornare il uolto: Ma poi
+            ch’amor di me ui fece accorta; Fur i biondi capelli allhor uelati, Et l’amoroso sguardo
+            inse raccolto. Que, che piu desiaua in uoi, m’è tolto; Si mi gouerna il uelo, Che
+            per mia morte [et] al caldo [et] al gielo D’e be uostr’occhi il dolce lume adombra. 
+         </div>
+         <div class="l">Se la mia uita da l’aspro tormento Si puo tanto schermire [e] da gli affanni, Ch’i
+            ueggia per uertu de gli ultim’anni Donna d’e be uostr’occhi il lume speto, E i cape
+            d’oro fin farsi d’argento, Et lassar le ghirlande e i uerdi danni Allamentar mi fa
+            pauroso [et] lento; Pur mi dara tanta baldanza amore, Ch’i ui discouriro d’e miei
+            mariti Qua sono stati glianni e i giorni [e] l’hore: Et sel tempo e’ contrario a i
+            be desiri; Non fia, ch’almen non giunga al mio dolore Alcun soccorso di tardi sospiri. 
+         </div>
+         <div class="pagebreak" id="index.xml-pb-w11224024aab3b3c31"><a href="012.jpg">[Pagina 6]</a></div>
+         <div class="l">Quando fra Paltre donne adhora adhora Amor uien nel bel uiso di costei; Quanto ciascua
+            e’men bella di lei; Tanto cresce’l desio, che m’innamora, I benedico il loco e’l tempo
+            [et] l’hora, Che si altro muraron gliocchi mei; Et dico, Anima assai ringratiar dei;
+            Che fosti a tanto honor degnata alhora Da lei ti uen l’amoroso pensero; che, mentre’l
+            segui, al sommo ben t’inuia Poco prezzando quel, ch’ogni huom desia: Da lei uien l’animosa
+            leggiadria; Ch’al ciel i scorge per destro sentero. Si, ch’i uo ggia de la speranza
+            altero. 
+         </div>
+         <div class="l">Occhi miei lassi; mentre ch’io ui giro Nel bel usio di quella, che u’ha morti; Pregoui,
+            siate accorti: Che gia ui sfida amore; ond’io sospiro. Morte po chiuder sola a miei
+            penseri L’amoroso camun; che gli conduce Al dolce porto de la lor salute: Ma puossi
+            a uoi celar a uostra luce Per meno meno oggettto; perche meno interi Siete formati,
+            [e] di minor uirtute. Pero dolento anziche sian uenute L’hore del pianto, che son
+            gia uicine, Prendete hor’ a la fine Breue conforto a si lungo martiro. 
+         </div>
+         <div class="l">013 Io mi riuolgo indietro a ciascun psso Col corpo stanco, ch’a gran pena porto;
+            Et prendo allhor dell uostr’aere conforto, Chee’l fagir’oltra dicendo, oime lasso.
+            Poi ripensando al dolce ben, ch’io lasso; Al camin lungo, [e] al mio uiuer corto;
+            Fermo le piante sbigottio [et] smorto; Et gliocchi in terra lagrimando abbasso- Tallhor
+            m’assale in mezzo a tristi pianti Vn dubbio, come posson queste membra Da lo spirito
+            lor uiuer lontane: Ma rispondemi Amor; Non ti rimembra, Che questo e’ priuilegio de
+            gli amanti Sciolti da tutte qualitati humane? Mouesi luecchierel canuto [e] bianco
+            Del dolce loco, ou’ha sua eta fornita, Et da la famigliuola sbigottita, Che uede il
+            caro padre uenire manco: Indi trahendo poi l’antico fianco Per l’exreme giornate di
+            sua uita, Quanto piu po, col buon uoler s’aita Rotto da glianni [e] dal camino stanco:
+            Et uiene a Roma Seguendo’l desio Per mirar la sembianzadi colui, Ch’anchor lassu nel
+            ciel uedre spera: Cosi lasso talhor uo cercand’io Donna, quant’e’ possibie, in alrui
+            La desiata uostra forma uera. 014 7 Piouommi amare lagrime dal usio con un uento angoscicso
+            di sospiri; Quando in uoi adiuien che gliocchi giri, Per cui sola dal mondo i son
+            diuiso. Vero e’, che’l dolce mansueto riso Pur acqueta gliardenti miei desiri, Et
+            mi sottragge al foco d’e martiri; Mentr’io sona mirarui intento [e] fiso Ma gli spiriti
+            miei s’agghiaccian poi, Ch’i ueggio al dipartir gliatti souai Torcer da me le mie
+            fatali stelle. Largata al fin con l’amorose chiaui L’anima esce del cor per seguir
+            uoi; Et con molto pensiero indi si suelle. Quand’io son tutto uolto in quella parte,
+            oue’l bel usio di Madonna luce; Et m’e’ rimasa nel pensier la luce, Che m’arde [e]
+            strugge dentro a parte a parte; I; che temo del cor, che mi si parte, Et ueeggio presso
+            il fin de la mia luce; Vommene in guisa d’orbo senza luce; Che non sa oue si uada,
+            [e] pur si parte. Cosi dauanti a i colpi de la morte Fuggo; ma non si ratto, che’l
+            desio Meco non uenga, come uenir sole. Tacito uo: che le parole morte Farian pianger
+            la gente: [e] i desio, Che le lagrime mie si spargan sol. 015 Sol animali al mondo
+            di si altera Vista; che’ncontr’al sol pur si difende: Altri; pero che’l gran lume
+            glioffende; Non escon fuor, senon uerso la sera: Et altri co’l desio, folle; che spera
+            Gioirforse nel foco, perche splende; Prouan lantra uertu quella, che’ncende; Lasso
+            il mio loco è’n questa ulima schera: Ch’i non son fote as aspettar la luce Di questa
+            donna; [e] non sofare schermi Di luoghi tenebrosi, od’hore tarde. Pero con gliocchi
+            lagrimose e’nfermi Mio destino a uederla mi conduce: Et so ben, ch’i uo dietro a quel,
+            che m’arde. Vergognando talhor, ch’anchor si taccia Donna per me uostra bellezza in
+            rima, Ricorro al empo, ch’i ui uidi prima Tal, chee null’altra fia mai, che mi piaccia.
+            Ma trouo peso non da l mie braccia, Ne l’operation tutto s’agghiaccia. Piu uolte gia
+            per dir le labbra apersi: Poi rimase la uoce in mezzo’l petto. Ma qual suon poira
+            mai salir tant’alto? Piu uolte incominciai di scriver uersi: Ma la penna, [e] la mano,
+            [e] l’intelletto Rimaser uinti primier assalto. 016 8 Mille fiate o dolce mia guerra,
+            Per Hauer co begli occhi uostri pace, V’aggio proferto il cor: m’a uoi non piace Mirar
+            si basso con la mente altera: Et se di lui fors’altra donna spera; Viue in speranza
+            debile [e] fallace: Mio; perche sdegno cio, ch’a uoi dispiace; Esser non po giamai
+            cosi, com’era. Hor s’io lo scaccio [e] e non troua in uoi Nel exilio infelice alcun
+            soccorso, Ne sa star sol, ne gire ou’altr’il chiama; Smarrire poira il suo natural
+            corso, Che graue colpa fia d’ambeduo noi; Et tanto piu di uoi, quanto piu u’ama. A
+            qualunque anima e alberga in terra; Senonse alquanti, c’hanno in odio il sole; Tempo
+            da trauagliare è, quanto è’l giorno: Ma poi, ch’el ciel accende le sue stelle; Qualtorna
+            a casa, [e] qual s’annida in selua, Per hauer posa almeno in fin a l’alba. Et io,
+            da che comincia la bell’alba A scuoter l’ombra intorno de la terra Suegliando glianimali
+            in ogni sleua, Non ho mai triegua di sospir col sole. Poi, quand’io ueggio fiammegiar
+            le stelle, Vo lagrimando [e] desiando i giorno. Quando la sera scaccia il chiaro giorno.
+            Et le tenebre nostre altrui fann’alba; 019 In fin allhor percossa di suo sttrale Non
+            essermi passato oltra la gonna, Prese in sua scorta una possente donna; Ver cui poco
+            giamai mi ualse, o uale Ingegno, o forza, o dimandar perdono. Ei duo mi trasformaro
+            inquel, ch’i sono, Facendomi d’huom uiuo un lauroo uerde; Che per fredda stagion fooglia
+            non perde. Qual mi fec’io, quando primier. m’accorsi De la trasfigurata mia persona;
+            Ei capei uidi far di quella fronde, Di che sperato hauea gia lor corona; Ei piedi,
+            in ch’io mi stetti [e] mossi [e] corsi, Com’ogni membro al’anima risponde, Diuentar
+            due radici soura l’onde Non di Peneo, ma d’un piu altero fiume; E’n duo rami mutarsi
+            ambbe le braccia: Ne meno anchor m’agghiaccia L’esser couerto poi di bianche piume
+            Allhor; che folminato [e] morto giacque Il mio sperar, che troppo alto montaua. Che
+            perch’io non sapea doue, ne quando Mel ritrouasse; solo lagrimando, La’ue tolto mi
+            su, di [e] notte andaua Ricercando dal lato [e] dentro a lacque: Et gimai poi la mia
+            lingua non tacque, Mentre poteo, del suo cader maligno: Ond’io presi col suon color
+            dun cigno. Cosi lungol’amate riue andai; 020 10 Che uolendo parlar cantaua sempre
+            Merce Chiamando con estrania uoce: Ne mai in si dolci, o in souai tempre Risonar sppi
+            gliamorosi guai; Che’l cor s’humiliasse aspro [e] feroce. Qual fu a sentire; che’l
+            ricordar mi coce? Ma molto pu di quel, ch’è per inanzi, De la dolce [e] aceròa mia
+            menica È bisogno ch’io dica; Benche sia tal, ch’ogni parlare auanzi. Questa; che col
+            mirar glianinu fura; M’aperse il petto, e’l cor prese con mano Dicendo a me, di cio
+            non far parola Poi la riuidi in altro habito sola Tal ch’i non la conobb, o senso
+            humano; Anzie le dissi’l uer pien di paura: E della me l’usata sua figura Tosto tornado
+            fecemi, oime sasso. Ella parlaua si turbata. in uista; Che tremar mi fea dentro a
+            quella petra Vdendo, i non son fors, chi tu credi: Et diceameeco, se costei mi spetra;
+            Nulla uita mi sia noiosa, o trista: A farme lagrimar signor mio riedi. come, non so;
+            pur io mossi indi i pidi Non altrui incolpando, che me stesso, Mezzo tutto quel di
+            ra uiuo [e] morto. Ma perche’l tempo è corto; b ii 021 La penna al buon uoler non
+            po gir presso: Onde piu cose ne la mente scritte Vo trapassando;[e] sol d’alcune parlo,
+            Che merauiglia fanno a chi l’ascolta. Morte mi s’era intorno alcore auolta; Ne tacendo
+            potea di sua man trarlo. O dar soccorso a le uirtuti afflitte: Le uiue uoci m’erano
+            interditte: Ond’io cridai con charta [e] con inchiostro, Non son mio, no s’io moro:
+            i danno è uostro. Ben mi credea dinanzi a gliocchi suoi D’indegno far cosi di merce
+            degno: Et questa speme m’hauea fatto ardito. Ma talhor humilita spegne disdegno; Talhor
+            l’enfiamma: [e] cio sepp’io dapoi Lunga stagion di tenebre uestito: Ch’a quei preghi
+            il mio lume era sparito. Ed io non ritrouando intorno intorno Ombra i lei, ne pur
+            de suoi piedi orma; Com’huom, che tra uia dorma; Gittaimi stanco sopra l’herba un
+            giorno. Iui accusando il fuggitiuo aggio A le lagrime triste allargai’l freno; Et
+            lasciaile cadder,come a lor parue: Ne giamai neue sott’al sol disparue; Com’io senti
+            una sontana a piee d’un faggio. Gran tempo humido tenni quel uiaggio. Chi udi mai
+            d’huom uero mascer fonte? 023 Mi mossi [e] quella fera bella [e] crude In una fone
+            ignuda Si staua, quando’l sol piu forte ardea. Io, perche d’altra uista non m’appago,
+            Stetti amirarla: ond’ella hebbe uergogna; Et per farne uendetta, o per celarse, L’acqua
+            nel uiso con le man mi sparse. Vero diro: forse e parra menzogna: Ch’i senti trarmi
+            de la propria imago; Et in un ceruo solitario [e] uago Di selua in selua ratto mi
+            trasformo; Et anchor di miei can fuggo lo stormo. Canzon i non fu mai quel nuuol d’oro;
+            Che poi discese in pretiosa pioggia. Si che’l foco di Gioue in parte spense: Ma fui
+            ben fiammi, ch’un bel guardo acense; Et fui l’ucel, che piu per lacre poggi, Alzando
+            lei, che ne miei detti honoro: Ne per noua fiigura il primo alloro Seppi lassar: che
+            pur la suadolce ombra Ogni men bel piacer del cor mi sgombra. S l’honorata fronde,
+            che prescriue L’ira del ciel, quando’l gran Gioue tona; Non m’haiesse disdetta la
+            corona, Chhe suolw ornar chi poetando scriue; I era amico a queste uostre Diue, Lequa
+            ulimene il secolo abandona: Ma quella ingiuria gia lunge mi sprona 025 Di me, uggendo
+            quella spada scinta, Che fece al signor mio si lunga guerra: Et tutti voi, ch’amor
+            laudate in rima, Al buon testor d gliamorosi detti Rendete honor, ch’era smarrito
+            in prima: Che piu gloria è nel regno de gli eletti D’un spirito conuerso, [e] piu
+            s’estima; Che di nouantanoue altri perfetti. Il sucessor di Carlo; che la chioma Con
+            la corona del suo antico adorna; Prese ha gia l’arme per fiaccar le adorna; Prese
+            ha gia l’arme per piaccar le corna A Babilonia, [e] chi da lei si noma: E’l uicario
+            di Christo con la soma De le chiaui [e] del manto al nido torna; Si che, s’altro acidente
+            no’l distorna, Vedra Bologna, [e] poi la nobil Roma. La mansueta uostra [e] gentil
+            agna Abbatte i fieri lupi: [e] cosi uada, Chiunque amor legittimo scompagna. Consolate
+            lei dunque, ch’anchor bada; Et Roma, che del suo sposo silagna; Et per Iesu cingete
+            homai la spada. O aspetta in ciel beeata [e] bella Anima; che di nostra humanitade
+            Vestita uai, non come l’altre carca; Perche ti sian men dure homai le strade A Dio
+            diletta obediente ancella, 026 13 Onde al suoregno di qua giu si uarca; Ecco nouelleamente
+            a la tua barca. Ch’al cieco mondo ha gia. uolte le spalle Per gir a miglior porto,
+            D’un uento occidental dolce conforto; Lo qual per mezzo questa oscura ualle, Oue piangiamo
+            il nostro [e] l’altrui torto, La condurra de lacci antichi sciolta Per drittissimo
+            calle Al uerace oriente, ou’ella e uolta. Forse i deuoti [e] gliamorosi preghi, Et
+            le lagrime sante de mortali Son giunte inanzi a lapieta superna: Et fors non fur mai
+            tante ne tali; Che per merito lor punti si pieghi Fuor di suo corso la giustita eterna:
+            Ma quel benigno re; che’l ciel gouerna; Al sacro loco, oue fu posto in croce, Gliocchi
+            per gratia gira: Onde nel petto al nouo Carlo spira La uendetta, ch’a noi tardata
+            noce Si, che molt’anni Europa ne sospira: Cosi soccorre a la sua amata sposa Tal;
+            che sol de la uoce Fa temar Babilonia, [e] star pensosa. Chiunque alberga tra Garona,
+            e’l monte Entra a’l Rodano e’l Reno [e] l’ode salse; Le’nsegne Christianissime accompagna:
+            Et a cui mai di uero pregio calse 027 Dal Pireneo a l’ultimo orizionte, Con Aragon
+            lassarauota Hispagna: Inghliterra con l’isole, che bagna L’Oceano intra’l carro [e]
+            le colonne, In fin la, doue sona Dorrtina del santissimo Helicona, Varie di lingue
+            [e] d’arme [e] de le gonne Al’alta impresa caritate sprona. Deh qual amor si licio,
+            o si degno; Qua figli mai; quai donne Furon materia a si giusto disdegno? Vna parte
+            del mondo è; che si giace Mai sempre in ghiaccio [e] in gelate neui Tutta lontana
+            dal camin del sole. La sotto i giorni nubilosi [e] breui Nemica naturalmente di pace
+            Nasce una gente; a cui’l morir non dole: Questa se piu deuota, che non sole, Col Tedesco
+            furor la spada cigne. Turchi, Arabi [e] Caldei Con tutti quei, che speran nelli Dei
+            Di qua dal mar, chee fa l’onde sanguigne, Quanto sian da prezzar conoscer dei; Popolo
+            ignudo, pauentoso, [e] lento; Che ferro mai non stringe; Ma tutti colpi suoi commette
+            al uento. Dunque hora è’l tompo da ritrarre il collo Dal giogo antico; [e] da squarciare
+            il uelo, Ch’è stato auolto intorno gliocchi nostri; 028 14 Et che’l nobile ingegno,
+            che dal cielo Per gratia tien’ de l’immortale Apollo; Et l’eloquentia sua uertu qui
+            mostri Hor con la lingua, hoe con laudati inchiostri: Per chee d’Orpheo leggendo [e]
+            d’Amphiono Se non ti marauigli; Assai men fia, ch’Italia co suoi figli Se desti al
+            suon del tuo chiaro sermone Tanto, che per Iesu la lancia pigli: Che,s’al uer mura
+            questa antica madre, In nulla sua tentione Fur mai cagion si belle, o si leggidare.
+            Tu; c’hai per arricchir d’un bel thesauro Volte lantiche [e] le moderne charte Volando
+            alciel con la terrena soma; Sai da l’imperio del figliuol di Marte Al grande Augusto,
+            che di uerde lauro Tre uolte triomphando orno la chioma, Ne l’altrui ingurie el suo
+            sangue Roma Spesse fiate quanto fu cortese: Et hor perchee non fia Cortese no; ma
+            connoscent [e] pia A uendicar le dispietate offese Co figliuol glorioso di Maria?
+            Che dunque la nemica parte spera Ne l’humane difese; Se christo sta da la contraria
+            schiera? Pon mente al temerario ardir di Xerse; Che fece per calcar i nostri liti
+            029 Di noui ponti oltraggio a la marina: Et Uerdrai ne la morte d’e mariti Tutte uestite
+            a brun le donne perse, Et tinto in rosso il mar di Salamina: Et non pur queesta misera
+            ruina Del popolo infelice d’Oriente Vittoria ten’promette; Ma Marathona, e li mortali
+            strette, Che difese il Leon con poca gente; Et altre mille, c’hai’ scolate[e] lette.
+            Prche inchinar a Dio molto conuene Le ginoccia [e] la mente; Che glianni tuoi riserua
+            a tanto bene. Tu uerda’ Italia [e] l’honorata riua Canzon; ch’agliocchi miei cela
+            [e] contende Non mar, non poggio, o fiume; Ma solo amor; che de suo altero lume Piu
+            m’inuaghisce, doue piu m’incende: Ne natura po star contra’l constume. Hor moui, non
+            smarrir l’altre compagne: Che non pur sotto bende Albergha amor; per cui si ride [e]
+            piange. Verdi panni, sanguigni, oscuri, o persi Non uesti donna unquanco; Ne d’or
+            capelli in bionda treccia attorse Si bella; come questa, che mi spoglia D’arbito;
+            [e] da camin di libertade Seco mi tira si, ch’o non sostegno 030 15 Alcun giogo men
+            graue. Et se pur s’arma talhor a dolersi L’anima; a cui uien manco Consiglio, oue’l
+            martir l’adduce in forse; Rappella lei da la sfrenata uoglia Subito uista; che del
+            cor mmi rade Ogni delira impresa, [e] ogni sdegno Fa’l ueder lei soaue. Di quanto
+            per amore giami soffersi, Et haggio a soffrir ancho Fin che mi sani’l cor colei chel
+            morse Rubella di merce, che pur le’nuoglia; Vendetta fia; sol che contra humilitade
+            Orgogolio [e] ira il bel passo, ond’io uegno, Non chiuda [e] non inchiaue. Ma l’hora
+            e’l giorno; ch’io le luci apersi Nel bel nero [e]. nel bianco, Che mi scacciar di
+            la doue amor corse; Nouella d’esta uita, che m’aggoglia, Furon radice; [e] quella;
+            in cui. l’etadee Nostra si mira; laqual piombo, legno Vedendo è chi non paue. Lagrima’
+            dunque; che da gliochhi uersi Per quelle, che nel manco Lato mi bagna, chi primer
+            s’accorse, Quadrella; dal uoler mio non suoglia: Che’n guista parte la sententia cade:
+            Per li sospira l’alma; [e] ella è degno, che le sue piaghe laue. 031 Da me son fatti
+            i miei pensierr diuersi: Tal gia; qual io mi stanco; L’amata spada in se stessa cotorse.
+            Ne quella prego, che pro mi scioglia: Che men son dritte al ciel tutt’altre strade;
+            Et non s’aspira al glorioso regno Certo in piu salda naue. Benigne elle; che compagne
+            fersi Alfortunato fianco, Quando’l bel. parto giu nel mondo scors: Ch’è stella in
+            terra; [e], come in lauro foglia, Conserua uerde il pregio d’honestade; Oue non spira
+            folgore, ne indegno Veno mai, che l’aggraue. So io ben; ch’a uoler chiuder in uersi
+            Suo llaudi, for a stanco, Che piu degna la mano a scriuer porse. Qual cella è di memoria;
+            in cui s’accoglia, Quanta uede ueertu, quanta beltade, Che gliocchi mira d’ogni ualor
+            segno, Dolce del mio cor chiaue? Quanto’l sol gira, amor piu. caro pegno Donna di
+            uoi non haue. Giouene donna sott’un uerde lauro Vidi piu bianca [e] piu fredda, che
+            neue Non percossa dal sol molti [e] molt’anni: E’l suo parlar, e’l bel usio. [e] le
+            chiome Mi piacque si; ch’i l’ho dinanzi a gliocchi; 032 16 Et hauro sempre, ou’io
+            sia in poggio o’n riua. Allhor saranno i miei pensieri a riua; Che foglia urde non
+            sitroui in lauro: Quand’hauro queto il cor, ascuitti gliocchi; Verdrem ghiacciar il
+            foco, arder la neue. Non ho tanti capelli in queste chiome; Quanti uorrei quel giorno
+            atender anni. Ma per che uola il tempo, [e] fuggon glianni Si, ch’a la morte in un
+            punto s’arriua O con le brune, o con le ianche chiome; Segurio l’ombra di quel dolce
+            lauro Per lo piu ardente sole [e] per la neue, Fin che l’ultimo di chiuda quest’occhi.
+            Non fur giamai ueduti si begliocchi O ne la nostra etade, o ne prim’anni; Che mi struggon
+            cosi, come’l sol neue: Onde procede lagrimosa riua; Ch’amor conduce a pie del duro
+            lauro; C’ha i rami di diamante, [e] d’or le chiome. I temo di cangiar pria uolto [e]
+            chiome; Che con uera pieta mi mostri gliocchi L’idolo mio scolpito in uiuo lauro:
+            Che;s’alcontar non erro; hoggi ha sett’anni; Che sospirando uo i riua in riua La notte,
+            e’l giorno, al caldo, ed a la neue. Dentro pur foco, [e] for candida neue Sol con
+            questi pensier, con altre chiome Sempre piangendo andro per ogni riua, Per far forse
+            pieta uenir ne gliocchi. 033 Di tal, che scera dopo mill’anni; Se tanto uiuer po ben
+            culto lauro. Lauro, e i topaci, al sol sopra la neue Vincon le bionde chiome presso
+            a gliocchi; Che minan glianni miei si tosto a riua. Quest’anima gentil; che si diparte
+            Anzi tempo chiamata a l’altra uita; Se lassuso è, quant esser de gradita; Terra’ del
+            ciel la piu beata parte. S’ella riman fra’l terzo lume [e] Marte; Fia la uista del
+            sole scolorita, Poi ch’a mirar sua bellezza infinita L’anime dene intorno a lei fien
+            sparte. Se si posasse sotto’l quarto nido; Ciascuna de l tre saria men bella, Et essa
+            sola hauria la fama e’l grido Nel quinto giro non habitrebbe’ella: Ma se uola piu
+            alto; assai mi fido, Che con Gioue sia uinta ognialtra stella. Quanto piu m’auicino
+            al giorno extreme, Che l’humana miseria suol far breue: Oiu uegggio’l tempo anar ueloce
+            [e] leue, E’l mio di lui perar fallace [e] scemo. I dico amiei penser, non molto andremo
+            D’amor parlando homai; che’l duro [e] greue Terreno incarco, como fesca neue, Si ua
+            sruggendo: onde noi pace hauremo: 034 17 Perche con lui cadra quella speranza Che
+            ne se uaneggiar si lunamente; E’l riso, e’l pianto, [e] la paura, [e] l’ira. Si uedrem
+            chiaro poi; come couente per le cose dubbiose a tri s’auanza; Et come spesso indarno
+            si sospira. Gia fiammeggiaua l’amorosa stella Per l’’oriente; [e] l’altra, che Giunone
+            Suol’far gelosa, nel settentrione Rotaua i raggi suoi lucente [e] bella; Leuata era
+            a filar la uecchiarella Discinta [e] scalza, [e] desto hauea’l carbone; Et gliamanti
+            pungea quella stagione, Che per usanza a la grimar gliappella; Quando mia speme gia
+            condotta aluerde Giunse nel cor non per l’usata uia; Che’l sonno tenea chiusa, e’l
+            dolor molle; Quanto cangiata oime da qiel di pria: Ett parea dir, perche tuo ualor
+            perde? Veder quest’occhi anchor non ti si tolle. Apollo; s’anchor uiue il bel desio,
+            Che t’infammaua a le Thesaliche onde; E se non hai l’amate chiome bionde Volgndo glianni
+            gia peste in oblio; Dal pigro gielo [e] dal tempo aspro [e] rio, Che dura quanto’l
+            tuo uiso s’asonde, Difendi hor l’honarata [e] sacra fronde; c 035 Oue tu prima, [e]
+            poi fu’inuescat’io: Et per uertu de l’amorosa spene, Che ti sostenne ne la uita acerba,
+            Di queste impression l’aere disgombra. Si uedrem poi per merauiglia inseme Seder la
+            donna nostra sopra l’herba, Et far de le sue braccia a se stess’ombra. Solo [e] pensoso
+            i piu deserti campi Vo misurando a passi tari [e] lenti; Et gliocchi porto per fuggire
+            intenti, Oue uestigio human la rena stampi. Altro schermo non trouo, chemi scampi
+            Dal manifesto accorger de le genti: Perche ne gliatti d’allegrezza spenti Di fuor
+            si lege; com’io dentro auampi: Si ch’io mi credo homai, che monti [e] piagge Et fumi
+            [e] selue sappian di che tempre Sia la mia uita; ch’è celata altrui. Ma pur si aspre
+            uie ne si seluagge Cercar non so; ch;amor non uenga sempre Ragionando con meco, [e]
+            io con lui. S’io credesse per morte essere scarco Del pensier amoroso, che m’atterra;
+            Com le mie mani haurei gia posto. in terra Quese membra noiose, [e] quello incarco:
+            Ma perch’io tempo, che sarebbe un uarco Di pianto in pianto, [e] d’una in altra guerra.
+            036 18 Di qua dal passo anchor, che mi si serra, Mezzo rimango lasso, [e] mezzo il
+            uarco. Tempo ben for a homai h’hauere spinto Lultimo stral la dispietata corda Ne
+            l’altrui sangue gia bagnato [e] tinto: Et io ne prego amore [e] quella sorda; Che
+            mi lasso de suoi color dipinto; Et di chiaarmii a se non le ricorda. Si è debile il
+            filo, a cui s’attene La grauosa mia uita; Che, s’altri non l’aita, Ella fia tosto
+            di suo corso a riua: Pero che dopo l’empia diapartita, Che dal dolce mio bene Feci,
+            sol una spene È stato infin a qui cagion ch’io uiua, Dicendo, per che priua Sia de
+            l’amata uista; Mantienti anima trista: Che sai, c’a miglior tempo ancho ritorni, Et
+            a piu lieti giorni? O se’l perduto ben mai si racquista? Questa spranza mi sostenne
+            un tempo: Hor uien mancando; [e] troppo in lei m’attempo. Il tempo passa; [e] l’hore
+            son si pronte A fornir il uiaggio; Ch’assai spatio non haggio Pur a pensar, com’io
+            corro a la morte c ii 037 A pena spunta in oriente un raggio Di sol; ch’a l’altro
+            monte Del aduerso orizonte Giunto’l uedrai per uie lunghe [e] distorte. Le uite son
+            si corte, Si graui i corpi [e] frali De glihuomini mortali; Che quand’io mi ritrouo
+            dal bel uiso Contanto esser diuiso Col desio non possendo mouer l’ali; Poco m’auanza
+            del conforto usato: Ne so, quant’io mi uiua in questostato. Ogni loco m’attri sta,
+            ou’io non uegio ue begliocchi souai; che portaron le chiaui De miei dolci pensier,
+            mintr’a Dio piacque: Et perche’l duro exilio piu m’aggraui; S’io dormo, o uado,osegio;
+            Altro giamai non cheggio; Et cio ch’i uidi dopo lor, mi spiacque. Quante montagne
+            [e] acque, Quanto mar, quanti fiumi M’ascondon que duo lumi; Che quasi un bel sereno
+            a mezzo’l die Fer le tenebre mie, Accio che’l rimembrar piu mi consumi: Et quant’era
+            mia uita allhor gioiosa, M’insegni la presente aspra [e] noiosa. Lasso, se ragionando
+            si rinfresca 038 19 Quel ardente desio, Che nacque il giorno, ch’io Lassai di me la
+            miglior parte a dietro; Et s’amor se ne ua per lungo oblio; Chi mi conduce a l’esca,
+            Onde’l mio dolor cresca? Et per che pria acendo non m’impretro? Certo cristallo, o
+            uerto Non mostro mai di fore Nascosto altro colore; Che l’alma sconsolata assai non
+            mostri Piu chiari i pensier nostri Et la fera dolceszza, ch’è nel core; Per gliocchi;
+            che di sempre pianger uaghi Cercan di [e] notte pur, chi glie n’appaghi. Nouo piacer;
+            che ne glihumani ingegni Spesse uolte si troua; D’amar, qual cosa noua Piu folta schiera
+            di sospiri accoglia: Et io son un di quei,chel pianger gioua: Et par ben, ch’io m’ingegni,
+            Che di lagrime pregni Siengliocchi miei, si come’ l cor do doglia: Et perche accio
+            m’inuoglia Ragionat de begliocchi; (Ne cosa è; che mi tocchi, O sentir mi si faccia
+            cosi a dentro) Corro spesso [e] rientro Cola, donde piu largo il duol trabbocchi c
+            iii 039 Et sien col cor punite ambe le luei, Ch’a la strada d’amor mi furon duei.
+            Le treccie d’or, che deurien far il sole D’inuidia molta ir pieno; E’l bel guardo
+            sereno; Oue i raggi d’amor si caldi sono, Che mi fanno anzi tempo uenir meno; Et l’accorte
+            parole Rade nel mondo o sole, Che mi fer gia di se cortese dono; Mi son tolte: [e]
+            perdono Piu lieue ogni alra offesa; Che l’essermi contesa Quella benigna angelica
+            salute; Che’l mio cor a uirtute Deestar solea con una uoglia accesa; Tal; ch’io non
+            penso udir cosa giamai, Che mi confote as altro, ch’a trar guai. Et per pianger anchor
+            con piu diletto; Le man bianche sottili et le braccia gentili, Et gliatti suoi soauemente
+            alteri, E i. dolci sdegni alteramente humili, E’l bel giouenil petto Torre d’alto
+            intelletto Mi celan questi luoghi alpestri [e] feri: Et non so, s’io mi speri Vederla
+            anzi ch’io mora: Pero ch’adhora ahora 040 20 S’erge l spm; [e] poi non sa star ferma;
+            Ma ricadendo afferma Di mai non ueder lei, che’l cielo honora; Oue alberga honestate
+            [e] cortesia; Et dou’io pego, che’l mio albergo sia. Canzon; s’al dolce loco La donna
+            nostra uedi; Credo ben, che tu credi, Ch’ella ti porgera la bella mano; Ond’io son
+            si lontano. Non la toccar.ma reuerente a piedi Ledi, ch’io saro la tosto ch’io possa,
+            O spirito ignudo, o huom di carne [e] d’ossa. Orso ee non furon mai fiumi, ne stagni,
+            Ne mare, ou’ogni riuo so di disgombra; Ne di muro, o di poggio, o di ramo ombra; Ne
+            nebbia, che’l ciel copra, e’l mondo bagni; Ne altro impedmento, ond’io mi lagni; Qualunque
+            piu l’humanauista ingombra; Quanto d’un uel, che due begliocchi adombra; Et par che
+            dica, hor ti consima [e] piangi: Et quel lor inchinar; ch’ogni mia gioia Spegne o
+            per humiltate, o per orgoglio; Cagion sara, che nanzi tempo o moia: Et d’una bianca
+            mano ancho mi doglio; Ch’è stata sempre accorta afarmi noia, Et contragliocchi miei
+            s’è fatta scoglio. c iiii 041 Io temo si de begliocchi l'assalto, Ne quali amore [e]
+            la mia morte alberga; Ch'i fuggo lor, come fanciulla uerga; Et gran tempo è, ch'io
+            presi'l primier salto. Da hora inanzi faticoso, od alto Loco non fia; doue luoler
+            non s'erga; Per non scontrar, ch'i miei sensi disperga Lassando, come siol, me freddo
+            smalto. Dunque s'a ueder uoi tardo mi uolsi, Per non rauicinarmi a chi me strugge;
+            Fallir forse non fu di scusa indegno. Piu dico: chè l tornare a quel, c'huom fugge;
+            E'l cor, che di paura tanta sciolsi; Fur de la fede mia non legger pegno. S'amore,
+            o morte non da qualche stroppio A la tela nouella, c'hora ordisco; Et s'io mi suoluo
+            dal tenaoe uisco, Mentre che l'un con l'altro uere accoppio; I faro forse un mio lauor
+            si doppio Tra lo stil de moderni e'l sermon prisco; Che (pauentesamente a dirlo ardisco)
+            In fin a Roma n'udirai lo scoppio. Ma pero, che mi manot a fornir l'opra Alquanto
+            de le fila benedette, Ch'auanzaro a quel mio diletto padre; perche tien uerso me le
+            man si strette Contra tua usanza?i prego, che tu l'opra: Et uedrai riuscir cose leggiadre.
+            042 21 Quando dal proprio sito si rimoue L’arbor, ch'amo gia Phebo in corpo humano;
+            Sospira [e] suda a l'opera Vulcano, Per rinfrescar l'aspre saette a Dioue: Il qual
+            hor tona, hor neuica, [e] hor pioue Senza honorar più Cisare, che Giano: La terra
+            piagne, e'l sol ci sta lontano, Che la sua cara amici vede altroue. Allhor riprende
+            ardir Saturno [e] Marte Crudeli stelle; [e] Orione armato Spezza a tristi nocchier
+            gouerni [e] sarte: Eolo a Nettuno [e] a Giunon turbato Fa sentir, [e] a noi; come
+            si parte Il bel viso da gliangeli aspettato. Ma poi chel doloe riso humile [e] piano
+            Piu non asconde sue bellezze nove; Le braccia a la fucina indarno moue L'antiquissimo
+            fabbro Siciliano: Ch'a Giove tolte son l'arme di mano Temprate in Mongibello a tutte
+            proue, Et sua sorella par, che sirinoue Nel bel guardo d'Apollo amano amano. Del lito
+            occidental si moue un fiato; Che fa securo il navigar senz'arte. Et desta i fior tra
+            l'herba in ciascun prato. Stelle noiose fuggen d'ogni parte Disperse dal bel uiso
+            inamorato; Per qui lagrime molte son gia sparte. 043 Il figliuol di Latona hauea gia
+            noue Volte guardato dal balcon sourano Per quella; ch'alcun tempo mosse in uano I
+            suoi sospiri, [e] hor gli altrui commoue: Poi che cercando stanco non seppe oue S'albergasse
+            daprosso, o di lontano; Mostressi a noi, qual huom per doglia insano Che molto amata
+            [e] cosa non ritroue: Et osi tristo standosi in disparte Tornar non uide il uiso;
+            che laudato Sara, s'io viuo, in piu di mille charte: Et pieta lui medesmo hauea cangiato
+            Si; ch'e begliocchi lagrimauan parte: Pero l'aere ritenne il primo stato. Quel; che'n
+            Thesaglia hebbe le man si pronte A farla del ciuil sangue uermiglia; Pianse morto
+            il marito di sua figlia Raffigurato a le fatezze conte: E'l pastor, ch'a Golia ruppe
+            la fronte Pianse la ribellante sua famiglia; Et sopra'l buon Saul cangio le ciglia:
+            Ond'assai puo dolersi il fiero monte. Ma uoi; che mai pieta non discolora, Et c'hauete
+            gli schermi semprèe accorti Contra laroo d'amor, che'ndarno tira; Mi uedete stratiare
+            a mille morti: Ne lagrima pero discesce anchora Da be uostr' occhi; ma disdegno [e]
+            ira- 044 22 Il mio auersario, in cui ueder solete Gliocchi uostri; ch'amore e'l ciel
+            honora; Con le non sue bellezze u'innamora Piu, che’n guisa mortal, soaui [e] liete.
+            Per consiglio di lui Donna m'hauete Saccciato del mio dolce albergo fora, Misero exilio;
+            auegna ch'io non fora D'habitar degno, oue uoi sola siete. Ma s'io u'era con saldi
+            chioui fisso; Non deuea specchio farui per mio danno A uoi stessa piacendo aspra [e]
+            superba. Certo se ui rimemibra di Narosso; Questo e quel corso ad un termino uanno:
+            Ben che di si bel fior sia indegna l'herba. L'oro, [e] le perle, ei fior uermigli
+            e i bianchi; Chè'l uerno deuria far languidi [e] secchi; Son per me acerbi [e] uelenosi
+            stecchi; Ch'io prouo per lo petto [e] per li fianchi: Pero i di miei fien lagrimosi
+            [e] manchi: Che gran duol rade volte aven, che nuecchi. Ma piu ne' ncolpo i micidiali
+            specchi; Che'n uagheggiar uoi stessa hauete stanchi- Questi poser silentio al signor
+            mio, Che per me ui pregaua; ond'ei si tacque Veggendo in uoi finir uostro desio: Questi
+            fur fabbricatti sopra l'acque D’abisso, [e] tinti nel eterno oblio; Onde'l principio
+            di mia morte nacque. 045 Io sentia dentr'al cor gia uenir meno Gli spirti, che da
+            voi riceuon uita: Et perche naturalmente s'aita Contra la morte ogni animal terreno;
+            Largai'l desio, ch'i teng’hor molto a freno; Et misil per la uia quasi smarrita: Pero
+            che di [e] notte indi m'inuita; Et io contra sua uoglia altronde'l meno. E mi condusse
+            uergognoso [e] tardo A riueder gliocchi leggiadri; ond'io, Per non esser lor graue,
+            assai mi guardo. Viurommi un tempo homai: ch al uiuer mio Tanta uirtute ha sol un
+            uostro sguardo: Et poi morro; s'io non credo al desio. Se mai foco per foco non si
+            spense, Ne fiume fu giamai seco per pioggia; Ma sempre l'un per. l'altro simil pioggia,
+            Et spesso l'un contrario l'altro acense; Amor tu, ch'e pensier nostri dispense, Alqual
+            un'alma in duo corpi s' appoggia, Perche fa’ in lei con disusata foggia Men per molto
+            uoler le uoglie intense? Forse; si come'l Nil d'alto caggendo Col gran siono i vicin
+            dintorno assorda, E'l sol abbaglia che ben fiso il guarda; Cosi l desio, che seco
+            non s'accorda, Ne lo sfrenato obbietto uien perdendo; Et per troppo spronar la fuga
+            è tarda. 046 23 Perch'io t'habbia guardato di menzogna A mio podere, [e] honorato
+            assai Ingrata lingua; gia pero non m'hai Renduto honor; ma fatto ira [e] uergogna:
+            Che quando piu’l tuo aiuto mi bisogna Per dimandar mercede, allhor ti stai Sempre
+            piu fredda; [e] se parole fai, Sono imperfette, [e] quasi d'huom, che sogne: Lagrime
+            triste [e] uoi tutte le notti M'acompagnate, ou'io uorrei star solo; Poi fuggite dinanzi
+            a la mia pace: Et uoi si pronti a darmi angoscia [e] duolo Sospiri, allhor trahete
+            lenti [e] rotti. Sola la uista mia del cor non tace. Ne la stagion; che'l ciel rapido
+            inchina Verso occidente, [e] che'l di nostro uola A gente, che di la forse l'aspetta;
+            Veggendosi in lontan paese sola La stanca uecchiarella pellegrina Raddoppia i passi,
+            [e] piu [e] piu s'affretta: Et poi cosi soletta Al fin di sua giornata Talhora è consolata
+            Dalcun breue riposo; ou'ella oblia La noia e'l mal de la passata uia. Ma lasso, ogni
+            dolor, che'l di m'adduce Cresce, qualhor s'inuia Per partirsi da noi l'eterna luce.
+            047 Come’l sol uolge l'enfiammate rote, Per dar luogo a la notte; onde discende Da
+            gli altissimi monti maggior l'ombra; L'auaro Zappador l'arme riprende; Et con parole
+            [e] con alpestri note Ogni gravezza del suo petto sgombra;, Et poi la mensa ingombra
+            Di pouere uiuande Simili a quelle giande, Lequa fuggendo tutto’l mondo honora. Ma
+            chi uuol si rallegri adhora adhora: Ch'i pur non hebbi anchor non diro lieta, Ma riposata
+            un' hora, Ne per uolger di ciel, ne di pianeta. Quando uede'l pastor calare i raggi
+            Del gran pianeta al nido, ou’egli alberga; E'mbrunir le contrade d'oriente; Drizzasi
+            in piedi; [e] con l'usata uerga Lassando l'herba [e] le fontane e i faggi Moue la
+            schiera sua soauemente: Poi lontan da la gente O casetta, o spelunca Diuerdi frondi
+            ingiuna: Iui senza pensier s’adagia [e] dorme. Ai crudo Amor;ma tu allhor piu m’informe
+            A seguir d'una fera, che mi strugge, La uoce e i passi [e] l’orme; Et lei non stringi,
+            che s’appiatta [e] fugge. E i nauiganti in qualche chiusa ualle 048 24 Gettan le membra,
+            poi che'l'sols'asconde Sel duro legno [e] sotto a l'apre gonne. Ma io; perche s'attuffi
+            in mezzo l'onde, Et lassi Hispagna dietro a le sue spalle Et Granata [e] Marroco [e]
+            le Colonne, Et glihuomini [e] le donne E'l mondo [e] glianimali Acquctino i lor mali;
+            Fine non pongo al mio ostinato affanno: Et duolmi, ch'ogni giorno arroge al danno:
+            Ch'i son gia pur crescendo in questa uoglia Ben presso al decim'anno; Ne poss' indouinar,
+            chi me ne scioglia. Et perche un poco nel parlar misfogo; Veggio la sera i buoi tornare
+            sciolti Da le campagne [e] da solcati colli. I miei sospiri a me perche non tolti,
+            Quando che sia? perche no'l graue giogo? Perche di [e] notte gliocchi miei son molli?
+            Misero me, che uolli; Quando primir si fiso Gli tenni nel bel viso, Per iscolpirlo
+            imagginando in parte; Onde mai ne per forza, ne per arte Mossi sara; fin ch'i sia
+            dato in preda A chi tutto diparte: Ne so ben ancho, che di lei mi creda. Cancon se
+            l'esser meco Dal mattino a la sera 049 T’ha fatto di mia schiera; Tu nonuorrai mostrarti
+            in ciascun loco: Et d'altrui loda curerai si poco; Ch'assai ti fia pensar di poggio
+            in poggio Come m’ha concio'l foco Di questauiua petra, ou’io m’appoggio. Poco era
+            ad appressarsi a gliocchi miei La luce, che da lunge gli abbarbaglia; Che, come uide
+            lei cangiar Thesaglia Cosi cangiato ogni mia forma haurei: Et s'io non posso tra formami
+            in lei Piu, ch’i mi sia, non ch’a merce mi uaglia; Di qual petra piu rigida s’intaglia,
+            Pensoso ne la uista hoggi sarei; O di diamante, o d’un bel marmo bianco Per la paura
+            forse, o d'un diaspro Pregiato poi dal uulgo auaro [e] sciocco: Et sarei fuor del
+            graue giogo [e] aspro; Per cu'i ho inuidia di quel uecchio stanco, Che fa con le sue
+            spalle ombra a Marroco. Non al suo amante piu Diana piacque, Quando per tal uentura
+            tutta ignuda La vide in mezzo de le gelid’acque; Ch'a me la pastorella alpestra [e]
+            cruda Posta a bagnar un leggiadretto uelo Ch'a Laura il uago [e] biondo capel chiuda;
+            Tal; che mi fece hor, quand’egli arde il cielo 050 25 Tutto tremar d’un amoroso gielo.
+            Spirto gentil; che quelle membra reggi Dentro a le qual peregrinando albergae Vn signor
+            ualoroso accorto [e] saggio; Poi che se giunto a l’honorata uerga, Con la qual Roma
+            [e] suoi erranti correggi, Et la richiami al suo antico uiaggio; Io parlo a te:pero
+            ch’altroue un raggio Dormira sempre; e non fia, chi la suegli? Le man l’hauess' io
+            auolte entro capegli. Non spero, che giamai dal pigro sonno Moua la testa per chiamar,
+            c’huom faccia; Si grauement’ è oppressa, [e] di tal soma. Ma non senza destino a le
+            tue braccia; Che scuoter forte e solleuarla ponno; E’hor commesso il nostro capo Roma.
+            Non veggio di vertu, ch'almondo e spenta; Pon man in quella uenerabil chioma Securamente
+            [e] ne le treccie sparte Si, che la neghittesa esca del fango. I;che di [e] notte
+            del suo stratio piango; Di mia speranza ho in te la maggior parte: Che sel popol di
+            Marte Deuesse al proprio honor alzar mai gliocchi; d 051 Parmi pur, ch’a tuoi di la
+            gratia tocchi. Lantiche mura; ch’anchor teme [e] ama Et trema’l mondo, quando si rimembra
+            Del tempo andato e’n dietro si riuolue; E i sassi, doue fur chiuse le membra Di ta,
+            che non saranno senza fama, Se l’uniuerso pria non si dissolue, Et tutto quel, ch
+            una ruina inuolue, Per te spera saldar ogni suo uitio. O grandi Scipioni, o fedel
+            Bruto Quanto u’aggrada, se gli è anchor uenuto Romor la giu del ben locito offitio.
+            Come cre, che Fabritio Si faccia lieto udendo la nouella; Et dice, Roma mia sara anchor
+            bella. Et se cosa di qua nel ciel si cura; L’anime; che lassu son citadine, Et hanno
+            i corpi abandonati in terra; Del lungo odio ciuil ti pregan fine, Per cui la gente
+            ben non s’assecura; Onde'l aimin a lor tetti si serra; Che fur gia si devoti; [e]
+            hora in guerra Qvasi spelunca di ladron son fatti Tal, ch’a buon solamente uscio si
+            chiude; Et tra glialtari, [e] tra le statue ignude Ogn’impresa crudel par che si tratti.
+            Deh quanto diuersi atti. Ne senza squille s' incomincia assalto; Che per Dio ringratiar
+            fur poste in alto. 052 26 Le donne lagrimose, el uulgo inerme De la tenera etate,
+            e i vecchi stanchi; C’hanno se in odio [e] la souerchia uita; E i neri fraticelli,
+            e i bigi, e i bianchi Con l'altre schiere travagliate e'nferme Gridan, o signor nostro
+            aita aita: Et la pouera sbigottita Ti scopre le sue piaghe a mille a mille; C'Hanibale,
+            non ch’altri, farian pio: Et se ben guardi a la magion di Dio Ch'arde hogghi tutta;
+            assai poche fauille Spegnendo fien tranquille Le uoglie, che si mostran s’ infiammate:
+            Onde fien l’opre tue nel ciel laudate. Orsi, lupi, leoni, aquile, [e] serpi Ad un
+            gran marmorea colonna Fanno noia souente, [e] a se danno: Di costor piagne quella
+            gentil donna; Che t'ha chiamato, acio che di lei sterpi Le male piante, che fiorir
+            non sanno. Passato è gia piu che’l millesim’anno; Che’n lei mancar quell’anime leggiadre,
+            Che locata l'hauean la, dou’ell’era. Ai noua gente oltra misura altera, Irreuerente
+            a tanta [e] a tal madre. Tu marito, tu padre; Ogni soccorso di tua man s’attende:
+            Che'l maggior padre ad altr’opera intende. Rade uolte aduien, ch'a l'alte imprese
+            d ii 053 Fortuna ingiuriosa non contrasti; Ch’a glianimosi fatti mal s'accorda. Hora
+            sgombrando’l passo, onde tu intrasti, Fa mi si perdonar molt’altre offese: Ch' almen
+            qui da se stessa si discorda: Pero che, quanto'l mondo si ricorda, Ad huom mortal
+            non fu aperta la uia Per farsi, come a te, di fama eterno: Che puoi drizzar, s’i non
+            falso discerno, In stato la piu nobil monarchia. Quanta gloria ti fia Dir, glialtri
+            l’aitar giouene [e] forte: Questi in uecchiezza la scampo da morte. Sopra’l monte
+            Tarpeo canzon uedrai Vn atualier; ch'Italia tutta honora; Pensoso piu d’altrui, che
+            di se stesso. Digli; Vn, che non ti uide anchor dapressa, Senon come per fama huom
+            s’innamora; Diae, che Roma ognihora Con gliocchi di dolor bagnati [e] molli Ti chier
+            merce da tutti sette i colli. Perch’al viso d'amor portaua insegna; Mosse una pellegrina
+            il mio cor uano: Ch’ognialtra mi parea d’honor mien degna: Et lei seguendo su per
+            l’herbe uerdi Vdi dir alta uoce di lontano, Ai quanti passi per la selua perdi. Allhor
+            mi strinsi a l’ombra d’un bel faggio 054 Tutto pensoso; [e] rimirando intorno Vidi
+            assai perigliso il mio uiaggio: Et torna’indietro quasi a mezzo il giorno. Quel foco
+            ch’io pensai che fosse spento Dal freddo tempo, et da l’eta men fresca; Fiamma [e]
+            martir ne l'anima rinfresca. Non fur mai tutte spente a quel, ch’i ueggio: Ma ricoperte
+            alquanto le fauille: Et temo no’l secondo error sia peggio. Per lagrime, ch’io spargo
+            a mille a mille. Conuen che'l duol per gliocchi si distille Dal cor, c’ha secole fauille
+            [e] l'esca, Non pur qual fu; ma pare a me che cresca. Qval foco nonhaurian gia spento
+            [e] morto L’onde, che gliocchi tristi versan sempre? Amoi (auegna mi sia tardi accorto)
+            Vol, che tra duo contrari mi distempre: Et tende lacei in si diuerse tempre; Che,quand’ho
+            piu speranza che’l cor n’esca, Allhor piunel bel uiso mi rinuesca. Se col cieco desir,
+            che’l cor distrugge, Contando l’hore non m’ingann’io stesso; Hora, mentre ch’io parlo,
+            il tempo fugge; Ch’a me fu inseme [e] a merce promesso. Qual ombra è si crudel, che’l
+            seme adhugge, Ch’al desiato frutto era si presso? Et dentro dal mio ouil qual fera
+            rugge? d iii 055 19 Tra la spiga [e] la man qual muro e’meso? Lasso nol so. ma si
+            conosco io bene; Che per far piu dogliosa lo mia uita Amor m’addusse in si gioiosa
+            spene: Et hor di quel, ch io ho letto, mi souene: Che nanzi al di de l’ultima partita
+            Huom beato chiamar non si conuene. Mie uenture al uenir son tarde [e] pigre; La speme
+            incerta; e’l desir monta [e] cresce: Onde’l lassar, e l’aspettar m’incresce: Et poi
+            al partir son piu leui, che tigre. Lasso, le neui fien tepide [e] nigre, E'l mar senz'onda,
+            et per l'alpe ogni pesce; Et corcherassi’l sol la oltre, ond’esce; D'un medesimo fonte
+            Euphrate [e] Tigre, Prima, ch’i troui in cio pace ne tregua; O amor, o Madonna altr’uso
+            impari; Che m'hanno congiurato a torto incontra: Et s'i ho alcun dolce; è dopo tanti
+            amari; Che per disdegno il gusto si dilegua. Altro mai di lor gratie non m’incontra.
+            La guancia, che fu gia piangendo stanca, Riposate sul’un signor mio caro; Et siate
+            homai di uoi stesso piu auaro A quel crudel, che suoi seguaci imbianca: Con l’altro
+            richiudete da man manca La strada a messi suoi, ch’indi passaro. 056 28 Mostrandoui
+            un d’agisto [e] di genaro; Perch’a la lunga uia tempo ne manca: Et col terzo beuete
+            un suco d’herba; Che purghe ogni pensier, che’l cor afflige; Dolce a la fine, [e]
+            nel principio acerba: Me riponete, oue'l piacer si serba, Tal; ch’i non tema del nocchier
+            di stige; Se la preghiera mia non è superba. Perche quel, che mi trasse ad amar prima,
+            Altrui colpa mi toglia; Del mio fermo uoler gia non mi suoglia. Tra le chiome de l’or
+            nascose il laccio, Al qual mi strinse Amore; Et da begliocchi mosse il freddo ghiaccio,
+            Chi mi passo nel core Con la uertu d’un subito splendore, Che dogni altra sua uoglia
+            Sol rimembrando anchor l’anima spoglia. Tolta m’è poi di que biondi capelli Lasso
+            la dolce uista; E'l uolger di duo lumi honesti [e] belli cal suo fuggir m’attrista:
+            Ma perche ben morendo honor s’acqusta; per morte, ne per doglia Non uo, che da tal
+            nodo amor mi scioglia. L'arbor gentil; che forte amai molt’anni, Mentre i bei rami
+            non m’hebber a sdegno; d iiii 057 Fiorir faceua il mio debile ingegno A la sua ombra,
+            [e] crescer ne gli affanni. Poi che, securo me di tali inganni, Fece di dolce se spietato
+            legno; I riuolsi i pensier tutti ad un segno, Che parlan sempre de lor tristi danni.
+            Che pora dir, chi per amor sospira; S’altra speranza le mie rime noue Gli auesser
+            data, [e] per costei la perde? Ne poti[*e]a ne colga mai; ne Gioue La priuilegi; [e]
+            al sol uenga in ira Tal, che si secchi ogni sua foglia uerde. Benedetto sia’l giorno,
+            e’l mese, [e] l'anno. Et la stagione, e’l tempo, e l’hora, e’l punto, El bel paese,
+            e'l loco; ou'io fui gunto Da duo begliocchi, che legato m’hanno: Et benedetto il primo
+            dolce affanno, Ch’i hebbi ad esser con amor congiunto; Et l'arco, [e] le saette, ond’i
+            fui punto; Et le piaghe, che'n fin al cor mi uanno. Benedette le uoci tante, ch’io
+            Chiamando il nome di mia donna ho sparte; E i sospiri, [e] le lagrime, e’l desio:
+            Et benedette sian tutte le charte, Ou’io fama l'acquisto; e'l pensier mio, Ch'è sol
+            di lei si, ch altra non u'ha parte. Padre del ciel dopo i perduti gorni, 058 29 Dopo
+            le notti uaneggiando spese Con quel fero desio, ch’al cor s’acese Mirando gliatti
+            per mio mal si adorni, Piacciati homai, col tuo lume ch’io torni Ad altra uita, [e]
+            è piu belle imprese; Si c’hauendo le reti indarno tese Il mio duro auersario se ne
+            scorni. Hor uolge signor mio l’undecim’anno Ch’i fui sommesso al dispietato giogo,
+            Che sopra i piu soggetii è piu feroce. Miserere del mio non degno affanno: Reduci
+            i pensier uaghi a miglior luogo: Ramenta lor, com’hoggi fosti in croce. Volgendo gliocchi
+            al mio nouo colore, Che fa di morte rimembrar la gente, Pieta ui mosse: onde benignamente
+            Salutando teneste inuita il core. La frale vita, ch’ancor meco alberga, Fu de begliocchi
+            uostri aperto dono, Et de la uoce angelia soaue: Da lor conosco l’esser, ou’io sono:
+            Che come suol pigro animal per uerga; Cosi destaro in me l’anma graue. Del mio cor
+            donna l’una [e] l’altra chiaue Hauete in mano [e] di cio son contento Presto di nauigur
+            a ciascun uento: Ch' ogni cosa da uoi m’e dolce honore. 059 Se uol poteste per turbati
+            segni, Ser chinar gliocchi, o per piegar la testa, O per esser piu d’altra al fuggir
+            presta Torcendo l’uiso a preghi onesti [e] degni, Vscir giamai, ouer per altri ingegni,
+            Del petto, oue dal primo lauro innesta Amor piu rami; i direi ben, che questa Fosse
+            guſta cagione a uostri sdegni: Che gentil pianta in arido terreno Par che si disconuenga;
+            [e] pero lieta Naturalmente quindi si diparte. Ma poi uostro destino a uoi pur uieta
+            L'esser altroue; prouedete al meno Di non star sempre in odiosa parte. Lasso, che
+            mal accorto fui da prima Nel giorno, ch’a ferir mi uenne amore: Ch’a passo a passo
+            e’ poi fatto signore De la mia uita, [e] posto in su la cima. Io non credea per forza
+            di sua lima, Che punto di fermezza o di ualore Mancasse mai ne l’indurato core: Ma
+            cosi va, chi sopra’ l uer s’estima. Da hora inanzi ogni difesa è tarda Altra, che
+            di prouar, s’assai o poco Questi preghi mortali amore sguarda. Non prego gia; ne puote
+            hauer piu loco, Che misuramente il mio cor arda, Ma che sua parte habbia ostei del
+            foco. 
+         </div>
+      </div>
+      <!--TEI back-->
+      <div class="tei_back"></div>
+      <div class="stdfooter autogenerated">
+         <div class="footer">
+            <!--standard links to project, institution etc--><a class="plain" href="/">Home</a> 
+         </div>
+         <address>Francesco Petrarcha. Data: 1521<br/>
+            <!--
+	  Generated from index.xml using XSLT stylesheets version 7.54.0
+	       based on http://www.tei-c.org/Stylesheets/
+	       on 2023-03-10T22:16:19Z.
+	       SAXON HE 9.8.0.15.
+		 --></address>
+      </div>
+   </body>
+</html>
