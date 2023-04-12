@@ -2,7 +2,4 @@ title: Aldus Manutius Digitized and Transcribed
 description: Digitial transcriptions of the Aldine collection held in the Special Collections and Rare Books at Simon Fraser University
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-minima
-remote_theme: pages-themes/minima@v0.2.0
-plugins:
-- jekyll-remote-theme
+theme: minima
