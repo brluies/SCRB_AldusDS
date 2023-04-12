@@ -1,7 +1,9 @@
 var CETEIcean = new CETEI()
 const repo = 'https://raw.githubusercontent.com/joeytakeda/SCRB_AldusDS/main/';
-const TEI = document.querySelector('html').getAttribute('id');
-const URL = repo + TEI + '.xml';
+let href = window.location.href;
+let base = href.replace(/\/$/gi,'');
+let id = base.split('/').pop();
+const URL = repo + id + '.xml';
 CETEIcean.getHTML5(URL, function(data) {
   document.getElementById("content").appendChild(data)
 });
