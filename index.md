@@ -2,4 +2,4 @@
 layout: base
 ---
 
-* [Petrarch](/Petrarch/)
+* [Petrarch](./Petrarch/)
