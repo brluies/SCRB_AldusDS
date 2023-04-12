@@ -1,5 +1,5 @@
 var CETEIcean = new CETEI()
-const repo = 'https://raw.githubusercontent.com/joeytakeda/SCRB_AldusDS/main/';
+const repo = 'https://raw.githubusercontent.com/brluies/SCRB_AldusDS/main/';
 let href = window.location.href;
 let base = href.replace(/\/$/gi,'');
 let id = base.split('/').pop();
