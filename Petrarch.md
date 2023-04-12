@@ -1,8 +1,8 @@
-**Decameron**
+**Petrarcha**
 layout: page
-title: "Decameron"
+title: "Petrarch"
 permalink: /decameron
-Holding file page for Aldus's decameron- a test page
+Holding file page for Petrarch's sonnets- a test page
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="it" lang="it">
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
