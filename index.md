@@ -1,5 +1,5 @@
 ---
 layout: base
 ---
-* [Boccaccio] (./Boccaccio/) 
 * [Petrarch](./Petrarch/)
+* [Boccaccio](./Boccaccio/)
