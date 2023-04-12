@@ -4,4 +4,4 @@ layout: base
 
 * [Petrarch](./Petrarch/)
 * <pb>
-* [Boccaccio] (./Boccaccio)
+* [Boccaccio](./Boccaccio)
