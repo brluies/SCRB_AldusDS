@@ -1,1 +1,4 @@
-Tesst Page for Boccaccio Transcript
+---
+layout: base
+permalink: /Boccaccio/
+---
